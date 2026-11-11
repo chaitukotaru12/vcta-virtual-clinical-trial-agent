@@ -1,0 +1,710 @@
+event_id,participant,adverse_event,source,onset_day,severity,serious,related,action_taken,outcome,duration_days,arm
+AE-0543,VP-0001,AST increased,Protocol: IL-6 class effect,63,Moderate,No,Reasonable possibility,Interrupted,Recovered,4,TJ301 300 mg
+AE-0001,VP-0004,Infusion-related reaction,Protocol: earlier TJ301 studies,56,Mild,No,Reasonable possibility,No change,Recovered,11,TJ301 600 mg
+AE-0053,VP-0004,Headache,Protocol: earlier TJ301 studies,58,Mild,No,No reasonable possibility,No change,Recovered,8,TJ301 600 mg
+AE-0327,VP-0005,Cough,Protocol: earlier TJ301 studies,4,Mild,No,Reasonable possibility,No change,Recovered,4,Placebo
+AE-0328,VP-0005,Cough,Protocol: earlier TJ301 studies,67,Mild,No,No reasonable possibility,No change,Recovered,1,Placebo
+AE-0243,VP-0012,Myalgia,Protocol: earlier TJ301 studies,98,Mild,No,No reasonable possibility,No change,Recovered,3,Placebo
+AE-0405,VP-0013,Thrombocytopenia,Protocol: IL-6 class effect,25,Mild,No,No reasonable possibility,No change,Not recovered,1,TJ301 600 mg
+AE-0329,VP-0015,Cough,Protocol: earlier TJ301 studies,47,Mild,No,No reasonable possibility,No change,Recovered,5,TJ301 600 mg
+AE-0002,VP-0015,Infusion-related reaction,Protocol: earlier TJ301 studies,70,Severe,Yes,Reasonable possibility,Interrupted,Not recovered,4,TJ301 600 mg
+AE-0003,VP-0017,Infusion-related reaction,Protocol: earlier TJ301 studies,56,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0330,VP-0018,Cough,Protocol: earlier TJ301 studies,33,Mild,No,Reasonable possibility,No change,Recovered,7,Placebo
+AE-0597,VP-0019,Ulcerative colitis worsening,Underlying disease,44,Moderate,No,No reasonable possibility,No change,Recovered,2,Placebo
+AE-0413,VP-0021,ALT increased,Protocol: IL-6 class effect,33,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0004,VP-0021,Infusion-related reaction,Protocol: earlier TJ301 studies,42,Moderate,No,Reasonable possibility,No change,Recovered,50,TJ301 300 mg
+AE-0154,VP-0021,Nasopharyngitis,Protocol: earlier TJ301 studies,47,Moderate,No,No reasonable possibility,No change,Not recovered,28,TJ301 300 mg
+AE-0155,VP-0021,Nasopharyngitis,Protocol: earlier TJ301 studies,100,Mild,No,No reasonable possibility,No change,Recovered,3,TJ301 300 mg
+AE-0598,VP-0022,Ulcerative colitis worsening,Underlying disease,17,Severe,Yes,No reasonable possibility,Interrupted,Recovering,33,TJ301 300 mg
+AE-0544,VP-0022,AST increased,Protocol: IL-6 class effect,67,Mild,No,No reasonable possibility,No change,Recovered,3,TJ301 300 mg
+AE-0545,VP-0024,AST increased,Protocol: IL-6 class effect,59,Mild,No,Reasonable possibility,No change,Recovered,4,TJ301 600 mg
+AE-0599,VP-0025,Ulcerative colitis worsening,Underlying disease,50,Mild,No,No reasonable possibility,No change,Recovering,17,Placebo
+AE-0054,VP-0025,Headache,Protocol: earlier TJ301 studies,92,Mild,No,No reasonable possibility,No change,Recovered,1,Placebo
+AE-0055,VP-0027,Headache,Protocol: earlier TJ301 studies,4,Mild,No,Reasonable possibility,No change,Recovered,3,TJ301 600 mg
+AE-0056,VP-0029,Headache,Protocol: earlier TJ301 studies,53,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0465,VP-0031,Total cholesterol increased,Protocol: IL-6 class effect,13,Mild,No,Reasonable possibility,No change,Not recovered,2,TJ301 300 mg
+AE-0466,VP-0031,Total cholesterol increased,Protocol: IL-6 class effect,99,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0600,VP-0035,Ulcerative colitis worsening,Underlying disease,35,Moderate,No,No reasonable possibility,No change,Recovering,6,TJ301 300 mg
+AE-0467,VP-0037,Total cholesterol increased,Protocol: IL-6 class effect,53,Mild,No,Reasonable possibility,No change,Recovered,2,TJ301 600 mg
+AE-0468,VP-0039,Total cholesterol increased,Protocol: IL-6 class effect,94,Mild,No,Reasonable possibility,No change,Recovered,9,TJ301 600 mg
+AE-0244,VP-0040,Myalgia,Protocol: earlier TJ301 studies,26,Mild,No,Reasonable possibility,No change,Recovered,8,Placebo
+AE-0156,VP-0042,Nasopharyngitis,Protocol: earlier TJ301 studies,68,Mild,No,No reasonable possibility,No change,Recovered,3,Placebo
+AE-0601,VP-0044,Ulcerative colitis worsening,Underlying disease,36,Moderate,No,No reasonable possibility,Interrupted,Worse,1,Placebo
+AE-0523,VP-0045,Serious infection,Protocol: IL-6 class effect,51,Severe,Yes,Reasonable possibility,Interrupted,Recovered,65,Placebo
+AE-0157,VP-0045,Nasopharyngitis,Protocol: earlier TJ301 studies,94,Moderate,No,No reasonable possibility,No change,Recovered,1,Placebo
+AE-0331,VP-0046,Cough,Protocol: earlier TJ301 studies,58,Mild,No,Reasonable possibility,No change,Recovered,15,TJ301 600 mg
+AE-0333,VP-0054,Cough,Protocol: earlier TJ301 studies,46,Mild,No,Reasonable possibility,No change,Recovered,2,TJ301 600 mg
+AE-0332,VP-0054,Cough,Protocol: earlier TJ301 studies,57,Mild,No,No reasonable possibility,No change,Not recovered,4,TJ301 600 mg
+AE-0334,VP-0055,Cough,Protocol: earlier TJ301 studies,61,Mild,No,No reasonable possibility,No change,Recovered,5,TJ301 600 mg
+AE-0546,VP-0059,AST increased,Protocol: IL-6 class effect,19,Mild,No,Reasonable possibility,No change,Recovered,10,Placebo
+AE-0469,VP-0059,Total cholesterol increased,Protocol: IL-6 class effect,78,Moderate,No,No reasonable possibility,No change,Recovered,3,Placebo
+AE-0245,VP-0060,Myalgia,Protocol: earlier TJ301 studies,16,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0369,VP-0063,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,32,Mild,No,No reasonable possibility,No change,Recovering,5,TJ301 300 mg
+AE-0280,VP-0063,Diarrhoea,Protocol: earlier TJ301 studies,42,Mild,No,No reasonable possibility,No change,Recovered,10,TJ301 300 mg
+AE-0602,VP-0063,Ulcerative colitis worsening,Underlying disease,96,Mild,No,No reasonable possibility,No change,Not recovered,8,TJ301 300 mg
+AE-0057,VP-0065,Headache,Protocol: earlier TJ301 studies,3,Mild,No,No reasonable possibility,No change,Recovered,30,Placebo
+AE-0281,VP-0065,Diarrhoea,Protocol: earlier TJ301 studies,45,Mild,No,No reasonable possibility,No change,Recovered,1,Placebo
+AE-0370,VP-0074,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,58,Mild,No,Reasonable possibility,No change,Recovered,14,TJ301 300 mg
+AE-0470,VP-0076,Total cholesterol increased,Protocol: IL-6 class effect,41,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0603,VP-0077,Ulcerative colitis worsening,Underlying disease,75,Moderate,No,No reasonable possibility,No change,Recovered,15,Placebo
+AE-0005,VP-0079,Infusion-related reaction,Protocol: earlier TJ301 studies,14,Mild,No,Reasonable possibility,No change,Recovered,24,TJ301 300 mg
+AE-0058,VP-0082,Headache,Protocol: earlier TJ301 studies,74,Moderate,No,No reasonable possibility,No change,Recovered,37,Placebo
+AE-0604,VP-0083,Ulcerative colitis worsening,Underlying disease,52,Mild,No,No reasonable possibility,No change,Recovered,30,Placebo
+AE-0006,VP-0084,Infusion-related reaction,Protocol: earlier TJ301 studies,14,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0335,VP-0086,Cough,Protocol: earlier TJ301 studies,91,Mild,No,No reasonable possibility,No change,Recovered,1,Placebo
+AE-0605,VP-0090,Ulcerative colitis worsening,Underlying disease,30,Moderate,No,No reasonable possibility,Interrupted,Recovered,7,Placebo
+AE-0547,VP-0090,AST increased,Protocol: IL-6 class effect,49,Mild,No,Reasonable possibility,No change,Recovered,1,Placebo
+AE-0606,VP-0093,Ulcerative colitis worsening,Underlying disease,75,Mild,No,No reasonable possibility,No change,Recovered,1,Placebo
+AE-0414,VP-0094,ALT increased,Protocol: IL-6 class effect,54,Moderate,No,Reasonable possibility,No change,Recovered,15,TJ301 300 mg
+AE-0415,VP-0099,ALT increased,Protocol: IL-6 class effect,16,Mild,No,Reasonable possibility,No change,Recovered,17,Placebo
+AE-0416,VP-0100,ALT increased,Protocol: IL-6 class effect,37,Mild,No,Reasonable possibility,No change,Recovered,2,TJ301 600 mg
+AE-0282,VP-0100,Diarrhoea,Protocol: earlier TJ301 studies,70,Mild,No,No reasonable possibility,No change,Recovered,2,TJ301 600 mg
+AE-0548,VP-0101,AST increased,Protocol: IL-6 class effect,74,Mild,No,Reasonable possibility,No change,Recovered,6,TJ301 600 mg
+AE-0158,VP-0104,Nasopharyngitis,Protocol: earlier TJ301 studies,28,Mild,No,No reasonable possibility,Interrupted,Recovered,1,TJ301 300 mg
+AE-0524,VP-0104,Serious infection,Protocol: IL-6 class effect,56,Severe,Yes,No reasonable possibility,No change,Recovered,3,TJ301 300 mg
+AE-0417,VP-0105,ALT increased,Protocol: IL-6 class effect,104,Mild,No,Reasonable possibility,No change,Recovered,5,TJ301 300 mg
+AE-0059,VP-0108,Headache,Protocol: earlier TJ301 studies,69,Mild,No,No reasonable possibility,No change,Recovered,5,Placebo
+AE-0159,VP-0111,Nasopharyngitis,Protocol: earlier TJ301 studies,63,Mild,No,No reasonable possibility,No change,Recovered,4,TJ301 300 mg
+AE-0160,VP-0112,Nasopharyngitis,Protocol: earlier TJ301 studies,46,Moderate,No,No reasonable possibility,Interrupted,Recovered,3,Placebo
+AE-0161,VP-0113,Nasopharyngitis,Protocol: earlier TJ301 studies,8,Mild,No,Reasonable possibility,No change,Recovered,15,TJ301 300 mg
+AE-0607,VP-0114,Ulcerative colitis worsening,Underlying disease,46,Moderate,No,No reasonable possibility,No change,Not recovered,5,Placebo
+AE-0283,VP-0115,Diarrhoea,Protocol: earlier TJ301 studies,32,Mild,No,Reasonable possibility,Interrupted,Recovered,4,TJ301 300 mg
+AE-0007,VP-0115,Infusion-related reaction,Protocol: earlier TJ301 studies,56,Mild,No,Reasonable possibility,No change,Recovered,10,TJ301 300 mg
+AE-0336,VP-0117,Cough,Protocol: earlier TJ301 studies,48,Mild,No,No reasonable possibility,No change,Recovered,11,TJ301 600 mg
+AE-0418,VP-0119,ALT increased,Protocol: IL-6 class effect,51,Moderate,No,No reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0549,VP-0121,AST increased,Protocol: IL-6 class effect,14,Mild,No,Reasonable possibility,No change,Recovered,6,TJ301 300 mg
+AE-0550,VP-0121,AST increased,Protocol: IL-6 class effect,33,Moderate,No,No reasonable possibility,No change,Recovered,4,TJ301 300 mg
+AE-0284,VP-0122,Diarrhoea,Protocol: earlier TJ301 studies,32,Moderate,No,No reasonable possibility,No change,Recovered,8,Placebo
+AE-0285,VP-0122,Diarrhoea,Protocol: earlier TJ301 studies,88,Mild,No,No reasonable possibility,No change,Recovered,1,Placebo
+AE-0551,VP-0123,AST increased,Protocol: IL-6 class effect,74,Mild,No,Reasonable possibility,No change,Not recovered,2,TJ301 300 mg
+AE-0162,VP-0124,Nasopharyngitis,Protocol: earlier TJ301 studies,37,Mild,No,No reasonable possibility,No change,Recovered,3,Placebo
+AE-0008,VP-0125,Infusion-related reaction,Protocol: earlier TJ301 studies,14,Mild,No,Reasonable possibility,No change,Recovered,17,TJ301 300 mg
+AE-0419,VP-0125,ALT increased,Protocol: IL-6 class effect,34,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0608,VP-0127,Ulcerative colitis worsening,Underlying disease,72,Mild,No,No reasonable possibility,No change,Recovered,6,TJ301 600 mg
+AE-0286,VP-0128,Diarrhoea,Protocol: earlier TJ301 studies,34,Mild,No,No reasonable possibility,No change,Recovered,1,Placebo
+AE-0552,VP-0132,AST increased,Protocol: IL-6 class effect,16,Mild,No,No reasonable possibility,No change,Recovered,27,TJ301 300 mg
+AE-0554,VP-0139,AST increased,Protocol: IL-6 class effect,49,Mild,No,Reasonable possibility,No change,Recovered,2,TJ301 600 mg
+AE-0553,VP-0139,AST increased,Protocol: IL-6 class effect,61,Mild,No,No reasonable possibility,No change,Recovering,3,TJ301 600 mg
+AE-0555,VP-0139,AST increased,Protocol: IL-6 class effect,100,Moderate,No,Reasonable possibility,No change,Recovered,10,TJ301 600 mg
+AE-0406,VP-0140,Thrombocytopenia,Protocol: IL-6 class effect,73,Mild,No,Reasonable possibility,No change,Recovered,2,TJ301 300 mg
+AE-0609,VP-0141,Ulcerative colitis worsening,Underlying disease,44,Mild,No,No reasonable possibility,No change,Recovered,1,Placebo
+AE-0471,VP-0142,Total cholesterol increased,Protocol: IL-6 class effect,41,Mild,No,No reasonable possibility,No change,Recovered,5,Placebo
+AE-0371,VP-0143,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,68,Mild,No,Reasonable possibility,No change,Recovered,3,TJ301 600 mg
+AE-0610,VP-0145,Ulcerative colitis worsening,Underlying disease,70,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0337,VP-0146,Cough,Protocol: earlier TJ301 studies,93,Mild,No,Reasonable possibility,No change,Recovered,2,TJ301 600 mg
+AE-0611,VP-0147,Ulcerative colitis worsening,Underlying disease,103,Mild,No,No reasonable possibility,No change,Recovered,13,TJ301 300 mg
+AE-0556,VP-0149,AST increased,Protocol: IL-6 class effect,10,Mild,No,Reasonable possibility,No change,Recovered,2,TJ301 600 mg
+AE-0557,VP-0149,AST increased,Protocol: IL-6 class effect,51,Moderate,No,No reasonable possibility,No change,Recovering,3,TJ301 600 mg
+AE-0287,VP-0149,Diarrhoea,Protocol: earlier TJ301 studies,65,Mild,No,No reasonable possibility,No change,Recovered,3,TJ301 600 mg
+AE-0472,VP-0153,Total cholesterol increased,Protocol: IL-6 class effect,99,Mild,No,Reasonable possibility,No change,Recovered,7,Placebo
+AE-0009,VP-0159,Infusion-related reaction,Protocol: earlier TJ301 studies,28,Mild,No,Reasonable possibility,No change,Recovered,4,TJ301 300 mg
+AE-0010,VP-0159,Infusion-related reaction,Protocol: earlier TJ301 studies,70,Mild,No,Reasonable possibility,No change,Recovered,3,TJ301 300 mg
+AE-0246,VP-0160,Myalgia,Protocol: earlier TJ301 studies,57,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0060,VP-0160,Headache,Protocol: earlier TJ301 studies,103,Mild,No,No reasonable possibility,No change,Recovered,16,TJ301 600 mg
+AE-0163,VP-0162,Nasopharyngitis,Protocol: earlier TJ301 studies,21,Mild,No,No reasonable possibility,No change,Recovering,4,TJ301 600 mg
+AE-0011,VP-0162,Infusion-related reaction,Protocol: earlier TJ301 studies,28,Mild,No,Reasonable possibility,No change,Recovered,5,TJ301 600 mg
+AE-0372,VP-0162,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,34,Mild,No,No reasonable possibility,No change,Recovered,16,TJ301 600 mg
+AE-0613,VP-0163,Ulcerative colitis worsening,Underlying disease,59,Severe,No,No reasonable possibility,No change,Recovering,14,TJ301 600 mg
+AE-0164,VP-0163,Nasopharyngitis,Protocol: earlier TJ301 studies,91,Mild,No,No reasonable possibility,No change,Recovered,4,TJ301 600 mg
+AE-0612,VP-0163,Ulcerative colitis worsening,Underlying disease,101,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0525,VP-0164,Serious infection,Protocol: IL-6 class effect,100,Severe,Yes,No reasonable possibility,No change,Recovered with sequelae,107,TJ301 600 mg
+AE-0614,VP-0165,Ulcerative colitis worsening,Underlying disease,28,Severe,No,No reasonable possibility,Withdrawn,Not recovered,13,TJ301 300 mg
+AE-0165,VP-0165,Nasopharyngitis,Protocol: earlier TJ301 studies,76,Mild,No,No reasonable possibility,No change,Recovered,11,TJ301 300 mg
+AE-0012,VP-0167,Infusion-related reaction,Protocol: earlier TJ301 studies,56,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0558,VP-0167,AST increased,Protocol: IL-6 class effect,60,Mild,No,No reasonable possibility,No change,Recovered,8,TJ301 600 mg
+AE-0420,VP-0167,ALT increased,Protocol: IL-6 class effect,94,Mild,No,Reasonable possibility,No change,Recovered,7,TJ301 600 mg
+AE-0338,VP-0168,Cough,Protocol: earlier TJ301 studies,93,Mild,No,No reasonable possibility,No change,Recovered,2,TJ301 600 mg
+AE-0421,VP-0170,ALT increased,Protocol: IL-6 class effect,19,Mild,No,No reasonable possibility,No change,Recovered,1,Placebo
+AE-0013,VP-0171,Infusion-related reaction,Protocol: earlier TJ301 studies,70,Mild,No,Reasonable possibility,No change,Recovered,6,TJ301 300 mg
+AE-0166,VP-0174,Nasopharyngitis,Protocol: earlier TJ301 studies,6,Mild,No,No reasonable possibility,No change,Recovered,9,Placebo
+AE-0559,VP-0176,AST increased,Protocol: IL-6 class effect,25,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0014,VP-0176,Infusion-related reaction,Protocol: earlier TJ301 studies,56,Mild,No,Reasonable possibility,No change,Recovered,7,TJ301 600 mg
+AE-0061,VP-0178,Headache,Protocol: earlier TJ301 studies,105,Moderate,No,No reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0616,VP-0180,Ulcerative colitis worsening,Underlying disease,43,Moderate,No,No reasonable possibility,Interrupted,Recovered,3,TJ301 600 mg
+AE-0615,VP-0180,Ulcerative colitis worsening,Underlying disease,60,Mild,No,Reasonable possibility,No change,Recovered,15,TJ301 600 mg
+AE-0373,VP-0183,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,28,Mild,No,No reasonable possibility,No change,Recovered,2,TJ301 600 mg
+AE-0473,VP-0185,Total cholesterol increased,Protocol: IL-6 class effect,62,Mild,No,Reasonable possibility,No change,Recovered,2,TJ301 300 mg
+AE-0526,VP-0188,Serious infection,Protocol: IL-6 class effect,82,Severe,Yes,Reasonable possibility,No change,Recovered,23,TJ301 600 mg
+AE-0527,VP-0188,Serious infection,Protocol: IL-6 class effect,92,Severe,Yes,Reasonable possibility,No change,Recovered,50,TJ301 600 mg
+AE-0062,VP-0192,Headache,Protocol: earlier TJ301 studies,81,Moderate,No,No reasonable possibility,No change,Recovered,10,TJ301 300 mg
+AE-0339,VP-0194,Cough,Protocol: earlier TJ301 studies,4,Mild,No,No reasonable possibility,No change,Recovered,2,TJ301 300 mg
+AE-0167,VP-0197,Nasopharyngitis,Protocol: earlier TJ301 studies,91,Mild,No,No reasonable possibility,No change,Recovered,8,Placebo
+AE-0560,VP-0198,AST increased,Protocol: IL-6 class effect,82,Mild,No,Reasonable possibility,No change,Recovered,4,TJ301 600 mg
+AE-0617,VP-0200,Ulcerative colitis worsening,Underlying disease,98,Moderate,No,No reasonable possibility,No change,Not recovered,31,Placebo
+AE-0528,VP-0201,Serious infection,Protocol: IL-6 class effect,25,Moderate,Yes,Reasonable possibility,No change,Recovered,7,TJ301 600 mg
+AE-0474,VP-0202,Total cholesterol increased,Protocol: IL-6 class effect,15,Mild,No,No reasonable possibility,No change,Recovered,2,Placebo
+AE-0475,VP-0202,Total cholesterol increased,Protocol: IL-6 class effect,78,Mild,No,Reasonable possibility,No change,Recovering,3,Placebo
+AE-0015,VP-0203,Infusion-related reaction,Protocol: earlier TJ301 studies,28,Mild,Yes,Reasonable possibility,No change,Recovered,8,Placebo
+AE-0618,VP-0203,Ulcerative colitis worsening,Underlying disease,61,Mild,Yes,No reasonable possibility,No change,Recovered,22,Placebo
+AE-0561,VP-0204,AST increased,Protocol: IL-6 class effect,105,Mild,No,Reasonable possibility,No change,Recovered,5,TJ301 300 mg
+AE-0288,VP-0207,Diarrhoea,Protocol: earlier TJ301 studies,65,Moderate,Yes,Reasonable possibility,No change,Recovered,3,TJ301 600 mg
+AE-0016,VP-0209,Infusion-related reaction,Protocol: earlier TJ301 studies,70,Mild,No,Reasonable possibility,No change,Recovered,6,Placebo
+AE-0289,VP-0210,Diarrhoea,Protocol: earlier TJ301 studies,57,Mild,No,No reasonable possibility,No change,Recovered,4,TJ301 600 mg
+AE-0247,VP-0210,Myalgia,Protocol: earlier TJ301 studies,70,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0291,VP-0212,Diarrhoea,Protocol: earlier TJ301 studies,82,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0290,VP-0212,Diarrhoea,Protocol: earlier TJ301 studies,102,Mild,No,Reasonable possibility,No change,Recovered,5,TJ301 300 mg
+AE-0248,VP-0213,Myalgia,Protocol: earlier TJ301 studies,59,Moderate,No,No reasonable possibility,No change,Recovered,12,TJ301 600 mg
+AE-0562,VP-0214,AST increased,Protocol: IL-6 class effect,41,Mild,No,Reasonable possibility,No change,Recovered,2,TJ301 600 mg
+AE-0374,VP-0215,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,29,Mild,No,Reasonable possibility,No change,Recovered,5,TJ301 300 mg
+AE-0063,VP-0216,Headache,Protocol: earlier TJ301 studies,11,Moderate,No,No reasonable possibility,No change,Recovered,2,Placebo
+AE-0064,VP-0219,Headache,Protocol: earlier TJ301 studies,53,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0563,VP-0220,AST increased,Protocol: IL-6 class effect,58,Mild,No,No reasonable possibility,No change,Recovered,2,TJ301 600 mg
+AE-0168,VP-0221,Nasopharyngitis,Protocol: earlier TJ301 studies,22,Mild,No,Reasonable possibility,No change,Recovered,4,Placebo
+AE-0065,VP-0221,Headache,Protocol: earlier TJ301 studies,52,Mild,No,Reasonable possibility,No change,Recovered,4,Placebo
+AE-0066,VP-0223,Headache,Protocol: earlier TJ301 studies,104,Mild,No,No reasonable possibility,No change,Recovered,1,Placebo
+AE-0068,VP-0224,Headache,Protocol: earlier TJ301 studies,23,Moderate,No,No reasonable possibility,No change,Recovered,10,TJ301 300 mg
+AE-0067,VP-0224,Headache,Protocol: earlier TJ301 studies,35,Moderate,No,No reasonable possibility,No change,Recovered,5,TJ301 300 mg
+AE-0292,VP-0224,Diarrhoea,Protocol: earlier TJ301 studies,35,Mild,No,No reasonable possibility,No change,Recovered,6,TJ301 300 mg
+AE-0422,VP-0225,ALT increased,Protocol: IL-6 class effect,62,Mild,No,No reasonable possibility,No change,Recovered,2,TJ301 600 mg
+AE-0169,VP-0226,Nasopharyngitis,Protocol: earlier TJ301 studies,89,Mild,No,No reasonable possibility,No change,Recovered,9,TJ301 300 mg
+AE-0293,VP-0228,Diarrhoea,Protocol: earlier TJ301 studies,82,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0619,VP-0229,Ulcerative colitis worsening,Underlying disease,28,Moderate,No,No reasonable possibility,No change,Recovered,14,Placebo
+AE-0069,VP-0229,Headache,Protocol: earlier TJ301 studies,45,Mild,No,Reasonable possibility,No change,Recovered,1,Placebo
+AE-0170,VP-0230,Nasopharyngitis,Protocol: earlier TJ301 studies,15,Moderate,No,No reasonable possibility,No change,Recovered,10,TJ301 300 mg
+AE-0407,VP-0231,Thrombocytopenia,Protocol: IL-6 class effect,26,Moderate,No,Reasonable possibility,Interrupted,Recovered,1,TJ301 300 mg
+AE-0171,VP-0233,Nasopharyngitis,Protocol: earlier TJ301 studies,101,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0249,VP-0234,Myalgia,Protocol: earlier TJ301 studies,30,Moderate,No,Reasonable possibility,No change,Recovered,3,TJ301 600 mg
+AE-0250,VP-0235,Myalgia,Protocol: earlier TJ301 studies,13,Mild,No,Reasonable possibility,No change,Recovered,6,TJ301 600 mg
+AE-0620,VP-0237,Ulcerative colitis worsening,Underlying disease,7,Severe,No,No reasonable possibility,No change,Recovering,4,Placebo
+AE-0375,VP-0238,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,46,Mild,No,Reasonable possibility,No change,Recovered,2,TJ301 300 mg
+AE-0622,VP-0239,Ulcerative colitis worsening,Underlying disease,76,Mild,No,No reasonable possibility,No change,Recovered,4,Placebo
+AE-0621,VP-0239,Ulcerative colitis worsening,Underlying disease,104,Moderate,No,No reasonable possibility,No change,Recovered,5,Placebo
+AE-0623,VP-0240,Ulcerative colitis worsening,Underlying disease,96,Moderate,Yes,No reasonable possibility,No change,Recovered,4,TJ301 600 mg
+AE-0017,VP-0243,Infusion-related reaction,Protocol: earlier TJ301 studies,0,Mild,No,Reasonable possibility,No change,Recovered,2,TJ301 300 mg
+AE-0624,VP-0244,Ulcerative colitis worsening,Underlying disease,15,Moderate,No,No reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0070,VP-0244,Headache,Protocol: earlier TJ301 studies,29,Mild,No,Reasonable possibility,No change,Recovered,2,TJ301 300 mg
+AE-0476,VP-0245,Total cholesterol increased,Protocol: IL-6 class effect,105,Mild,No,Reasonable possibility,No change,Recovered,7,TJ301 600 mg
+AE-0625,VP-0246,Ulcerative colitis worsening,Underlying disease,74,Moderate,No,No reasonable possibility,No change,Recovered,34,Placebo
+AE-0477,VP-0247,Total cholesterol increased,Protocol: IL-6 class effect,57,Mild,No,No reasonable possibility,No change,Recovered,4,TJ301 600 mg
+AE-0018,VP-0248,Infusion-related reaction,Protocol: earlier TJ301 studies,28,Mild,No,Reasonable possibility,No change,Recovered,1,Placebo
+AE-0340,VP-0248,Cough,Protocol: earlier TJ301 studies,44,Mild,No,No reasonable possibility,No change,Recovering,6,Placebo
+AE-0172,VP-0249,Nasopharyngitis,Protocol: earlier TJ301 studies,54,Moderate,No,No reasonable possibility,Interrupted,Recovered,5,TJ301 600 mg
+AE-0071,VP-0251,Headache,Protocol: earlier TJ301 studies,24,Moderate,No,Reasonable possibility,No change,Recovered,4,TJ301 300 mg
+AE-0251,VP-0254,Myalgia,Protocol: earlier TJ301 studies,55,Mild,No,Reasonable possibility,No change,Recovering,6,TJ301 300 mg
+AE-0019,VP-0257,Infusion-related reaction,Protocol: earlier TJ301 studies,56,Mild,No,Reasonable possibility,No change,Recovered,11,TJ301 300 mg
+AE-0072,VP-0258,Headache,Protocol: earlier TJ301 studies,2,Mild,No,No reasonable possibility,No change,Not recovered,2,TJ301 300 mg
+AE-0073,VP-0260,Headache,Protocol: earlier TJ301 studies,70,Mild,No,No reasonable possibility,No change,Recovered,9,TJ301 600 mg
+AE-0173,VP-0264,Nasopharyngitis,Protocol: earlier TJ301 studies,75,Moderate,No,No reasonable possibility,No change,Recovered,8,TJ301 600 mg
+AE-0174,VP-0265,Nasopharyngitis,Protocol: earlier TJ301 studies,20,Mild,No,No reasonable possibility,No change,Recovered,15,TJ301 300 mg
+AE-0341,VP-0268,Cough,Protocol: earlier TJ301 studies,43,Mild,No,No reasonable possibility,No change,Recovering,2,Placebo
+AE-0478,VP-0269,Total cholesterol increased,Protocol: IL-6 class effect,57,Mild,No,Reasonable possibility,No change,Recovered,16,TJ301 600 mg
+AE-0626,VP-0270,Ulcerative colitis worsening,Underlying disease,35,Mild,No,No reasonable possibility,No change,Recovered,8,Placebo
+AE-0175,VP-0271,Nasopharyngitis,Protocol: earlier TJ301 studies,19,Mild,No,No reasonable possibility,No change,Recovered,5,Placebo
+AE-0074,VP-0271,Headache,Protocol: earlier TJ301 studies,34,Moderate,No,No reasonable possibility,Withdrawn,Recovered,4,Placebo
+AE-0564,VP-0272,AST increased,Protocol: IL-6 class effect,26,Mild,No,Reasonable possibility,No change,Recovered,7,Placebo
+AE-0627,VP-0272,Ulcerative colitis worsening,Underlying disease,87,Mild,No,No reasonable possibility,No change,Recovered,3,Placebo
+AE-0176,VP-0276,Nasopharyngitis,Protocol: earlier TJ301 studies,24,Mild,No,No reasonable possibility,No change,Recovered,5,TJ301 300 mg
+AE-0628,VP-0276,Ulcerative colitis worsening,Underlying disease,25,Moderate,No,No reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0565,VP-0278,AST increased,Protocol: IL-6 class effect,96,Mild,No,Reasonable possibility,No change,Recovered,4,TJ301 300 mg
+AE-0342,VP-0280,Cough,Protocol: earlier TJ301 studies,60,Mild,No,No reasonable possibility,No change,Recovered,10,Placebo
+AE-0631,VP-0282,Ulcerative colitis worsening,Underlying disease,22,Severe,No,No reasonable possibility,No change,Recovered,9,TJ301 300 mg
+AE-0629,VP-0282,Ulcerative colitis worsening,Underlying disease,25,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0630,VP-0282,Ulcerative colitis worsening,Underlying disease,75,Severe,No,No reasonable possibility,No change,Recovered,40,TJ301 300 mg
+AE-0632,VP-0285,Ulcerative colitis worsening,Underlying disease,103,Moderate,Yes,No reasonable possibility,No change,Recovered,3,Placebo
+AE-0075,VP-0287,Headache,Protocol: earlier TJ301 studies,24,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0344,VP-0287,Cough,Protocol: earlier TJ301 studies,39,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0343,VP-0287,Cough,Protocol: earlier TJ301 studies,65,Mild,No,No reasonable possibility,No change,Recovered,5,TJ301 600 mg
+AE-0294,VP-0287,Diarrhoea,Protocol: earlier TJ301 studies,102,Moderate,No,No reasonable possibility,No change,Recovered,27,TJ301 600 mg
+AE-0346,VP-0291,Cough,Protocol: earlier TJ301 studies,14,Moderate,No,Reasonable possibility,Interrupted,Recovered,9,TJ301 600 mg
+AE-0345,VP-0291,Cough,Protocol: earlier TJ301 studies,20,Mild,No,No reasonable possibility,No change,Recovered,6,TJ301 600 mg
+AE-0177,VP-0292,Nasopharyngitis,Protocol: earlier TJ301 studies,68,Moderate,No,No reasonable possibility,Interrupted,Recovered,18,Placebo
+AE-0178,VP-0292,Nasopharyngitis,Protocol: earlier TJ301 studies,75,Mild,No,No reasonable possibility,No change,Recovered,3,Placebo
+AE-0633,VP-0294,Ulcerative colitis worsening,Underlying disease,14,Severe,Yes,No reasonable possibility,Withdrawn,Recovered,5,Placebo
+AE-0020,VP-0294,Infusion-related reaction,Protocol: earlier TJ301 studies,28,Mild,No,No reasonable possibility,No change,Recovered,9,Placebo
+AE-0295,VP-0297,Diarrhoea,Protocol: earlier TJ301 studies,86,Mild,Yes,No reasonable possibility,No change,Not recovered,1,TJ301 300 mg
+AE-0179,VP-0298,Nasopharyngitis,Protocol: earlier TJ301 studies,30,Mild,No,No reasonable possibility,No change,Recovered,13,Placebo
+AE-0296,VP-0299,Diarrhoea,Protocol: earlier TJ301 studies,71,Moderate,No,No reasonable possibility,No change,Recovered,6,Placebo
+AE-0347,VP-0302,Cough,Protocol: earlier TJ301 studies,14,Moderate,No,No reasonable possibility,No change,Recovered,2,TJ301 300 mg
+AE-0567,VP-0302,AST increased,Protocol: IL-6 class effect,14,Mild,No,Reasonable possibility,No change,Recovered,14,TJ301 300 mg
+AE-0180,VP-0302,Nasopharyngitis,Protocol: earlier TJ301 studies,45,Moderate,No,No reasonable possibility,No change,Not recovered,3,TJ301 300 mg
+AE-0566,VP-0302,AST increased,Protocol: IL-6 class effect,79,Mild,No,Reasonable possibility,No change,Recovered,5,TJ301 300 mg
+AE-0297,VP-0304,Diarrhoea,Protocol: earlier TJ301 studies,40,Mild,No,No reasonable possibility,No change,Recovered,7,TJ301 600 mg
+AE-0423,VP-0306,ALT increased,Protocol: IL-6 class effect,3,Mild,No,Reasonable possibility,No change,Recovered,19,TJ301 600 mg
+AE-0076,VP-0306,Headache,Protocol: earlier TJ301 studies,66,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0181,VP-0309,Nasopharyngitis,Protocol: earlier TJ301 studies,36,Mild,No,No reasonable possibility,No change,Recovered,7,TJ301 600 mg
+AE-0298,VP-0310,Diarrhoea,Protocol: earlier TJ301 studies,72,Mild,No,No reasonable possibility,No change,Recovered,6,TJ301 600 mg
+AE-0568,VP-0310,AST increased,Protocol: IL-6 class effect,88,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0182,VP-0311,Nasopharyngitis,Protocol: earlier TJ301 studies,75,Mild,No,No reasonable possibility,No change,Recovered,2,TJ301 600 mg
+AE-0078,VP-0315,Headache,Protocol: earlier TJ301 studies,7,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0077,VP-0315,Headache,Protocol: earlier TJ301 studies,95,Mild,No,Reasonable possibility,No change,Recovered,6,TJ301 300 mg
+AE-0424,VP-0316,ALT increased,Protocol: IL-6 class effect,25,Mild,No,Reasonable possibility,No change,Recovered,9,TJ301 600 mg
+AE-0348,VP-0318,Cough,Protocol: earlier TJ301 studies,22,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0252,VP-0320,Myalgia,Protocol: earlier TJ301 studies,66,Moderate,No,No reasonable possibility,No change,Not recovered,3,Placebo
+AE-0079,VP-0322,Headache,Protocol: earlier TJ301 studies,18,Mild,No,No reasonable possibility,No change,Recovered,7,TJ301 600 mg
+AE-0183,VP-0322,Nasopharyngitis,Protocol: earlier TJ301 studies,81,Mild,No,No reasonable possibility,No change,Recovered,2,TJ301 600 mg
+AE-0184,VP-0322,Nasopharyngitis,Protocol: earlier TJ301 studies,92,Mild,No,No reasonable possibility,No change,Recovered,14,TJ301 600 mg
+AE-0634,VP-0325,Ulcerative colitis worsening,Underlying disease,20,Severe,Yes,No reasonable possibility,Withdrawn,Recovering,62,TJ301 300 mg
+AE-0376,VP-0325,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,45,Moderate,No,Reasonable possibility,Interrupted,Recovered,1,TJ301 300 mg
+AE-0635,VP-0330,Ulcerative colitis worsening,Underlying disease,58,Mild,No,No reasonable possibility,No change,Recovered,10,TJ301 600 mg
+AE-0636,VP-0331,Ulcerative colitis worsening,Underlying disease,7,Severe,No,No reasonable possibility,Interrupted,Recovering,20,TJ301 600 mg
+AE-0300,VP-0332,Diarrhoea,Protocol: earlier TJ301 studies,61,Mild,No,No reasonable possibility,Interrupted,Recovered,4,TJ301 300 mg
+AE-0299,VP-0332,Diarrhoea,Protocol: earlier TJ301 studies,83,Moderate,No,No reasonable possibility,No change,Not recovered,11,TJ301 300 mg
+AE-0377,VP-0334,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,93,Mild,No,Reasonable possibility,No change,Recovered,2,TJ301 600 mg
+AE-0185,VP-0337,Nasopharyngitis,Protocol: earlier TJ301 studies,40,Moderate,No,No reasonable possibility,No change,Recovered,12,TJ301 600 mg
+AE-0479,VP-0339,Total cholesterol increased,Protocol: IL-6 class effect,68,Mild,No,No reasonable possibility,No change,Recovered,5,TJ301 600 mg
+AE-0186,VP-0339,Nasopharyngitis,Protocol: earlier TJ301 studies,90,Mild,No,Reasonable possibility,No change,Not recovered,1,TJ301 600 mg
+AE-0569,VP-0340,AST increased,Protocol: IL-6 class effect,77,Mild,No,Reasonable possibility,No change,Recovered,2,Placebo
+AE-0187,VP-0341,Nasopharyngitis,Protocol: earlier TJ301 studies,101,Mild,No,No reasonable possibility,No change,Recovered,1,Placebo
+AE-0425,VP-0345,ALT increased,Protocol: IL-6 class effect,93,Mild,No,No reasonable possibility,No change,Recovered,3,TJ301 300 mg
+AE-0426,VP-0347,ALT increased,Protocol: IL-6 class effect,79,Severe,No,Reasonable possibility,No change,Not recovered,18,Placebo
+AE-0021,VP-0348,Infusion-related reaction,Protocol: earlier TJ301 studies,0,Mild,No,Reasonable possibility,No change,Not recovered,13,Placebo
+AE-0378,VP-0353,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,9,Mild,No,Reasonable possibility,No change,Recovered,7,TJ301 300 mg
+AE-0637,VP-0355,Ulcerative colitis worsening,Underlying disease,48,Moderate,No,No reasonable possibility,Withdrawn,Recovered,14,TJ301 300 mg
+AE-0427,VP-0358,ALT increased,Protocol: IL-6 class effect,72,Mild,No,No reasonable possibility,No change,Recovered,3,TJ301 600 mg
+AE-0188,VP-0359,Nasopharyngitis,Protocol: earlier TJ301 studies,104,Mild,No,Reasonable possibility,No change,Not recovered,2,Placebo
+AE-0301,VP-0360,Diarrhoea,Protocol: earlier TJ301 studies,30,Mild,Yes,No reasonable possibility,No change,Not recovered,2,Placebo
+AE-0639,VP-0361,Ulcerative colitis worsening,Underlying disease,7,Mild,No,No reasonable possibility,No change,Recovered,10,Placebo
+AE-0638,VP-0361,Ulcerative colitis worsening,Underlying disease,71,Moderate,Yes,No reasonable possibility,No change,Recovered,6,Placebo
+AE-0640,VP-0363,Ulcerative colitis worsening,Underlying disease,79,Moderate,Yes,No reasonable possibility,No change,Worse,17,TJ301 600 mg
+AE-0480,VP-0365,Total cholesterol increased,Protocol: IL-6 class effect,11,Mild,No,No reasonable possibility,No change,Not recovered,1,TJ301 600 mg
+AE-0081,VP-0371,Headache,Protocol: earlier TJ301 studies,45,Mild,No,No reasonable possibility,No change,Recovered,5,TJ301 300 mg
+AE-0641,VP-0371,Ulcerative colitis worsening,Underlying disease,68,Mild,No,No reasonable possibility,No change,Recovered,4,TJ301 300 mg
+AE-0080,VP-0371,Headache,Protocol: earlier TJ301 studies,99,Moderate,No,No reasonable possibility,No change,Recovered,29,TJ301 300 mg
+AE-0481,VP-0372,Total cholesterol increased,Protocol: IL-6 class effect,29,Mild,No,Reasonable possibility,No change,Recovered,5,TJ301 300 mg
+AE-0642,VP-0372,Ulcerative colitis worsening,Underlying disease,98,Mild,No,No reasonable possibility,No change,Recovered,3,TJ301 300 mg
+AE-0253,VP-0373,Myalgia,Protocol: earlier TJ301 studies,82,Moderate,No,Reasonable possibility,No change,Recovering,13,Placebo
+AE-0189,VP-0373,Nasopharyngitis,Protocol: earlier TJ301 studies,103,Mild,No,No reasonable possibility,No change,Recovered,4,Placebo
+AE-0483,VP-0375,Total cholesterol increased,Protocol: IL-6 class effect,80,Mild,No,Reasonable possibility,No change,Recovered,14,Placebo
+AE-0482,VP-0375,Total cholesterol increased,Protocol: IL-6 class effect,100,Mild,No,Reasonable possibility,No change,Recovered,3,Placebo
+AE-0643,VP-0376,Ulcerative colitis worsening,Underlying disease,19,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0082,VP-0377,Headache,Protocol: earlier TJ301 studies,30,Mild,No,No reasonable possibility,No change,Recovered,4,TJ301 300 mg
+AE-0428,VP-0377,ALT increased,Protocol: IL-6 class effect,96,Mild,No,Reasonable possibility,No change,Not recovered,13,TJ301 300 mg
+AE-0644,VP-0378,Ulcerative colitis worsening,Underlying disease,4,Moderate,Yes,No reasonable possibility,No change,Recovered,2,Placebo
+AE-0083,VP-0380,Headache,Protocol: earlier TJ301 studies,79,Severe,Yes,No reasonable possibility,No change,Recovering,24,TJ301 600 mg
+AE-0190,VP-0381,Nasopharyngitis,Protocol: earlier TJ301 studies,25,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0302,VP-0383,Diarrhoea,Protocol: earlier TJ301 studies,102,Moderate,No,Reasonable possibility,No change,Recovering,4,TJ301 600 mg
+AE-0084,VP-0384,Headache,Protocol: earlier TJ301 studies,52,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0570,VP-0384,AST increased,Protocol: IL-6 class effect,64,Mild,No,Reasonable possibility,No change,Recovered,5,TJ301 300 mg
+AE-0085,VP-0387,Headache,Protocol: earlier TJ301 studies,89,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0484,VP-0389,Total cholesterol increased,Protocol: IL-6 class effect,54,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0022,VP-0391,Infusion-related reaction,Protocol: earlier TJ301 studies,14,Mild,No,Reasonable possibility,No change,Recovered,9,TJ301 300 mg
+AE-0645,VP-0393,Ulcerative colitis worsening,Underlying disease,88,Mild,No,No reasonable possibility,No change,Recovered,12,TJ301 300 mg
+AE-0646,VP-0396,Ulcerative colitis worsening,Underlying disease,48,Severe,Yes,No reasonable possibility,Withdrawn,Recovered,13,Placebo
+AE-0647,VP-0400,Ulcerative colitis worsening,Underlying disease,31,Moderate,Yes,No reasonable possibility,No change,Recovered,12,Placebo
+AE-0379,VP-0403,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,49,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0381,VP-0404,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,40,Mild,No,Reasonable possibility,No change,Recovered,3,TJ301 300 mg
+AE-0380,VP-0404,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,71,Mild,No,Reasonable possibility,No change,Recovered,6,TJ301 300 mg
+AE-0191,VP-0405,Nasopharyngitis,Protocol: earlier TJ301 studies,66,Severe,No,No reasonable possibility,No change,Recovered,30,Placebo
+AE-0086,VP-0407,Headache,Protocol: earlier TJ301 studies,67,Mild,No,No reasonable possibility,No change,Recovered,2,Placebo
+AE-0087,VP-0408,Headache,Protocol: earlier TJ301 studies,11,Moderate,No,No reasonable possibility,No change,Recovered,16,Placebo
+AE-0088,VP-0408,Headache,Protocol: earlier TJ301 studies,22,Moderate,No,No reasonable possibility,No change,Recovered,1,Placebo
+AE-0648,VP-0409,Ulcerative colitis worsening,Underlying disease,48,Mild,No,No reasonable possibility,No change,Recovered,5,TJ301 600 mg
+AE-0023,VP-0410,Infusion-related reaction,Protocol: earlier TJ301 studies,14,Mild,No,Reasonable possibility,No change,Recovered,1,Placebo
+AE-0089,VP-0410,Headache,Protocol: earlier TJ301 studies,15,Mild,No,Reasonable possibility,No change,Recovered,2,Placebo
+AE-0090,VP-0410,Headache,Protocol: earlier TJ301 studies,34,Mild,No,No reasonable possibility,No change,Recovered,6,Placebo
+AE-0529,VP-0411,Serious infection,Protocol: IL-6 class effect,14,Moderate,Yes,No reasonable possibility,No change,Recovered,5,TJ301 600 mg
+AE-0429,VP-0413,ALT increased,Protocol: IL-6 class effect,96,Mild,No,Reasonable possibility,No change,Recovered,3,Placebo
+AE-0649,VP-0414,Ulcerative colitis worsening,Underlying disease,41,Mild,No,No reasonable possibility,No change,Recovered,5,Placebo
+AE-0192,VP-0414,Nasopharyngitis,Protocol: earlier TJ301 studies,64,Mild,No,Reasonable possibility,No change,Recovered,3,Placebo
+AE-0091,VP-0417,Headache,Protocol: earlier TJ301 studies,4,Mild,No,Reasonable possibility,No change,Recovered,1,Placebo
+AE-0254,VP-0417,Myalgia,Protocol: earlier TJ301 studies,5,Mild,No,No reasonable possibility,No change,Recovered,4,Placebo
+AE-0193,VP-0420,Nasopharyngitis,Protocol: earlier TJ301 studies,16,Moderate,No,No reasonable possibility,Interrupted,Recovered,1,TJ301 300 mg
+AE-0650,VP-0421,Ulcerative colitis worsening,Underlying disease,104,Moderate,No,No reasonable possibility,No change,Recovered,25,Placebo
+AE-0349,VP-0423,Cough,Protocol: earlier TJ301 studies,31,Mild,No,No reasonable possibility,No change,Recovered,2,TJ301 600 mg
+AE-0194,VP-0423,Nasopharyngitis,Protocol: earlier TJ301 studies,52,Moderate,No,No reasonable possibility,No change,Recovering,32,TJ301 600 mg
+AE-0092,VP-0424,Headache,Protocol: earlier TJ301 studies,30,Mild,No,No reasonable possibility,No change,Recovering,11,TJ301 300 mg
+AE-0382,VP-0424,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,62,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0093,VP-0428,Headache,Protocol: earlier TJ301 studies,6,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0651,VP-0430,Ulcerative colitis worsening,Underlying disease,103,Severe,No,No reasonable possibility,No change,Recovered,29,Placebo
+AE-0195,VP-0432,Nasopharyngitis,Protocol: earlier TJ301 studies,18,Mild,No,Reasonable possibility,No change,Recovered,14,TJ301 600 mg
+AE-0197,VP-0432,Nasopharyngitis,Protocol: earlier TJ301 studies,83,Mild,No,No reasonable possibility,No change,Recovered,15,TJ301 600 mg
+AE-0196,VP-0432,Nasopharyngitis,Protocol: earlier TJ301 studies,101,Mild,No,No reasonable possibility,No change,Recovered,8,TJ301 600 mg
+AE-0198,VP-0433,Nasopharyngitis,Protocol: earlier TJ301 studies,4,Mild,No,No reasonable possibility,No change,Recovered,2,TJ301 600 mg
+AE-0652,VP-0433,Ulcerative colitis worsening,Underlying disease,9,Mild,Yes,No reasonable possibility,No change,Recovered,2,TJ301 600 mg
+AE-0024,VP-0433,Infusion-related reaction,Protocol: earlier TJ301 studies,14,Moderate,No,Reasonable possibility,No change,Not recovered,3,TJ301 600 mg
+AE-0530,VP-0433,Serious infection,Protocol: IL-6 class effect,83,Severe,Yes,No reasonable possibility,No change,Recovering,38,TJ301 600 mg
+AE-0653,VP-0440,Ulcerative colitis worsening,Underlying disease,29,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0655,VP-0442,Ulcerative colitis worsening,Underlying disease,7,Mild,No,No reasonable possibility,No change,Recovered,1,Placebo
+AE-0654,VP-0442,Ulcerative colitis worsening,Underlying disease,87,Moderate,No,No reasonable possibility,No change,Recovered,11,Placebo
+AE-0571,VP-0444,AST increased,Protocol: IL-6 class effect,10,Mild,No,Reasonable possibility,No change,Recovering,2,TJ301 300 mg
+AE-0656,VP-0445,Ulcerative colitis worsening,Underlying disease,46,Mild,No,No reasonable possibility,No change,Recovered,1,Placebo
+AE-0199,VP-0446,Nasopharyngitis,Protocol: earlier TJ301 studies,60,Mild,No,No reasonable possibility,No change,Recovered,15,TJ301 600 mg
+AE-0531,VP-0447,Serious infection,Protocol: IL-6 class effect,91,Severe,Yes,No reasonable possibility,No change,Not recovered,44,TJ301 300 mg
+AE-0094,VP-0448,Headache,Protocol: earlier TJ301 studies,52,Mild,No,Reasonable possibility,No change,Recovered,3,TJ301 600 mg
+AE-0383,VP-0450,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,18,Moderate,No,No reasonable possibility,No change,Recovered,9,TJ301 600 mg
+AE-0532,VP-0451,Serious infection,Protocol: IL-6 class effect,12,Severe,Yes,Reasonable possibility,Withdrawn,Recovered,58,TJ301 600 mg
+AE-0350,VP-0453,Cough,Protocol: earlier TJ301 studies,7,Mild,No,Reasonable possibility,No change,Recovering,5,Placebo
+AE-0303,VP-0454,Diarrhoea,Protocol: earlier TJ301 studies,9,Mild,No,No reasonable possibility,No change,Recovered,3,TJ301 600 mg
+AE-0304,VP-0455,Diarrhoea,Protocol: earlier TJ301 studies,15,Mild,No,No reasonable possibility,No change,Recovered,9,TJ301 300 mg
+AE-0096,VP-0456,Headache,Protocol: earlier TJ301 studies,5,Mild,No,Reasonable possibility,No change,Recovered,6,TJ301 300 mg
+AE-0095,VP-0456,Headache,Protocol: earlier TJ301 studies,52,Mild,No,Reasonable possibility,No change,Recovered,3,TJ301 300 mg
+AE-0097,VP-0457,Headache,Protocol: earlier TJ301 studies,60,Mild,No,Reasonable possibility,No change,Recovered,2,TJ301 300 mg
+AE-0098,VP-0459,Headache,Protocol: earlier TJ301 studies,62,Mild,No,No reasonable possibility,No change,Recovered,16,TJ301 600 mg
+AE-0099,VP-0460,Headache,Protocol: earlier TJ301 studies,29,Mild,No,Reasonable possibility,No change,Recovered,7,TJ301 300 mg
+AE-0485,VP-0461,Total cholesterol increased,Protocol: IL-6 class effect,60,Mild,No,Reasonable possibility,No change,Not recovered,6,TJ301 300 mg
+AE-0025,VP-0465,Infusion-related reaction,Protocol: earlier TJ301 studies,28,Mild,No,Reasonable possibility,No change,Recovered,5,TJ301 600 mg
+AE-0201,VP-0466,Nasopharyngitis,Protocol: earlier TJ301 studies,48,Mild,No,No reasonable possibility,No change,Recovered,8,TJ301 300 mg
+AE-0200,VP-0466,Nasopharyngitis,Protocol: earlier TJ301 studies,91,Moderate,No,Reasonable possibility,No change,Recovered,19,TJ301 300 mg
+AE-0305,VP-0470,Diarrhoea,Protocol: earlier TJ301 studies,26,Mild,No,No reasonable possibility,No change,Recovered,13,TJ301 600 mg
+AE-0255,VP-0470,Myalgia,Protocol: earlier TJ301 studies,42,Moderate,No,No reasonable possibility,No change,Recovered with sequelae,1,TJ301 600 mg
+AE-0203,VP-0474,Nasopharyngitis,Protocol: earlier TJ301 studies,47,Mild,No,Reasonable possibility,No change,Recovered,5,TJ301 300 mg
+AE-0351,VP-0474,Cough,Protocol: earlier TJ301 studies,58,Mild,No,Reasonable possibility,No change,Recovered,7,TJ301 300 mg
+AE-0202,VP-0474,Nasopharyngitis,Protocol: earlier TJ301 studies,95,Mild,No,No reasonable possibility,No change,Recovered,2,TJ301 300 mg
+AE-0657,VP-0475,Ulcerative colitis worsening,Underlying disease,31,Moderate,Yes,No reasonable possibility,No change,Recovered,22,Placebo
+AE-0101,VP-0475,Headache,Protocol: earlier TJ301 studies,46,Mild,No,Reasonable possibility,No change,Recovered,16,Placebo
+AE-0658,VP-0475,Ulcerative colitis worsening,Underlying disease,61,Mild,No,Reasonable possibility,No change,Recovered,15,Placebo
+AE-0100,VP-0475,Headache,Protocol: earlier TJ301 studies,105,Moderate,No,Reasonable possibility,No change,Recovered,4,Placebo
+AE-0572,VP-0478,AST increased,Protocol: IL-6 class effect,73,Moderate,No,Reasonable possibility,No change,Recovered,26,TJ301 600 mg
+AE-0102,VP-0481,Headache,Protocol: earlier TJ301 studies,34,Mild,No,Reasonable possibility,Interrupted,Recovered,10,TJ301 600 mg
+AE-0430,VP-0481,ALT increased,Protocol: IL-6 class effect,88,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0533,VP-0482,Serious infection,Protocol: IL-6 class effect,11,Severe,Yes,Reasonable possibility,Interrupted,Not recovered,5,TJ301 300 mg
+AE-0659,VP-0483,Ulcerative colitis worsening,Underlying disease,42,Severe,No,No reasonable possibility,Interrupted,Recovering,33,Placebo
+AE-0104,VP-0485,Headache,Protocol: earlier TJ301 studies,55,Moderate,No,No reasonable possibility,No change,Recovered,14,TJ301 300 mg
+AE-0103,VP-0485,Headache,Protocol: earlier TJ301 studies,90,Moderate,No,No reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0660,VP-0487,Ulcerative colitis worsening,Underlying disease,28,Moderate,No,No reasonable possibility,No change,Recovering,11,TJ301 600 mg
+AE-0486,VP-0488,Total cholesterol increased,Protocol: IL-6 class effect,84,Mild,No,No reasonable possibility,No change,Recovered,2,TJ301 300 mg
+AE-0661,VP-0489,Ulcerative colitis worsening,Underlying disease,20,Moderate,No,No reasonable possibility,No change,Recovered,21,Placebo
+AE-0026,VP-0491,Infusion-related reaction,Protocol: earlier TJ301 studies,0,Mild,No,Reasonable possibility,No change,Recovered,2,TJ301 600 mg
+AE-0431,VP-0492,ALT increased,Protocol: IL-6 class effect,104,Mild,No,Reasonable possibility,No change,Recovered,7,TJ301 300 mg
+AE-0306,VP-0498,Diarrhoea,Protocol: earlier TJ301 studies,23,Mild,No,No reasonable possibility,No change,Recovered,3,TJ301 300 mg
+AE-0352,VP-0498,Cough,Protocol: earlier TJ301 studies,47,Mild,No,No reasonable possibility,No change,Recovering,3,TJ301 300 mg
+AE-0353,VP-0501,Cough,Protocol: earlier TJ301 studies,85,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0027,VP-0505,Infusion-related reaction,Protocol: earlier TJ301 studies,0,Moderate,No,Reasonable possibility,No change,Recovered,41,TJ301 600 mg
+AE-0662,VP-0505,Ulcerative colitis worsening,Underlying disease,96,Mild,Yes,No reasonable possibility,No change,Recovered,5,TJ301 600 mg
+AE-0433,VP-0505,ALT increased,Protocol: IL-6 class effect,99,Mild,No,Reasonable possibility,No change,Recovered,17,TJ301 600 mg
+AE-0432,VP-0505,ALT increased,Protocol: IL-6 class effect,104,Mild,No,Reasonable possibility,No change,Not recovered,9,TJ301 600 mg
+AE-0487,VP-0506,Total cholesterol increased,Protocol: IL-6 class effect,67,Moderate,No,Reasonable possibility,No change,Recovered,8,TJ301 600 mg
+AE-0307,VP-0506,Diarrhoea,Protocol: earlier TJ301 studies,80,Moderate,No,No reasonable possibility,No change,Not recovered,14,TJ301 600 mg
+AE-0105,VP-0509,Headache,Protocol: earlier TJ301 studies,32,Mild,No,Reasonable possibility,No change,Recovered,4,TJ301 600 mg
+AE-0256,VP-0511,Myalgia,Protocol: earlier TJ301 studies,23,Mild,No,Reasonable possibility,No change,Recovered,10,TJ301 600 mg
+AE-0488,VP-0511,Total cholesterol increased,Protocol: IL-6 class effect,33,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0106,VP-0512,Headache,Protocol: earlier TJ301 studies,47,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0309,VP-0512,Diarrhoea,Protocol: earlier TJ301 studies,77,Mild,No,Reasonable possibility,No change,Recovered,2,TJ301 300 mg
+AE-0308,VP-0512,Diarrhoea,Protocol: earlier TJ301 studies,90,Mild,No,Reasonable possibility,No change,Recovered,6,TJ301 300 mg
+AE-0384,VP-0512,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,92,Mild,No,Reasonable possibility,No change,Recovering,1,TJ301 300 mg
+AE-0489,VP-0513,Total cholesterol increased,Protocol: IL-6 class effect,28,Mild,No,No reasonable possibility,No change,Recovered,8,Placebo
+AE-0107,VP-0513,Headache,Protocol: earlier TJ301 studies,38,Moderate,No,No reasonable possibility,No change,Recovered,17,Placebo
+AE-0385,VP-0516,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,34,Moderate,No,Reasonable possibility,No change,Not recovered,9,TJ301 300 mg
+AE-0257,VP-0520,Myalgia,Protocol: earlier TJ301 studies,24,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0354,VP-0524,Cough,Protocol: earlier TJ301 studies,72,Mild,No,No reasonable possibility,No change,Recovered,16,TJ301 600 mg
+AE-0573,VP-0526,AST increased,Protocol: IL-6 class effect,29,Mild,No,Reasonable possibility,No change,Recovering,2,Placebo
+AE-0663,VP-0526,Ulcerative colitis worsening,Underlying disease,57,Moderate,No,No reasonable possibility,No change,Recovering,4,Placebo
+AE-0386,VP-0527,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,65,Mild,No,Reasonable possibility,No change,Recovered,6,TJ301 600 mg
+AE-0664,VP-0530,Ulcerative colitis worsening,Underlying disease,5,Mild,Yes,Reasonable possibility,No change,Not recovered,5,Placebo
+AE-0434,VP-0531,ALT increased,Protocol: IL-6 class effect,62,Mild,No,Reasonable possibility,No change,Recovered,3,TJ301 300 mg
+AE-0534,VP-0532,Serious infection,Protocol: IL-6 class effect,61,Moderate,Yes,Reasonable possibility,No change,Not recovered,15,TJ301 600 mg
+AE-0108,VP-0532,Headache,Protocol: earlier TJ301 studies,90,Mild,No,No reasonable possibility,No change,Recovered,4,TJ301 600 mg
+AE-0204,VP-0533,Nasopharyngitis,Protocol: earlier TJ301 studies,29,Mild,No,No reasonable possibility,No change,Recovered,4,Placebo
+AE-0435,VP-0534,ALT increased,Protocol: IL-6 class effect,37,Mild,No,Reasonable possibility,No change,Recovered,11,TJ301 300 mg
+AE-0310,VP-0535,Diarrhoea,Protocol: earlier TJ301 studies,37,Moderate,No,Reasonable possibility,Interrupted,Recovered,7,TJ301 300 mg
+AE-0311,VP-0535,Diarrhoea,Protocol: earlier TJ301 studies,66,Mild,No,No reasonable possibility,No change,Recovered,2,TJ301 300 mg
+AE-0665,VP-0535,Ulcerative colitis worsening,Underlying disease,68,Severe,No,No reasonable possibility,No change,Recovering,5,TJ301 300 mg
+AE-0535,VP-0536,Serious infection,Protocol: IL-6 class effect,79,Severe,Yes,No reasonable possibility,No change,Not recovered,9,TJ301 600 mg
+AE-0666,VP-0538,Ulcerative colitis worsening,Underlying disease,91,Severe,Yes,No reasonable possibility,No change,Recovering,42,TJ301 300 mg
+AE-0312,VP-0543,Diarrhoea,Protocol: earlier TJ301 studies,84,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0109,VP-0547,Headache,Protocol: earlier TJ301 studies,18,Moderate,No,Reasonable possibility,No change,Recovered,15,TJ301 600 mg
+AE-0258,VP-0548,Myalgia,Protocol: earlier TJ301 studies,86,Mild,No,Reasonable possibility,No change,Not recovered,15,TJ301 300 mg
+AE-0408,VP-0550,Thrombocytopenia,Protocol: IL-6 class effect,32,Moderate,No,Reasonable possibility,No change,Not recovered,30,TJ301 600 mg
+AE-0028,VP-0553,Infusion-related reaction,Protocol: earlier TJ301 studies,14,Mild,No,Reasonable possibility,No change,Recovered,4,TJ301 600 mg
+AE-0436,VP-0554,ALT increased,Protocol: IL-6 class effect,47,Moderate,No,Reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0437,VP-0556,ALT increased,Protocol: IL-6 class effect,55,Mild,No,Reasonable possibility,No change,Recovering,9,TJ301 300 mg
+AE-0438,VP-0557,ALT increased,Protocol: IL-6 class effect,43,Mild,No,Reasonable possibility,No change,Recovered,5,Placebo
+AE-0490,VP-0558,Total cholesterol increased,Protocol: IL-6 class effect,4,Mild,No,Reasonable possibility,No change,Recovering,3,TJ301 600 mg
+AE-0491,VP-0558,Total cholesterol increased,Protocol: IL-6 class effect,8,Mild,No,Reasonable possibility,No change,Not recovered,1,TJ301 600 mg
+AE-0439,VP-0558,ALT increased,Protocol: IL-6 class effect,62,Mild,No,Reasonable possibility,No change,Recovered,6,TJ301 600 mg
+AE-0536,VP-0558,Serious infection,Protocol: IL-6 class effect,88,Severe,Yes,No reasonable possibility,No change,Not recovered,31,TJ301 600 mg
+AE-0667,VP-0559,Ulcerative colitis worsening,Underlying disease,22,Moderate,No,No reasonable possibility,No change,Recovered,5,Placebo
+AE-0668,VP-0561,Ulcerative colitis worsening,Underlying disease,84,Severe,No,No reasonable possibility,No change,Recovering,18,Placebo
+AE-0110,VP-0563,Headache,Protocol: earlier TJ301 studies,20,Mild,No,No reasonable possibility,No change,Recovered,4,TJ301 300 mg
+AE-0112,VP-0563,Headache,Protocol: earlier TJ301 studies,28,Mild,No,No reasonable possibility,No change,Recovered,2,TJ301 300 mg
+AE-0029,VP-0563,Infusion-related reaction,Protocol: earlier TJ301 studies,56,Mild,No,Reasonable possibility,No change,Recovered,8,TJ301 300 mg
+AE-0111,VP-0563,Headache,Protocol: earlier TJ301 studies,84,Mild,No,No reasonable possibility,No change,Recovered,6,TJ301 300 mg
+AE-0205,VP-0564,Nasopharyngitis,Protocol: earlier TJ301 studies,90,Mild,No,No reasonable possibility,No change,Recovered,4,TJ301 600 mg
+AE-0537,VP-0573,Serious infection,Protocol: IL-6 class effect,61,Moderate,Yes,No reasonable possibility,No change,Recovered,6,TJ301 600 mg
+AE-0030,VP-0575,Infusion-related reaction,Protocol: earlier TJ301 studies,28,Moderate,No,No reasonable possibility,No change,Recovered,12,TJ301 600 mg
+AE-0538,VP-0576,Serious infection,Protocol: IL-6 class effect,3,Severe,Yes,No reasonable possibility,No change,Not recovered,6,TJ301 600 mg
+AE-0387,VP-0576,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,24,Mild,No,Reasonable possibility,No change,Recovered,16,TJ301 600 mg
+AE-0206,VP-0577,Nasopharyngitis,Protocol: earlier TJ301 studies,48,Mild,No,No reasonable possibility,No change,Recovered,6,Placebo
+AE-0441,VP-0579,ALT increased,Protocol: IL-6 class effect,42,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0389,VP-0579,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,51,Mild,No,Reasonable possibility,No change,Recovered,7,TJ301 600 mg
+AE-0409,VP-0579,Thrombocytopenia,Protocol: IL-6 class effect,91,Mild,No,Reasonable possibility,No change,Recovered,9,TJ301 600 mg
+AE-0440,VP-0579,ALT increased,Protocol: IL-6 class effect,91,Mild,No,Reasonable possibility,No change,Recovered,5,TJ301 600 mg
+AE-0207,VP-0579,Nasopharyngitis,Protocol: earlier TJ301 studies,101,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0388,VP-0579,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,104,Mild,No,Reasonable possibility,No change,Recovered,12,TJ301 600 mg
+AE-0574,VP-0580,AST increased,Protocol: IL-6 class effect,13,Mild,No,No reasonable possibility,No change,Recovered,4,TJ301 300 mg
+AE-0313,VP-0581,Diarrhoea,Protocol: earlier TJ301 studies,63,Mild,No,Reasonable possibility,No change,Recovering,6,TJ301 300 mg
+AE-0314,VP-0581,Diarrhoea,Protocol: earlier TJ301 studies,96,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0575,VP-0582,AST increased,Protocol: IL-6 class effect,63,Mild,No,Reasonable possibility,No change,Recovered,7,TJ301 600 mg
+AE-0390,VP-0585,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,74,Moderate,No,Reasonable possibility,No change,Recovered,11,TJ301 600 mg
+AE-0669,VP-0587,Ulcerative colitis worsening,Underlying disease,18,Moderate,No,No reasonable possibility,No change,Recovered,1,Placebo
+AE-0576,VP-0588,AST increased,Protocol: IL-6 class effect,46,Mild,No,Reasonable possibility,No change,Recovered,4,Placebo
+AE-0208,VP-0589,Nasopharyngitis,Protocol: earlier TJ301 studies,48,Mild,No,No reasonable possibility,Interrupted,Recovered,5,TJ301 300 mg
+AE-0442,VP-0591,ALT increased,Protocol: IL-6 class effect,26,Moderate,No,Reasonable possibility,No change,Recovered,13,TJ301 300 mg
+AE-0443,VP-0593,ALT increased,Protocol: IL-6 class effect,9,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0670,VP-0594,Ulcerative colitis worsening,Underlying disease,11,Severe,No,No reasonable possibility,No change,Recovering,58,TJ301 600 mg
+AE-0259,VP-0594,Myalgia,Protocol: earlier TJ301 studies,14,Mild,No,Reasonable possibility,No change,Recovered,12,TJ301 600 mg
+AE-0492,VP-0596,Total cholesterol increased,Protocol: IL-6 class effect,12,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0113,VP-0598,Headache,Protocol: earlier TJ301 studies,32,Mild,No,No reasonable possibility,No change,Recovered,2,Placebo
+AE-0114,VP-0599,Headache,Protocol: earlier TJ301 studies,66,Mild,No,No reasonable possibility,No change,Recovered,3,TJ301 300 mg
+AE-0577,VP-0601,AST increased,Protocol: IL-6 class effect,30,Mild,No,No reasonable possibility,No change,Recovered,11,TJ301 600 mg
+AE-0209,VP-0601,Nasopharyngitis,Protocol: earlier TJ301 studies,66,Mild,No,No reasonable possibility,No change,Recovered,2,TJ301 600 mg
+AE-0444,VP-0605,ALT increased,Protocol: IL-6 class effect,19,Severe,No,No reasonable possibility,No change,Recovering,8,TJ301 600 mg
+AE-0493,VP-0606,Total cholesterol increased,Protocol: IL-6 class effect,21,Moderate,No,No reasonable possibility,No change,Recovered,22,TJ301 600 mg
+AE-0210,VP-0609,Nasopharyngitis,Protocol: earlier TJ301 studies,12,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0494,VP-0609,Total cholesterol increased,Protocol: IL-6 class effect,19,Mild,No,Reasonable possibility,No change,Recovered,8,TJ301 300 mg
+AE-0578,VP-0609,AST increased,Protocol: IL-6 class effect,25,Mild,No,Reasonable possibility,No change,Recovered,2,TJ301 300 mg
+AE-0212,VP-0620,Nasopharyngitis,Protocol: earlier TJ301 studies,4,Mild,No,Reasonable possibility,No change,Recovered,4,TJ301 600 mg
+AE-0211,VP-0620,Nasopharyngitis,Protocol: earlier TJ301 studies,54,Severe,No,Reasonable possibility,No change,Recovered,3,TJ301 600 mg
+AE-0213,VP-0621,Nasopharyngitis,Protocol: earlier TJ301 studies,70,Mild,No,No reasonable possibility,No change,Recovered,2,TJ301 300 mg
+AE-0671,VP-0625,Ulcerative colitis worsening,Underlying disease,24,Moderate,Yes,No reasonable possibility,No change,Recovered,12,Placebo
+AE-0672,VP-0629,Ulcerative colitis worsening,Underlying disease,102,Moderate,No,No reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0673,VP-0631,Ulcerative colitis worsening,Underlying disease,29,Mild,No,No reasonable possibility,No change,Recovered,9,TJ301 600 mg
+AE-0315,VP-0631,Diarrhoea,Protocol: earlier TJ301 studies,35,Moderate,No,Reasonable possibility,No change,Recovered,9,TJ301 600 mg
+AE-0260,VP-0633,Myalgia,Protocol: earlier TJ301 studies,77,Moderate,No,No reasonable possibility,No change,Not recovered,2,Placebo
+AE-0674,VP-0634,Ulcerative colitis worsening,Underlying disease,93,Severe,No,Reasonable possibility,No change,Recovered,33,Placebo
+AE-0115,VP-0635,Headache,Protocol: earlier TJ301 studies,7,Mild,No,No reasonable possibility,No change,Recovered,17,TJ301 300 mg
+AE-0031,VP-0635,Infusion-related reaction,Protocol: earlier TJ301 studies,56,Mild,No,No reasonable possibility,No change,Recovered,7,TJ301 300 mg
+AE-0032,VP-0636,Infusion-related reaction,Protocol: earlier TJ301 studies,42,Mild,No,Reasonable possibility,No change,Recovered,5,TJ301 600 mg
+AE-0033,VP-0640,Infusion-related reaction,Protocol: earlier TJ301 studies,14,Mild,No,Reasonable possibility,No change,Recovered,3,TJ301 300 mg
+AE-0495,VP-0642,Total cholesterol increased,Protocol: IL-6 class effect,68,Mild,No,No reasonable possibility,No change,Recovered,2,TJ301 600 mg
+AE-0034,VP-0643,Infusion-related reaction,Protocol: earlier TJ301 studies,14,Moderate,No,Reasonable possibility,Interrupted,Recovering,6,TJ301 600 mg
+AE-0496,VP-0645,Total cholesterol increased,Protocol: IL-6 class effect,81,Mild,No,Reasonable possibility,No change,Recovered,4,TJ301 600 mg
+AE-0261,VP-0648,Myalgia,Protocol: earlier TJ301 studies,98,Moderate,No,Reasonable possibility,No change,Recovered,45,TJ301 300 mg
+AE-0355,VP-0649,Cough,Protocol: earlier TJ301 studies,3,Mild,No,No reasonable possibility,No change,Recovered,10,Placebo
+AE-0356,VP-0652,Cough,Protocol: earlier TJ301 studies,32,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0116,VP-0652,Headache,Protocol: earlier TJ301 studies,79,Moderate,No,No reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0117,VP-0654,Headache,Protocol: earlier TJ301 studies,66,Mild,No,No reasonable possibility,No change,Recovered,5,TJ301 300 mg
+AE-0675,VP-0654,Ulcerative colitis worsening,Underlying disease,69,Moderate,No,No reasonable possibility,Withdrawn,Recovering,8,TJ301 300 mg
+AE-0357,VP-0655,Cough,Protocol: earlier TJ301 studies,27,Mild,No,Reasonable possibility,No change,Recovered,3,Placebo
+AE-0214,VP-0656,Nasopharyngitis,Protocol: earlier TJ301 studies,60,Mild,No,No reasonable possibility,No change,Recovered,5,TJ301 300 mg
+AE-0579,VP-0656,AST increased,Protocol: IL-6 class effect,103,Mild,No,Reasonable possibility,No change,Recovered,20,TJ301 300 mg
+AE-0497,VP-0657,Total cholesterol increased,Protocol: IL-6 class effect,98,Mild,No,Reasonable possibility,No change,Recovered,4,Placebo
+AE-0498,VP-0657,Total cholesterol increased,Protocol: IL-6 class effect,103,Mild,No,No reasonable possibility,No change,Recovered,4,Placebo
+AE-0499,VP-0659,Total cholesterol increased,Protocol: IL-6 class effect,84,Mild,No,Reasonable possibility,No change,Not recovered,8,TJ301 300 mg
+AE-0676,VP-0659,Ulcerative colitis worsening,Underlying disease,100,Moderate,No,No reasonable possibility,No change,Recovered,14,TJ301 300 mg
+AE-0262,VP-0660,Myalgia,Protocol: earlier TJ301 studies,53,Mild,No,No reasonable possibility,No change,Recovered,7,TJ301 600 mg
+AE-0035,VP-0661,Infusion-related reaction,Protocol: earlier TJ301 studies,56,Mild,No,Reasonable possibility,No change,Recovered,2,TJ301 600 mg
+AE-0263,VP-0662,Myalgia,Protocol: earlier TJ301 studies,28,Mild,No,No reasonable possibility,No change,Recovered,11,TJ301 300 mg
+AE-0358,VP-0665,Cough,Protocol: earlier TJ301 studies,19,Mild,No,No reasonable possibility,Interrupted,Recovered,4,TJ301 600 mg
+AE-0500,VP-0665,Total cholesterol increased,Protocol: IL-6 class effect,93,Mild,No,Reasonable possibility,No change,Recovered,9,TJ301 600 mg
+AE-0119,VP-0666,Headache,Protocol: earlier TJ301 studies,29,Mild,No,Reasonable possibility,No change,Recovered,7,TJ301 600 mg
+AE-0391,VP-0666,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,71,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0118,VP-0666,Headache,Protocol: earlier TJ301 studies,84,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0445,VP-0666,ALT increased,Protocol: IL-6 class effect,88,Moderate,No,Reasonable possibility,No change,Not recovered,6,TJ301 600 mg
+AE-0446,VP-0666,ALT increased,Protocol: IL-6 class effect,90,Mild,No,Reasonable possibility,No change,Recovered,4,TJ301 600 mg
+AE-0316,VP-0667,Diarrhoea,Protocol: earlier TJ301 studies,49,Mild,No,No reasonable possibility,No change,Recovered,3,TJ301 600 mg
+AE-0317,VP-0669,Diarrhoea,Protocol: earlier TJ301 studies,59,Mild,No,No reasonable possibility,No change,Not recovered,6,Placebo
+AE-0318,VP-0671,Diarrhoea,Protocol: earlier TJ301 studies,65,Moderate,No,Reasonable possibility,No change,Recovering,10,Placebo
+AE-0120,VP-0674,Headache,Protocol: earlier TJ301 studies,51,Mild,No,Reasonable possibility,No change,Recovered,2,TJ301 600 mg
+AE-0677,VP-0678,Ulcerative colitis worsening,Underlying disease,54,Moderate,No,No reasonable possibility,No change,Not recovered,13,TJ301 600 mg
+AE-0539,VP-0678,Serious infection,Protocol: IL-6 class effect,63,Severe,Yes,No reasonable possibility,No change,Recovered,27,TJ301 600 mg
+AE-0036,VP-0679,Infusion-related reaction,Protocol: earlier TJ301 studies,42,Moderate,No,No reasonable possibility,No change,Recovered,26,Placebo
+AE-0580,VP-0684,AST increased,Protocol: IL-6 class effect,82,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0501,VP-0684,Total cholesterol increased,Protocol: IL-6 class effect,98,Mild,No,No reasonable possibility,No change,Recovered,8,TJ301 600 mg
+AE-0121,VP-0690,Headache,Protocol: earlier TJ301 studies,38,Moderate,No,No reasonable possibility,No change,Recovered,21,Placebo
+AE-0122,VP-0690,Headache,Protocol: earlier TJ301 studies,59,Moderate,No,No reasonable possibility,No change,Recovered,2,Placebo
+AE-0678,VP-0693,Ulcerative colitis worsening,Underlying disease,58,Moderate,No,No reasonable possibility,No change,Recovered,2,TJ301 300 mg
+AE-0320,VP-0693,Diarrhoea,Protocol: earlier TJ301 studies,71,Moderate,No,No reasonable possibility,No change,Recovered,8,TJ301 300 mg
+AE-0319,VP-0693,Diarrhoea,Protocol: earlier TJ301 studies,77,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0215,VP-0696,Nasopharyngitis,Protocol: earlier TJ301 studies,47,Mild,No,No reasonable possibility,No change,Recovering,4,Placebo
+AE-0216,VP-0696,Nasopharyngitis,Protocol: earlier TJ301 studies,60,Mild,No,No reasonable possibility,No change,Recovered,4,Placebo
+AE-0679,VP-0697,Ulcerative colitis worsening,Underlying disease,27,Moderate,No,No reasonable possibility,Interrupted,Recovered,3,Placebo
+AE-0680,VP-0699,Ulcerative colitis worsening,Underlying disease,10,Moderate,No,Reasonable possibility,Interrupted,Worse,5,TJ301 300 mg
+AE-0681,VP-0700,Ulcerative colitis worsening,Underlying disease,76,Moderate,Yes,No reasonable possibility,No change,Recovered,12,Placebo
+AE-0217,VP-0701,Nasopharyngitis,Protocol: earlier TJ301 studies,39,Severe,No,No reasonable possibility,Withdrawn,Recovered,23,TJ301 300 mg
+AE-0218,VP-0704,Nasopharyngitis,Protocol: earlier TJ301 studies,50,Mild,No,No reasonable possibility,No change,Recovered,18,TJ301 300 mg
+AE-0393,VP-0705,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,47,Mild,No,Reasonable possibility,No change,Recovered,7,TJ301 300 mg
+AE-0392,VP-0705,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,62,Mild,No,Reasonable possibility,No change,Recovered,4,TJ301 300 mg
+AE-0502,VP-0705,Total cholesterol increased,Protocol: IL-6 class effect,71,Mild,No,No reasonable possibility,No change,Recovered,3,TJ301 300 mg
+AE-0682,VP-0705,Ulcerative colitis worsening,Underlying disease,105,Moderate,No,No reasonable possibility,No change,Recovered,4,TJ301 300 mg
+AE-0264,VP-0706,Myalgia,Protocol: earlier TJ301 studies,33,Mild,No,No reasonable possibility,No change,Recovered,5,TJ301 300 mg
+AE-0265,VP-0706,Myalgia,Protocol: earlier TJ301 studies,86,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0219,VP-0707,Nasopharyngitis,Protocol: earlier TJ301 studies,58,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0321,VP-0709,Diarrhoea,Protocol: earlier TJ301 studies,55,Mild,No,Reasonable possibility,No change,Recovered,4,TJ301 300 mg
+AE-0037,VP-0713,Infusion-related reaction,Protocol: earlier TJ301 studies,56,Moderate,No,Reasonable possibility,No change,Recovering,3,TJ301 300 mg
+AE-0503,VP-0713,Total cholesterol increased,Protocol: IL-6 class effect,90,Mild,No,Reasonable possibility,No change,Recovered,9,TJ301 300 mg
+AE-0394,VP-0713,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,96,Mild,No,No reasonable possibility,No change,Recovered,4,TJ301 300 mg
+AE-0123,VP-0714,Headache,Protocol: earlier TJ301 studies,35,Moderate,No,Reasonable possibility,No change,Recovered,9,TJ301 300 mg
+AE-0266,VP-0716,Myalgia,Protocol: earlier TJ301 studies,71,Mild,No,No reasonable possibility,No change,Recovered,2,TJ301 300 mg
+AE-0323,VP-0719,Diarrhoea,Protocol: earlier TJ301 studies,34,Mild,No,No reasonable possibility,No change,Not recovered,4,TJ301 600 mg
+AE-0322,VP-0719,Diarrhoea,Protocol: earlier TJ301 studies,96,Moderate,No,No reasonable possibility,No change,Recovered,50,TJ301 600 mg
+AE-0124,VP-0726,Headache,Protocol: earlier TJ301 studies,55,Mild,No,No reasonable possibility,No change,Recovered,2,TJ301 300 mg
+AE-0038,VP-0726,Infusion-related reaction,Protocol: earlier TJ301 studies,56,Moderate,No,Reasonable possibility,No change,Recovered,35,TJ301 300 mg
+AE-0220,VP-0726,Nasopharyngitis,Protocol: earlier TJ301 studies,86,Mild,No,No reasonable possibility,No change,Recovered,2,TJ301 300 mg
+AE-0125,VP-0728,Headache,Protocol: earlier TJ301 studies,52,Mild,No,No reasonable possibility,No change,Recovered,9,TJ301 600 mg
+AE-0683,VP-0729,Ulcerative colitis worsening,Underlying disease,72,Mild,No,No reasonable possibility,No change,Recovering,14,Placebo
+AE-0221,VP-0732,Nasopharyngitis,Protocol: earlier TJ301 studies,89,Mild,No,No reasonable possibility,No change,Recovered,2,TJ301 600 mg
+AE-0684,VP-0733,Ulcerative colitis worsening,Underlying disease,12,Moderate,No,No reasonable possibility,No change,Recovered,11,Placebo
+AE-0267,VP-0734,Myalgia,Protocol: earlier TJ301 studies,23,Moderate,No,Reasonable possibility,No change,Recovered,5,TJ301 600 mg
+AE-0504,VP-0735,Total cholesterol increased,Protocol: IL-6 class effect,77,Mild,No,Reasonable possibility,No change,Recovered,9,Placebo
+AE-0685,VP-0736,Ulcerative colitis worsening,Underlying disease,47,Moderate,No,No reasonable possibility,No change,Recovered,23,Placebo
+AE-0447,VP-0736,ALT increased,Protocol: IL-6 class effect,84,Mild,No,Reasonable possibility,No change,Recovered,5,Placebo
+AE-0686,VP-0737,Ulcerative colitis worsening,Underlying disease,94,Severe,Yes,No reasonable possibility,No change,Recovering,40,TJ301 600 mg
+AE-0448,VP-0738,ALT increased,Protocol: IL-6 class effect,43,Moderate,No,Reasonable possibility,No change,Worse,31,Placebo
+AE-0359,VP-0740,Cough,Protocol: earlier TJ301 studies,102,Mild,No,No reasonable possibility,No change,Recovered,5,TJ301 300 mg
+AE-0361,VP-0742,Cough,Protocol: earlier TJ301 studies,3,Mild,No,No reasonable possibility,No change,Recovered,3,TJ301 300 mg
+AE-0581,VP-0742,AST increased,Protocol: IL-6 class effect,83,Mild,No,No reasonable possibility,No change,Recovered,3,TJ301 300 mg
+AE-0360,VP-0742,Cough,Protocol: earlier TJ301 studies,99,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0687,VP-0743,Ulcerative colitis worsening,Underlying disease,49,Severe,No,No reasonable possibility,No change,Recovered,13,Placebo
+AE-0126,VP-0744,Headache,Protocol: earlier TJ301 studies,52,Mild,No,No reasonable possibility,No change,Recovered,10,TJ301 600 mg
+AE-0128,VP-0746,Headache,Protocol: earlier TJ301 studies,63,Mild,No,No reasonable possibility,No change,Recovered,10,TJ301 600 mg
+AE-0127,VP-0746,Headache,Protocol: earlier TJ301 studies,76,Mild,No,Reasonable possibility,No change,Recovered,5,TJ301 600 mg
+AE-0222,VP-0749,Nasopharyngitis,Protocol: earlier TJ301 studies,63,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0362,VP-0749,Cough,Protocol: earlier TJ301 studies,80,Moderate,No,No reasonable possibility,No change,Recovered,6,TJ301 300 mg
+AE-0689,VP-0751,Ulcerative colitis worsening,Underlying disease,37,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0688,VP-0751,Ulcerative colitis worsening,Underlying disease,46,Mild,No,No reasonable possibility,No change,Recovered,5,TJ301 300 mg
+AE-0039,VP-0751,Infusion-related reaction,Protocol: earlier TJ301 studies,56,Mild,No,Reasonable possibility,No change,Recovered,2,TJ301 300 mg
+AE-0449,VP-0751,ALT increased,Protocol: IL-6 class effect,70,Mild,No,Reasonable possibility,No change,Recovered,4,TJ301 300 mg
+AE-0582,VP-0752,AST increased,Protocol: IL-6 class effect,27,Mild,No,Reasonable possibility,No change,Recovered,5,TJ301 300 mg
+AE-0395,VP-0752,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,43,Moderate,No,Reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0129,VP-0756,Headache,Protocol: earlier TJ301 studies,82,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0583,VP-0757,AST increased,Protocol: IL-6 class effect,28,Mild,No,No reasonable possibility,No change,Recovered,8,TJ301 600 mg
+AE-0505,VP-0758,Total cholesterol increased,Protocol: IL-6 class effect,19,Mild,No,Reasonable possibility,No change,Recovered,13,TJ301 600 mg
+AE-0131,VP-0759,Headache,Protocol: earlier TJ301 studies,18,Mild,No,Reasonable possibility,No change,Recovered,4,TJ301 600 mg
+AE-0130,VP-0759,Headache,Protocol: earlier TJ301 studies,49,Moderate,No,Reasonable possibility,Interrupted,Recovering,3,TJ301 600 mg
+AE-0133,VP-0760,Headache,Protocol: earlier TJ301 studies,33,Mild,No,No reasonable possibility,No change,Recovered,24,TJ301 600 mg
+AE-0132,VP-0760,Headache,Protocol: earlier TJ301 studies,81,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0450,VP-0761,ALT increased,Protocol: IL-6 class effect,53,Mild,No,No reasonable possibility,No change,Recovered,14,TJ301 600 mg
+AE-0134,VP-0761,Headache,Protocol: earlier TJ301 studies,55,Mild,No,No reasonable possibility,No change,Recovered,3,TJ301 600 mg
+AE-0325,VP-0761,Diarrhoea,Protocol: earlier TJ301 studies,62,Mild,No,No reasonable possibility,No change,Recovered,3,TJ301 600 mg
+AE-0324,VP-0761,Diarrhoea,Protocol: earlier TJ301 studies,77,Mild,No,Reasonable possibility,No change,Recovered,3,TJ301 600 mg
+AE-0541,VP-0763,Serious infection,Protocol: IL-6 class effect,10,Moderate,Yes,No reasonable possibility,No change,Recovered,2,TJ301 300 mg
+AE-0540,VP-0763,Serious infection,Protocol: IL-6 class effect,41,Moderate,Yes,Reasonable possibility,No change,Recovered,9,TJ301 300 mg
+AE-0040,VP-0763,Infusion-related reaction,Protocol: earlier TJ301 studies,70,Mild,No,Reasonable possibility,No change,Not recovered,21,TJ301 300 mg
+AE-0268,VP-0766,Myalgia,Protocol: earlier TJ301 studies,89,Moderate,No,No reasonable possibility,No change,Recovering,4,TJ301 300 mg
+AE-0135,VP-0767,Headache,Protocol: earlier TJ301 studies,69,Mild,No,No reasonable possibility,No change,Recovered,5,TJ301 600 mg
+AE-0506,VP-0767,Total cholesterol increased,Protocol: IL-6 class effect,75,Mild,No,Reasonable possibility,No change,Recovered,4,TJ301 600 mg
+AE-0690,VP-0769,Ulcerative colitis worsening,Underlying disease,72,Severe,No,No reasonable possibility,No change,Not recovered,1,Placebo
+AE-0269,VP-0770,Myalgia,Protocol: earlier TJ301 studies,4,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0691,VP-0770,Ulcerative colitis worsening,Underlying disease,95,Moderate,No,No reasonable possibility,No change,Recovered,12,TJ301 300 mg
+AE-0223,VP-0771,Nasopharyngitis,Protocol: earlier TJ301 studies,46,Mild,No,No reasonable possibility,Interrupted,Recovering,15,TJ301 300 mg
+AE-0451,VP-0772,ALT increased,Protocol: IL-6 class effect,32,Mild,No,Reasonable possibility,Interrupted,Recovered,7,TJ301 300 mg
+AE-0396,VP-0774,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,70,Mild,No,No reasonable possibility,No change,Recovered,4,TJ301 300 mg
+AE-0397,VP-0774,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,82,Mild,No,No reasonable possibility,No change,Recovered,12,TJ301 300 mg
+AE-0452,VP-0776,ALT increased,Protocol: IL-6 class effect,87,Mild,No,Reasonable possibility,No change,Recovered,2,TJ301 300 mg
+AE-0224,VP-0780,Nasopharyngitis,Protocol: earlier TJ301 studies,43,Moderate,No,No reasonable possibility,No change,Recovered,21,TJ301 300 mg
+AE-0507,VP-0780,Total cholesterol increased,Protocol: IL-6 class effect,62,Mild,No,Reasonable possibility,No change,Recovered,2,TJ301 300 mg
+AE-0041,VP-0781,Infusion-related reaction,Protocol: earlier TJ301 studies,42,Moderate,No,Reasonable possibility,Withdrawn,Recovered,1,TJ301 300 mg
+AE-0692,VP-0782,Ulcerative colitis worsening,Underlying disease,56,Mild,No,No reasonable possibility,No change,Recovered,7,Placebo
+AE-0693,VP-0783,Ulcerative colitis worsening,Underlying disease,15,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0453,VP-0787,ALT increased,Protocol: IL-6 class effect,26,Mild,No,No reasonable possibility,No change,Recovered,3,TJ301 300 mg
+AE-0694,VP-0789,Ulcerative colitis worsening,Underlying disease,55,Severe,No,No reasonable possibility,Withdrawn,Recovered,10,Placebo
+AE-0226,VP-0791,Nasopharyngitis,Protocol: earlier TJ301 studies,68,Mild,No,No reasonable possibility,No change,Recovered,4,TJ301 300 mg
+AE-0225,VP-0791,Nasopharyngitis,Protocol: earlier TJ301 studies,71,Mild,No,No reasonable possibility,No change,Recovered,4,TJ301 300 mg
+AE-0508,VP-0792,Total cholesterol increased,Protocol: IL-6 class effect,60,Mild,No,No reasonable possibility,No change,Recovered,9,TJ301 600 mg
+AE-0227,VP-0793,Nasopharyngitis,Protocol: earlier TJ301 studies,19,Mild,No,No reasonable possibility,No change,Recovered,10,Placebo
+AE-0363,VP-0795,Cough,Protocol: earlier TJ301 studies,8,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0136,VP-0795,Headache,Protocol: earlier TJ301 studies,72,Mild,No,Reasonable possibility,No change,Recovered,3,TJ301 600 mg
+AE-0410,VP-0799,Thrombocytopenia,Protocol: IL-6 class effect,29,Moderate,No,Reasonable possibility,No change,Worse,13,TJ301 300 mg
+AE-0542,VP-0802,Serious infection,Protocol: IL-6 class effect,38,Severe,Yes,Reasonable possibility,Withdrawn,Recovered with sequelae,3,TJ301 300 mg
+AE-0398,VP-0802,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,46,Mild,No,Reasonable possibility,No change,Recovered,5,TJ301 300 mg
+AE-0228,VP-0803,Nasopharyngitis,Protocol: earlier TJ301 studies,36,Moderate,No,No reasonable possibility,No change,Recovered,13,TJ301 300 mg
+AE-0584,VP-0805,AST increased,Protocol: IL-6 class effect,11,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0042,VP-0807,Infusion-related reaction,Protocol: earlier TJ301 studies,70,Mild,No,Reasonable possibility,No change,Recovered,8,TJ301 600 mg
+AE-0229,VP-0807,Nasopharyngitis,Protocol: earlier TJ301 studies,92,Mild,No,Reasonable possibility,No change,Recovered,9,TJ301 600 mg
+AE-0399,VP-0808,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,24,Mild,No,No reasonable possibility,No change,Recovering,2,TJ301 600 mg
+AE-0138,VP-0810,Headache,Protocol: earlier TJ301 studies,5,Mild,No,Reasonable possibility,No change,Not recovered,1,TJ301 600 mg
+AE-0137,VP-0810,Headache,Protocol: earlier TJ301 studies,63,Moderate,No,Reasonable possibility,No change,Recovering,26,TJ301 600 mg
+AE-0270,VP-0811,Myalgia,Protocol: earlier TJ301 studies,62,Mild,No,No reasonable possibility,No change,Recovered,5,Placebo
+AE-0400,VP-0812,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,47,Mild,No,No reasonable possibility,No change,Recovered,4,TJ301 300 mg
+AE-0401,VP-0814,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,25,Moderate,No,Reasonable possibility,No change,Recovered,5,Placebo
+AE-0585,VP-0815,AST increased,Protocol: IL-6 class effect,56,Mild,No,No reasonable possibility,No change,Recovered,5,TJ301 300 mg
+AE-0586,VP-0815,AST increased,Protocol: IL-6 class effect,80,Mild,No,No reasonable possibility,No change,Recovered,6,TJ301 300 mg
+AE-0411,VP-0816,Thrombocytopenia,Protocol: IL-6 class effect,102,Moderate,No,Reasonable possibility,No change,Recovering,5,TJ301 300 mg
+AE-0454,VP-0820,ALT increased,Protocol: IL-6 class effect,101,Moderate,No,No reasonable possibility,No change,Not recovered,6,Placebo
+AE-0230,VP-0823,Nasopharyngitis,Protocol: earlier TJ301 studies,48,Mild,No,Reasonable possibility,No change,Recovered,6,TJ301 600 mg
+AE-0695,VP-0823,Ulcerative colitis worsening,Underlying disease,50,Mild,No,No reasonable possibility,No change,Recovered,6,TJ301 600 mg
+AE-0412,VP-0823,Thrombocytopenia,Protocol: IL-6 class effect,91,Mild,No,Reasonable possibility,No change,Recovered,38,TJ301 600 mg
+AE-0043,VP-0824,Infusion-related reaction,Protocol: earlier TJ301 studies,56,Mild,No,Reasonable possibility,No change,Recovered,6,TJ301 600 mg
+AE-0139,VP-0826,Headache,Protocol: earlier TJ301 studies,71,Mild,No,Reasonable possibility,No change,Recovered,6,Placebo
+AE-0696,VP-0833,Ulcerative colitis worsening,Underlying disease,23,Mild,No,Reasonable possibility,No change,Recovered,4,TJ301 300 mg
+AE-0140,VP-0838,Headache,Protocol: earlier TJ301 studies,104,Moderate,No,Reasonable possibility,No change,Not recovered,12,TJ301 600 mg
+AE-0509,VP-0840,Total cholesterol increased,Protocol: IL-6 class effect,20,Mild,No,Reasonable possibility,No change,Recovered,2,TJ301 600 mg
+AE-0510,VP-0843,Total cholesterol increased,Protocol: IL-6 class effect,37,Mild,No,Reasonable possibility,Interrupted,Recovered,7,Placebo
+AE-0271,VP-0844,Myalgia,Protocol: earlier TJ301 studies,49,Mild,No,Reasonable possibility,No change,Recovered,6,Placebo
+AE-0272,VP-0844,Myalgia,Protocol: earlier TJ301 studies,72,Mild,No,No reasonable possibility,No change,Recovered,11,Placebo
+AE-0364,VP-0845,Cough,Protocol: earlier TJ301 studies,76,Mild,No,No reasonable possibility,No change,Recovered,2,TJ301 600 mg
+AE-0141,VP-0845,Headache,Protocol: earlier TJ301 studies,84,Mild,No,No reasonable possibility,No change,Recovered,8,TJ301 600 mg
+AE-0142,VP-0850,Headache,Protocol: earlier TJ301 studies,76,Mild,No,No reasonable possibility,No change,Recovered,2,TJ301 300 mg
+AE-0456,VP-0853,ALT increased,Protocol: IL-6 class effect,24,Moderate,No,Reasonable possibility,No change,Recovered,9,TJ301 300 mg
+AE-0455,VP-0853,ALT increased,Protocol: IL-6 class effect,35,Moderate,No,Reasonable possibility,No change,Recovered,18,TJ301 300 mg
+AE-0365,VP-0853,Cough,Protocol: earlier TJ301 studies,51,Mild,No,No reasonable possibility,No change,Recovered,2,TJ301 300 mg
+AE-0044,VP-0854,Infusion-related reaction,Protocol: earlier TJ301 studies,0,Moderate,No,Reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0143,VP-0856,Headache,Protocol: earlier TJ301 studies,67,Mild,No,No reasonable possibility,No change,Recovered,8,Placebo
+AE-0045,VP-0858,Infusion-related reaction,Protocol: earlier TJ301 studies,0,Moderate,No,Reasonable possibility,Withdrawn,Recovering,7,TJ301 600 mg
+AE-0144,VP-0858,Headache,Protocol: earlier TJ301 studies,62,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0145,VP-0858,Headache,Protocol: earlier TJ301 studies,83,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0511,VP-0868,Total cholesterol increased,Protocol: IL-6 class effect,75,Mild,No,Reasonable possibility,No change,Recovered,5,TJ301 300 mg
+AE-0231,VP-0870,Nasopharyngitis,Protocol: earlier TJ301 studies,21,Moderate,No,No reasonable possibility,No change,Recovered,1,Placebo
+AE-0146,VP-0874,Headache,Protocol: earlier TJ301 studies,57,Mild,No,Reasonable possibility,No change,Recovered,11,TJ301 300 mg
+AE-0147,VP-0875,Headache,Protocol: earlier TJ301 studies,96,Moderate,No,Reasonable possibility,No change,Recovered,2,TJ301 300 mg
+AE-0457,VP-0879,ALT increased,Protocol: IL-6 class effect,78,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0046,VP-0881,Infusion-related reaction,Protocol: earlier TJ301 studies,0,Moderate,No,Reasonable possibility,Interrupted,Recovered,1,TJ301 600 mg
+AE-0047,VP-0881,Infusion-related reaction,Protocol: earlier TJ301 studies,70,Mild,No,Reasonable possibility,Interrupted,Recovered,2,TJ301 600 mg
+AE-0512,VP-0883,Total cholesterol increased,Protocol: IL-6 class effect,10,Mild,No,No reasonable possibility,No change,Not recovered,1,TJ301 300 mg
+AE-0048,VP-0883,Infusion-related reaction,Protocol: earlier TJ301 studies,70,Moderate,No,Reasonable possibility,No change,Recovered,9,TJ301 300 mg
+AE-0232,VP-0888,Nasopharyngitis,Protocol: earlier TJ301 studies,62,Mild,No,No reasonable possibility,No change,Recovered,13,TJ301 600 mg
+AE-0233,VP-0888,Nasopharyngitis,Protocol: earlier TJ301 studies,79,Moderate,No,No reasonable possibility,No change,Recovered,19,TJ301 600 mg
+AE-0697,VP-0900,Ulcerative colitis worsening,Underlying disease,1,Moderate,No,No reasonable possibility,No change,Not recovered,12,Placebo
+AE-0587,VP-0901,AST increased,Protocol: IL-6 class effect,69,Mild,No,No reasonable possibility,No change,Recovered,9,TJ301 600 mg
+AE-0698,VP-0904,Ulcerative colitis worsening,Underlying disease,31,Moderate,No,No reasonable possibility,No change,Recovered,2,TJ301 600 mg
+AE-0049,VP-0904,Infusion-related reaction,Protocol: earlier TJ301 studies,42,Mild,No,Reasonable possibility,No change,Recovered,7,TJ301 600 mg
+AE-0366,VP-0906,Cough,Protocol: earlier TJ301 studies,73,Moderate,No,No reasonable possibility,No change,Recovered,9,TJ301 600 mg
+AE-0699,VP-0909,Ulcerative colitis worsening,Underlying disease,10,Mild,No,No reasonable possibility,No change,Recovering,3,TJ301 300 mg
+AE-0459,VP-0909,ALT increased,Protocol: IL-6 class effect,45,Mild,No,Reasonable possibility,No change,Recovered,5,TJ301 300 mg
+AE-0458,VP-0909,ALT increased,Protocol: IL-6 class effect,85,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0514,VP-0911,Total cholesterol increased,Protocol: IL-6 class effect,2,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0513,VP-0911,Total cholesterol increased,Protocol: IL-6 class effect,20,Moderate,No,Reasonable possibility,No change,Recovering,2,TJ301 600 mg
+AE-0273,VP-0911,Myalgia,Protocol: earlier TJ301 studies,71,Mild,No,No reasonable possibility,No change,Recovering,3,TJ301 600 mg
+AE-0460,VP-0912,ALT increased,Protocol: IL-6 class effect,90,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0234,VP-0914,Nasopharyngitis,Protocol: earlier TJ301 studies,28,Mild,No,No reasonable possibility,No change,Recovered,16,TJ301 600 mg
+AE-0402,VP-0914,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,69,Mild,No,Reasonable possibility,No change,Recovered,12,TJ301 600 mg
+AE-0588,VP-0915,AST increased,Protocol: IL-6 class effect,14,Moderate,No,Reasonable possibility,Interrupted,Recovered,4,Placebo
+AE-0516,VP-0916,Total cholesterol increased,Protocol: IL-6 class effect,69,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0515,VP-0916,Total cholesterol increased,Protocol: IL-6 class effect,84,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0148,VP-0917,Headache,Protocol: earlier TJ301 studies,104,Mild,No,No reasonable possibility,No change,Not recovered,2,TJ301 300 mg
+AE-0274,VP-0917,Myalgia,Protocol: earlier TJ301 studies,105,Moderate,No,Reasonable possibility,No change,Recovered,17,TJ301 300 mg
+AE-0149,VP-0918,Headache,Protocol: earlier TJ301 studies,16,Mild,No,No reasonable possibility,No change,Recovered,2,TJ301 300 mg
+AE-0518,VP-0922,Total cholesterol increased,Protocol: IL-6 class effect,10,Mild,No,Reasonable possibility,No change,Recovering,6,TJ301 600 mg
+AE-0517,VP-0922,Total cholesterol increased,Protocol: IL-6 class effect,72,Mild,No,No reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0275,VP-0922,Myalgia,Protocol: earlier TJ301 studies,104,Mild,No,Reasonable possibility,No change,Recovered,2,TJ301 600 mg
+AE-0151,VP-0926,Headache,Protocol: earlier TJ301 studies,12,Moderate,No,Reasonable possibility,No change,Not recovered,3,TJ301 600 mg
+AE-0150,VP-0926,Headache,Protocol: earlier TJ301 studies,44,Moderate,No,Reasonable possibility,No change,Recovered,17,TJ301 600 mg
+AE-0403,VP-0926,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,62,Moderate,No,Reasonable possibility,No change,Recovered,9,TJ301 600 mg
+AE-0404,VP-0927,Neutrophil count decreased,Protocol: earlier TJ301 studies + IL-6 class,20,Moderate,No,Reasonable possibility,No change,Recovered,9,TJ301 300 mg
+AE-0589,VP-0927,AST increased,Protocol: IL-6 class effect,68,Mild,No,Reasonable possibility,No change,Recovered,7,TJ301 300 mg
+AE-0050,VP-0928,Infusion-related reaction,Protocol: earlier TJ301 studies,0,Mild,No,Reasonable possibility,No change,Recovering,11,TJ301 600 mg
+AE-0462,VP-0928,ALT increased,Protocol: IL-6 class effect,63,Mild,No,Reasonable possibility,No change,Recovered,2,TJ301 600 mg
+AE-0463,VP-0928,ALT increased,Protocol: IL-6 class effect,70,Mild,No,No reasonable possibility,No change,Recovered,3,TJ301 600 mg
+AE-0461,VP-0928,ALT increased,Protocol: IL-6 class effect,72,Mild,No,No reasonable possibility,No change,Recovered,7,TJ301 600 mg
+AE-0519,VP-0928,Total cholesterol increased,Protocol: IL-6 class effect,81,Mild,No,Reasonable possibility,No change,Recovered,3,TJ301 600 mg
+AE-0591,VP-0930,AST increased,Protocol: IL-6 class effect,26,Mild,No,No reasonable possibility,No change,Recovered,8,TJ301 600 mg
+AE-0592,VP-0930,AST increased,Protocol: IL-6 class effect,50,Mild,No,No reasonable possibility,Interrupted,Recovered,5,TJ301 600 mg
+AE-0367,VP-0930,Cough,Protocol: earlier TJ301 studies,64,Mild,No,No reasonable possibility,No change,Recovered,2,TJ301 600 mg
+AE-0590,VP-0930,AST increased,Protocol: IL-6 class effect,92,Mild,No,No reasonable possibility,No change,Recovered,8,TJ301 600 mg
+AE-0700,VP-0931,Ulcerative colitis worsening,Underlying disease,63,Moderate,No,No reasonable possibility,No change,Recovered,14,TJ301 600 mg
+AE-0051,VP-0932,Infusion-related reaction,Protocol: earlier TJ301 studies,28,Mild,Yes,Reasonable possibility,No change,Recovered,6,TJ301 300 mg
+AE-0520,VP-0935,Total cholesterol increased,Protocol: IL-6 class effect,23,Mild,No,Reasonable possibility,No change,Recovered,2,TJ301 300 mg
+AE-0701,VP-0941,Ulcerative colitis worsening,Underlying disease,71,Mild,No,No reasonable possibility,No change,Recovered,8,Placebo
+AE-0702,VP-0942,Ulcerative colitis worsening,Underlying disease,20,Moderate,No,No reasonable possibility,Withdrawn,Recovered,3,Placebo
+AE-0235,VP-0944,Nasopharyngitis,Protocol: earlier TJ301 studies,7,Mild,No,No reasonable possibility,No change,Recovered,3,TJ301 600 mg
+AE-0277,VP-0946,Myalgia,Protocol: earlier TJ301 studies,46,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0276,VP-0946,Myalgia,Protocol: earlier TJ301 studies,52,Moderate,No,Reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0236,VP-0947,Nasopharyngitis,Protocol: earlier TJ301 studies,17,Mild,No,Reasonable possibility,No change,Not recovered,3,TJ301 300 mg
+AE-0237,VP-0947,Nasopharyngitis,Protocol: earlier TJ301 studies,82,Mild,No,No reasonable possibility,No change,Recovered,2,TJ301 300 mg
+AE-0238,VP-0948,Nasopharyngitis,Protocol: earlier TJ301 studies,21,Mild,No,Reasonable possibility,No change,Recovered,4,TJ301 600 mg
+AE-0278,VP-0950,Myalgia,Protocol: earlier TJ301 studies,73,Mild,No,No reasonable possibility,No change,Recovering,2,TJ301 600 mg
+AE-0593,VP-0960,AST increased,Protocol: IL-6 class effect,59,Mild,No,Reasonable possibility,No change,Not recovered,1,TJ301 600 mg
+AE-0521,VP-0963,Total cholesterol increased,Protocol: IL-6 class effect,70,Mild,No,Reasonable possibility,No change,Recovered,7,TJ301 300 mg
+AE-0522,VP-0963,Total cholesterol increased,Protocol: IL-6 class effect,91,Mild,No,Reasonable possibility,No change,Recovered,4,TJ301 300 mg
+AE-0368,VP-0965,Cough,Protocol: earlier TJ301 studies,18,Mild,No,Reasonable possibility,No change,Recovered,8,TJ301 300 mg
+AE-0239,VP-0965,Nasopharyngitis,Protocol: earlier TJ301 studies,40,Moderate,No,No reasonable possibility,Withdrawn,Recovered,2,TJ301 300 mg
+AE-0703,VP-0966,Ulcerative colitis worsening,Underlying disease,56,Moderate,No,No reasonable possibility,No change,Recovered,4,TJ301 300 mg
+AE-0152,VP-0969,Headache,Protocol: earlier TJ301 studies,92,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0704,VP-0970,Ulcerative colitis worsening,Underlying disease,15,Moderate,Yes,No reasonable possibility,No change,Recovered,14,Placebo
+AE-0326,VP-0970,Diarrhoea,Protocol: earlier TJ301 studies,62,Moderate,No,No reasonable possibility,No change,Recovered,8,Placebo
+AE-0705,VP-0970,Ulcerative colitis worsening,Underlying disease,66,Mild,No,No reasonable possibility,No change,Recovered,1,Placebo
+AE-0594,VP-0972,AST increased,Protocol: IL-6 class effect,25,Mild,No,No reasonable possibility,Interrupted,Not recovered,8,TJ301 300 mg
+AE-0240,VP-0973,Nasopharyngitis,Protocol: earlier TJ301 studies,78,Mild,No,No reasonable possibility,No change,Recovered,8,Placebo
+AE-0241,VP-0974,Nasopharyngitis,Protocol: earlier TJ301 studies,85,Moderate,No,No reasonable possibility,No change,Recovered,34,TJ301 600 mg
+AE-0706,VP-0978,Ulcerative colitis worsening,Underlying disease,80,Moderate,Yes,No reasonable possibility,No change,Recovered,4,Placebo
+AE-0595,VP-0980,AST increased,Protocol: IL-6 class effect,63,Severe,No,Reasonable possibility,No change,Recovered,1,TJ301 600 mg
+AE-0279,VP-0987,Myalgia,Protocol: earlier TJ301 studies,73,Mild,No,Reasonable possibility,No change,Recovered,2,TJ301 300 mg
+AE-0707,VP-0987,Ulcerative colitis worsening,Underlying disease,97,Severe,No,No reasonable possibility,No change,Recovering,19,TJ301 300 mg
+AE-0052,VP-0993,Infusion-related reaction,Protocol: earlier TJ301 studies,70,Mild,No,Reasonable possibility,No change,Recovered,1,TJ301 300 mg
+AE-0708,VP-0995,Ulcerative colitis worsening,Underlying disease,4,Moderate,No,No reasonable possibility,No change,Recovered,11,TJ301 600 mg
+AE-0464,VP-0995,ALT increased,Protocol: IL-6 class effect,56,Moderate,No,No reasonable possibility,No change,Recovered,7,TJ301 600 mg
+AE-0596,VP-0995,AST increased,Protocol: IL-6 class effect,103,Mild,No,No reasonable possibility,No change,Recovered,10,TJ301 600 mg
+AE-0242,VP-0997,Nasopharyngitis,Protocol: earlier TJ301 studies,20,Mild,No,No reasonable possibility,No change,Recovering,11,TJ301 300 mg
+AE-0153,VP-1000,Headache,Protocol: earlier TJ301 studies,23,Mild,No,No reasonable possibility,No change,Recovered,2,TJ301 600 mg
+AE-0709,VP-1000,Ulcerative colitis worsening,Underlying disease,62,Moderate,No,No reasonable possibility,No change,Recovered,6,TJ301 600 mg

@@ -1,0 +1,1001 @@
+participant,arm,age,sex,prior_steroids,baseline_mayo,remission_probability,ae_count,any_serious_ae,any_severe_ae,discontinued,discontinuation_reason,discontinuation_day,week12_status,itt_remission
+VP-0001,TJ301 300 mg,35,F,Yes,8,0.203,1,No,No,No,,,No remission,0
+VP-0002,TJ301 600 mg,46,M,No,9,0.355,0,No,No,No,,,Remission,1
+VP-0003,TJ301 600 mg,41,F,No,8,0.414,0,No,No,No,,,Remission,1
+VP-0004,TJ301 600 mg,36,F,Yes,5,0.599,2,No,No,No,,,No remission,0
+VP-0005,Placebo,55,M,No,11,0.05,2,No,No,No,,,No remission,0
+VP-0006,TJ301 300 mg,55,F,Yes,11,0.107,0,No,No,No,,,No remission,0
+VP-0007,Placebo,30,M,No,8,0.1,0,No,No,No,,,No remission,0
+VP-0008,TJ301 300 mg,18,M,No,10,0.134,0,No,No,No,,,No remission,0
+VP-0009,Placebo,23,F,No,5,0.19,0,No,No,No,,,No remission,0
+VP-0010,Placebo,37,M,Yes,9,0.079,0,No,No,No,,,No remission,0
+VP-0011,Placebo,55,F,No,9,0.079,0,No,No,No,,,No remission,0
+VP-0012,Placebo,59,M,Yes,10,0.063,1,No,No,Yes,Other reason,70,Discontinued,0
+VP-0013,TJ301 600 mg,33,M,Yes,10,0.3,1,No,No,No,,,No remission,0
+VP-0014,TJ301 600 mg,18,F,Yes,8,0.414,0,No,No,No,,,No remission,0
+VP-0015,TJ301 600 mg,43,M,No,5,0.599,2,Yes,Yes,No,,,Remission,1
+VP-0016,TJ301 300 mg,33,F,Yes,7,0.246,0,No,No,Yes,Other reason,42,Discontinued,0
+VP-0017,TJ301 600 mg,37,F,No,9,0.355,1,No,No,No,,,Remission,1
+VP-0018,Placebo,23,F,No,7,0.125,1,No,No,No,,,No remission,0
+VP-0019,Placebo,46,F,Yes,5,0.19,1,No,No,No,,,Remission,1
+VP-0020,TJ301 300 mg,29,M,No,11,0.107,0,No,No,No,,,No remission,0
+VP-0021,TJ301 300 mg,38,M,Yes,6,0.296,4,No,No,No,,,No remission,0
+VP-0022,TJ301 300 mg,43,M,No,11,0.107,2,Yes,Yes,Yes,Other reason,42,Discontinued,0
+VP-0023,Placebo,36,F,Yes,10,0.063,0,No,No,No,,,No remission,0
+VP-0024,TJ301 600 mg,51,M,No,6,0.538,1,No,No,No,,,No remission,0
+VP-0025,Placebo,63,M,No,8,0.1,2,No,No,No,,,No remission,0
+VP-0026,Placebo,44,M,Yes,7,0.125,0,No,No,No,,,No remission,0
+VP-0027,TJ301 600 mg,37,F,Yes,12,0.206,1,No,No,No,,,Remission,1
+VP-0028,TJ301 300 mg,40,F,No,8,0.203,0,No,No,No,,,No remission,0
+VP-0029,TJ301 600 mg,34,M,No,6,0.538,1,No,No,No,,,Remission,1
+VP-0030,TJ301 300 mg,30,F,Yes,5,0.35,0,No,No,No,,,Remission,1
+VP-0031,TJ301 300 mg,62,M,No,8,0.203,2,No,No,No,,,No remission,0
+VP-0032,Placebo,38,M,Yes,9,0.079,0,No,No,No,,,No remission,0
+VP-0033,Placebo,34,M,No,6,0.154,0,No,No,No,,,Remission,1
+VP-0034,Placebo,47,M,Yes,7,0.125,0,No,No,No,,,No remission,0
+VP-0035,TJ301 300 mg,32,F,Yes,8,0.203,1,No,No,Yes,Other reason,70,Discontinued,0
+VP-0036,Placebo,42,M,No,6,0.154,0,No,No,No,,,No remission,0
+VP-0037,TJ301 600 mg,23,M,No,10,0.3,1,No,No,No,,,No remission,0
+VP-0038,Placebo,47,F,No,8,0.1,0,No,No,No,,,No remission,0
+VP-0039,TJ301 600 mg,40,F,Yes,7,0.476,1,No,No,Yes,Other reason,42,Discontinued,0
+VP-0040,Placebo,32,M,Yes,5,0.19,1,No,No,No,,,No remission,0
+VP-0041,TJ301 300 mg,55,F,Yes,9,0.165,0,No,No,No,,,No remission,0
+VP-0042,Placebo,37,M,Yes,8,0.1,1,No,No,No,,,No remission,0
+VP-0043,Placebo,42,M,No,8,0.1,0,No,No,No,,,No remission,0
+VP-0044,Placebo,53,F,No,10,0.063,1,No,No,Yes,Other reason,70,Discontinued,0
+VP-0045,Placebo,61,M,Yes,9,0.079,2,Yes,Yes,No,,,No remission,0
+VP-0046,TJ301 600 mg,33,F,No,9,0.355,1,No,No,No,,,Remission,1
+VP-0047,TJ301 300 mg,31,F,No,8,0.203,0,No,No,No,,,No remission,0
+VP-0048,TJ301 300 mg,30,M,No,10,0.134,0,No,No,No,,,Remission,1
+VP-0049,Placebo,45,F,No,12,0.039,0,No,No,No,,,No remission,0
+VP-0050,TJ301 300 mg,49,M,Yes,8,0.203,0,No,No,No,,,No remission,0
+VP-0051,TJ301 300 mg,49,F,No,6,0.296,0,No,No,No,,,Remission,1
+VP-0052,TJ301 300 mg,37,M,Yes,7,0.246,0,No,No,No,,,Remission,1
+VP-0053,TJ301 600 mg,26,M,No,10,0.3,0,No,No,Yes,Other reason,42,Discontinued,0
+VP-0054,TJ301 600 mg,45,M,No,9,0.355,2,No,No,No,,,No remission,0
+VP-0055,TJ301 600 mg,50,M,Yes,11,0.25,1,No,No,No,,,Remission,1
+VP-0056,Placebo,70,F,No,9,0.079,0,No,No,No,,,No remission,0
+VP-0057,Placebo,52,M,Yes,10,0.063,0,No,No,No,,,No remission,0
+VP-0058,TJ301 300 mg,33,M,Yes,7,0.246,0,No,No,Yes,Other reason,70,Discontinued,0
+VP-0059,Placebo,61,M,No,10,0.063,2,No,No,No,,,No remission,0
+VP-0060,TJ301 600 mg,26,M,No,7,0.476,1,No,No,Yes,Other reason,56,Discontinued,0
+VP-0061,TJ301 300 mg,44,F,Yes,8,0.203,0,No,No,Yes,Other reason,70,Discontinued,0
+VP-0062,TJ301 300 mg,33,M,Yes,12,0.086,0,No,No,No,,,No remission,0
+VP-0063,TJ301 300 mg,50,M,No,11,0.107,3,No,No,No,,,No remission,0
+VP-0064,TJ301 300 mg,54,F,No,5,0.35,0,No,No,No,,,No remission,0
+VP-0065,Placebo,44,M,No,10,0.063,2,No,No,No,,,No remission,0
+VP-0066,TJ301 300 mg,47,F,Yes,7,0.246,0,No,No,No,,,No remission,0
+VP-0067,Placebo,46,F,Yes,6,0.154,0,No,No,No,,,No remission,0
+VP-0068,TJ301 300 mg,47,F,Yes,8,0.203,0,No,No,No,,,Remission,1
+VP-0069,TJ301 600 mg,24,F,Yes,8,0.414,0,No,No,No,,,Remission,1
+VP-0070,TJ301 300 mg,39,F,Yes,9,0.165,0,No,No,No,,,No remission,0
+VP-0071,Placebo,18,M,Yes,9,0.079,0,No,No,No,,,No remission,0
+VP-0072,Placebo,36,M,No,8,0.1,0,No,No,No,,,Remission,1
+VP-0073,TJ301 600 mg,55,F,No,7,0.476,0,No,No,No,,,Remission,1
+VP-0074,TJ301 300 mg,49,M,Yes,7,0.246,1,No,No,No,,,No remission,0
+VP-0075,Placebo,58,M,Yes,8,0.1,0,No,No,Yes,Other reason,28,Discontinued,0
+VP-0076,TJ301 600 mg,18,F,Yes,5,0.599,1,No,No,No,,,No remission,0
+VP-0077,Placebo,51,M,No,8,0.1,1,No,No,No,,,No remission,0
+VP-0078,TJ301 300 mg,53,M,Yes,7,0.246,0,No,No,No,,,No remission,0
+VP-0079,TJ301 300 mg,40,M,No,7,0.246,1,No,No,No,,,No remission,0
+VP-0080,Placebo,56,F,No,7,0.125,0,No,No,No,,,No remission,0
+VP-0081,Placebo,22,M,No,8,0.1,0,No,No,No,,,No remission,0
+VP-0082,Placebo,18,M,No,8,0.1,1,No,No,No,,,No remission,0
+VP-0083,Placebo,45,M,No,8,0.1,1,No,No,Yes,Other reason,42,Discontinued,0
+VP-0084,TJ301 300 mg,51,F,No,6,0.296,1,No,No,No,,,No remission,0
+VP-0085,Placebo,18,M,Yes,6,0.154,0,No,No,No,,,No remission,0
+VP-0086,Placebo,34,M,Yes,10,0.063,1,No,No,No,,,No remission,0
+VP-0087,TJ301 600 mg,27,M,Yes,10,0.3,0,No,No,No,,,No remission,0
+VP-0088,TJ301 600 mg,55,M,Yes,6,0.538,0,No,No,No,,,No remission,0
+VP-0089,Placebo,50,F,No,7,0.125,0,No,No,No,,,No remission,0
+VP-0090,Placebo,38,M,No,6,0.154,2,No,No,No,,,No remission,0
+VP-0091,Placebo,58,M,No,9,0.079,0,No,No,Yes,Other reason,14,Discontinued,0
+VP-0092,TJ301 300 mg,27,F,Yes,5,0.35,0,No,No,Yes,Other reason,42,Discontinued,0
+VP-0093,Placebo,37,F,Yes,5,0.19,1,No,No,No,,,No remission,0
+VP-0094,TJ301 300 mg,43,F,Yes,11,0.107,1,No,No,No,,,Remission,1
+VP-0095,TJ301 600 mg,42,M,No,7,0.476,0,No,No,No,,,Remission,1
+VP-0096,TJ301 600 mg,33,M,Yes,11,0.25,0,No,No,Yes,Other reason,56,Discontinued,0
+VP-0097,TJ301 600 mg,62,M,Yes,12,0.206,0,No,No,No,,,Remission,1
+VP-0098,TJ301 600 mg,52,M,No,9,0.355,0,No,No,No,,,No remission,0
+VP-0099,Placebo,36,M,No,11,0.05,1,No,No,Yes,Other reason,70,Discontinued,0
+VP-0100,TJ301 600 mg,36,M,No,6,0.538,2,No,No,No,,,No remission,0
+VP-0101,TJ301 600 mg,46,F,No,11,0.25,1,No,No,No,,,No remission,0
+VP-0102,TJ301 300 mg,70,M,Yes,8,0.203,0,No,No,No,,,No remission,0
+VP-0103,Placebo,40,M,No,11,0.05,0,No,No,No,,,No remission,0
+VP-0104,TJ301 300 mg,41,F,No,12,0.086,2,Yes,Yes,No,,,No remission,0
+VP-0105,TJ301 300 mg,42,M,No,7,0.246,1,No,No,No,,,Remission,1
+VP-0106,TJ301 300 mg,18,M,Yes,9,0.165,0,No,No,No,,,No remission,0
+VP-0107,TJ301 600 mg,25,F,No,5,0.599,0,No,No,No,,,Remission,1
+VP-0108,Placebo,43,M,No,10,0.063,1,No,No,Yes,Other reason,70,Discontinued,0
+VP-0109,Placebo,22,M,No,8,0.1,0,No,No,No,,,No remission,0
+VP-0110,TJ301 600 mg,34,F,Yes,7,0.476,0,No,No,No,,,Remission,1
+VP-0111,TJ301 300 mg,27,F,Yes,6,0.296,1,No,No,No,,,No remission,0
+VP-0112,Placebo,22,M,No,9,0.079,1,No,No,No,,,No remission,0
+VP-0113,TJ301 300 mg,40,F,No,8,0.203,1,No,No,No,,,No remission,0
+VP-0114,Placebo,52,F,Yes,7,0.125,1,No,No,No,,,No remission,0
+VP-0115,TJ301 300 mg,30,F,Yes,9,0.165,2,No,No,Yes,Other reason,56,Discontinued,0
+VP-0116,TJ301 600 mg,28,M,Yes,6,0.538,0,No,No,No,,,No remission,0
+VP-0117,TJ301 600 mg,36,M,Yes,7,0.476,1,No,No,No,,,Remission,1
+VP-0118,Placebo,66,F,Yes,9,0.079,0,No,No,No,,,No remission,0
+VP-0119,TJ301 600 mg,46,M,Yes,7,0.476,1,No,No,No,,,No remission,0
+VP-0120,Placebo,28,F,No,6,0.154,0,No,No,No,,,No remission,0
+VP-0121,TJ301 300 mg,45,F,No,12,0.086,2,No,No,Yes,Other reason,70,Discontinued,0
+VP-0122,Placebo,44,M,No,6,0.154,2,No,No,No,,,No remission,0
+VP-0123,TJ301 300 mg,42,M,Yes,8,0.203,1,No,No,No,,,Remission,1
+VP-0124,Placebo,35,M,No,8,0.1,1,No,No,No,,,No remission,0
+VP-0125,TJ301 300 mg,47,M,Yes,9,0.165,2,No,No,No,,,No remission,0
+VP-0126,TJ301 300 mg,45,M,Yes,9,0.165,0,No,No,No,,,No remission,0
+VP-0127,TJ301 600 mg,57,M,Yes,8,0.414,1,No,No,Yes,Other reason,56,Discontinued,0
+VP-0128,Placebo,31,M,No,5,0.19,1,No,No,No,,,No remission,0
+VP-0129,TJ301 600 mg,59,M,Yes,5,0.599,0,No,No,No,,,Remission,1
+VP-0130,TJ301 300 mg,31,M,No,8,0.203,0,No,No,No,,,Remission,1
+VP-0131,TJ301 600 mg,53,M,No,9,0.355,0,No,No,No,,,No remission,0
+VP-0132,TJ301 300 mg,18,M,No,9,0.165,1,No,No,No,,,No remission,0
+VP-0133,Placebo,52,F,No,9,0.079,0,No,No,No,,,No remission,0
+VP-0134,TJ301 600 mg,51,F,No,6,0.538,0,No,No,No,,,Remission,1
+VP-0135,Placebo,21,M,Yes,10,0.063,0,No,No,No,,,No remission,0
+VP-0136,TJ301 300 mg,56,M,No,7,0.246,0,No,No,Yes,Other reason,14,Discontinued,0
+VP-0137,TJ301 600 mg,33,M,No,7,0.476,0,No,No,No,,,Remission,1
+VP-0138,TJ301 300 mg,47,F,Yes,9,0.165,0,No,No,No,,,No remission,0
+VP-0139,TJ301 600 mg,26,M,No,8,0.414,3,No,No,No,,,No remission,0
+VP-0140,TJ301 300 mg,66,M,No,8,0.203,1,No,No,No,,,No remission,0
+VP-0141,Placebo,46,M,Yes,7,0.125,1,No,No,No,,,No remission,0
+VP-0142,Placebo,18,M,No,12,0.039,1,No,No,No,,,No remission,0
+VP-0143,TJ301 600 mg,53,M,Yes,9,0.355,1,No,No,Yes,Other reason,56,Discontinued,0
+VP-0144,TJ301 600 mg,48,M,No,10,0.3,0,No,No,Yes,Other reason,28,Discontinued,0
+VP-0145,TJ301 600 mg,51,F,No,12,0.206,1,No,No,No,,,No remission,0
+VP-0146,TJ301 600 mg,39,F,Yes,8,0.414,1,No,No,No,,,Remission,1
+VP-0147,TJ301 300 mg,18,M,No,8,0.203,1,No,No,No,,,No remission,0
+VP-0148,TJ301 600 mg,47,M,No,6,0.538,0,No,No,Yes,Other reason,42,Discontinued,0
+VP-0149,TJ301 600 mg,60,F,Yes,8,0.414,3,No,No,Yes,Other reason,56,Discontinued,0
+VP-0150,TJ301 600 mg,26,M,Yes,5,0.599,0,No,No,No,,,No remission,0
+VP-0151,TJ301 300 mg,33,M,Yes,6,0.296,0,No,No,Yes,Other reason,28,Discontinued,0
+VP-0152,Placebo,33,F,Yes,6,0.154,0,No,No,No,,,No remission,0
+VP-0153,Placebo,65,M,Yes,9,0.079,1,No,No,No,,,No remission,0
+VP-0154,Placebo,53,M,Yes,8,0.1,0,No,No,No,,,No remission,0
+VP-0155,TJ301 300 mg,47,M,No,11,0.107,0,No,No,No,,,No remission,0
+VP-0156,TJ301 300 mg,28,M,No,8,0.203,0,No,No,No,,,No remission,0
+VP-0157,TJ301 300 mg,49,M,Yes,9,0.165,0,No,No,No,,,No remission,0
+VP-0158,TJ301 300 mg,41,M,Yes,8,0.203,0,No,No,No,,,No remission,0
+VP-0159,TJ301 300 mg,24,F,No,9,0.165,2,No,No,No,,,No remission,0
+VP-0160,TJ301 600 mg,57,F,No,11,0.25,2,No,No,No,,,Remission,1
+VP-0161,TJ301 600 mg,29,M,Yes,12,0.206,0,No,No,No,,,No remission,0
+VP-0162,TJ301 600 mg,30,F,No,8,0.414,3,No,No,No,,,Remission,1
+VP-0163,TJ301 600 mg,48,M,Yes,6,0.538,3,No,Yes,No,,,Remission,1
+VP-0164,TJ301 600 mg,28,F,No,6,0.538,1,Yes,Yes,No,,,Remission,1
+VP-0165,TJ301 300 mg,35,M,No,6,0.296,2,No,Yes,Yes,Adverse event,28,Discontinued,0
+VP-0166,TJ301 600 mg,56,F,No,8,0.414,0,No,No,No,,,Remission,1
+VP-0167,TJ301 600 mg,28,M,No,12,0.206,3,No,No,No,,,Remission,1
+VP-0168,TJ301 600 mg,36,M,No,9,0.355,1,No,No,Yes,Other reason,42,Discontinued,0
+VP-0169,TJ301 600 mg,43,F,Yes,11,0.25,0,No,No,No,,,No remission,0
+VP-0170,Placebo,20,M,Yes,7,0.125,1,No,No,Yes,Other reason,56,Discontinued,0
+VP-0171,TJ301 300 mg,57,M,Yes,9,0.165,1,No,No,No,,,Remission,1
+VP-0172,Placebo,37,F,No,5,0.19,0,No,No,Yes,Other reason,56,Discontinued,0
+VP-0173,TJ301 600 mg,36,F,Yes,7,0.476,0,No,No,No,,,No remission,0
+VP-0174,Placebo,25,F,Yes,8,0.1,1,No,No,No,,,No remission,0
+VP-0175,Placebo,47,M,Yes,10,0.063,0,No,No,No,,,No remission,0
+VP-0176,TJ301 600 mg,44,M,No,7,0.476,2,No,No,Yes,Other reason,14,Discontinued,0
+VP-0177,Placebo,40,F,Yes,9,0.079,0,No,No,No,,,Remission,1
+VP-0178,TJ301 300 mg,47,M,Yes,7,0.246,1,No,No,No,,,Remission,1
+VP-0179,TJ301 300 mg,49,M,Yes,6,0.296,0,No,No,Yes,Other reason,56,Discontinued,0
+VP-0180,TJ301 600 mg,43,M,Yes,7,0.476,2,No,No,No,,,No remission,0
+VP-0181,TJ301 600 mg,56,M,No,8,0.414,0,No,No,No,,,Remission,1
+VP-0182,TJ301 300 mg,34,M,No,7,0.246,0,No,No,No,,,No remission,0
+VP-0183,TJ301 600 mg,44,M,No,9,0.355,1,No,No,Yes,Other reason,56,Discontinued,0
+VP-0184,TJ301 300 mg,24,M,No,8,0.203,0,No,No,No,,,No remission,0
+VP-0185,TJ301 300 mg,44,F,No,8,0.203,1,No,No,No,,,No remission,0
+VP-0186,Placebo,43,M,No,10,0.063,0,No,No,No,,,No remission,0
+VP-0187,TJ301 300 mg,32,F,Yes,7,0.246,0,No,No,Yes,Other reason,56,Discontinued,0
+VP-0188,TJ301 600 mg,63,M,No,8,0.414,2,Yes,Yes,No,,,No remission,0
+VP-0189,TJ301 300 mg,32,M,Yes,8,0.203,0,No,No,No,,,No remission,0
+VP-0190,TJ301 600 mg,23,M,Yes,6,0.538,0,No,No,No,,,Remission,1
+VP-0191,TJ301 600 mg,20,M,No,8,0.414,0,No,No,No,,,No remission,0
+VP-0192,TJ301 300 mg,61,F,No,9,0.165,1,No,No,No,,,Remission,1
+VP-0193,Placebo,24,M,No,11,0.05,0,No,No,No,,,No remission,0
+VP-0194,TJ301 300 mg,32,M,Yes,7,0.246,1,No,No,No,,,No remission,0
+VP-0195,Placebo,41,M,No,7,0.125,0,No,No,No,,,No remission,0
+VP-0196,TJ301 300 mg,58,M,No,9,0.165,0,No,No,No,,,No remission,0
+VP-0197,Placebo,60,F,No,10,0.063,1,No,No,No,,,No remission,0
+VP-0198,TJ301 600 mg,48,M,No,6,0.538,1,No,No,No,,,Remission,1
+VP-0199,TJ301 600 mg,46,M,No,11,0.25,0,No,No,No,,,No remission,0
+VP-0200,Placebo,29,M,No,12,0.039,1,No,No,No,,,No remission,0
+VP-0201,TJ301 600 mg,18,M,Yes,9,0.355,1,Yes,No,No,,,Remission,1
+VP-0202,Placebo,41,M,No,8,0.1,2,No,No,Yes,Other reason,28,Discontinued,0
+VP-0203,Placebo,18,M,Yes,7,0.125,2,Yes,No,Yes,Other reason,28,Discontinued,0
+VP-0204,TJ301 300 mg,62,F,No,7,0.246,1,No,No,No,,,No remission,0
+VP-0205,TJ301 600 mg,40,M,No,6,0.538,0,No,No,No,,,Remission,1
+VP-0206,TJ301 300 mg,35,M,No,10,0.134,0,No,No,No,,,No remission,0
+VP-0207,TJ301 600 mg,42,F,Yes,9,0.355,1,Yes,No,No,,,Remission,1
+VP-0208,TJ301 600 mg,53,F,Yes,8,0.414,0,No,No,No,,,No remission,0
+VP-0209,Placebo,43,M,No,6,0.154,1,No,No,No,,,No remission,0
+VP-0210,TJ301 600 mg,41,M,No,10,0.3,2,No,No,No,,,Remission,1
+VP-0211,TJ301 300 mg,44,F,No,5,0.35,0,No,No,No,,,Remission,1
+VP-0212,TJ301 300 mg,30,M,No,5,0.35,2,No,No,No,,,No remission,0
+VP-0213,TJ301 600 mg,22,F,No,7,0.476,1,No,No,No,,,No remission,0
+VP-0214,TJ301 600 mg,55,M,No,6,0.538,1,No,No,Yes,Other reason,28,Discontinued,0
+VP-0215,TJ301 300 mg,18,M,No,9,0.165,1,No,No,No,,,No remission,0
+VP-0216,Placebo,23,M,Yes,12,0.039,1,No,No,No,,,No remission,0
+VP-0217,TJ301 600 mg,39,F,Yes,10,0.3,0,No,No,No,,,Remission,1
+VP-0218,Placebo,38,F,No,10,0.063,0,No,No,Yes,Other reason,42,Discontinued,0
+VP-0219,TJ301 600 mg,25,M,No,11,0.25,1,No,No,No,,,No remission,0
+VP-0220,TJ301 600 mg,55,F,Yes,7,0.476,1,No,No,No,,,No remission,0
+VP-0221,Placebo,39,M,Yes,8,0.1,2,No,No,No,,,No remission,0
+VP-0222,TJ301 300 mg,43,F,Yes,11,0.107,0,No,No,Yes,Other reason,56,Discontinued,0
+VP-0223,Placebo,41,M,No,6,0.154,1,No,No,No,,,No remission,0
+VP-0224,TJ301 300 mg,49,M,No,10,0.134,3,No,No,No,,,No remission,0
+VP-0225,TJ301 600 mg,21,M,No,5,0.599,1,No,No,No,,,Remission,1
+VP-0226,TJ301 300 mg,60,M,Yes,10,0.134,1,No,No,No,,,No remission,0
+VP-0227,TJ301 600 mg,61,M,No,11,0.25,0,No,No,Yes,Other reason,28,Discontinued,0
+VP-0228,TJ301 300 mg,23,M,Yes,8,0.203,1,No,No,Yes,Other reason,28,Discontinued,0
+VP-0229,Placebo,23,F,No,8,0.1,2,No,No,No,,,No remission,0
+VP-0230,TJ301 300 mg,53,F,Yes,11,0.107,1,No,No,Yes,Other reason,28,Discontinued,0
+VP-0231,TJ301 300 mg,18,F,No,8,0.203,1,No,No,No,,,No remission,0
+VP-0232,TJ301 300 mg,51,F,Yes,10,0.134,0,No,No,Yes,Other reason,42,Discontinued,0
+VP-0233,TJ301 600 mg,47,F,Yes,8,0.414,1,No,No,No,,,Remission,1
+VP-0234,TJ301 600 mg,44,M,No,9,0.355,1,No,No,No,,,No remission,0
+VP-0235,TJ301 600 mg,32,F,No,8,0.414,1,No,No,No,,,No remission,0
+VP-0236,TJ301 300 mg,55,F,Yes,9,0.165,0,No,No,No,,,No remission,0
+VP-0237,Placebo,55,M,No,6,0.154,1,No,Yes,No,,,No remission,0
+VP-0238,TJ301 300 mg,45,M,No,9,0.165,1,No,No,No,,,No remission,0
+VP-0239,Placebo,48,M,No,10,0.063,2,No,No,Yes,Other reason,14,Discontinued,0
+VP-0240,TJ301 600 mg,42,M,No,10,0.3,1,Yes,No,No,,,No remission,0
+VP-0241,TJ301 600 mg,41,M,No,6,0.538,0,No,No,Yes,Other reason,14,Discontinued,0
+VP-0242,Placebo,49,M,Yes,6,0.154,0,No,No,No,,,No remission,0
+VP-0243,TJ301 300 mg,34,M,No,5,0.35,1,No,No,Yes,Other reason,28,Discontinued,0
+VP-0244,TJ301 300 mg,26,M,No,9,0.165,2,No,No,No,,,No remission,0
+VP-0245,TJ301 600 mg,20,F,Yes,8,0.414,1,No,No,Yes,Other reason,28,Discontinued,0
+VP-0246,Placebo,43,F,No,7,0.125,1,No,No,No,,,No remission,0
+VP-0247,TJ301 600 mg,45,F,No,10,0.3,1,No,No,No,,,No remission,0
+VP-0248,Placebo,27,M,No,10,0.063,2,No,No,No,,,No remission,0
+VP-0249,TJ301 600 mg,29,M,No,11,0.25,1,No,No,No,,,No remission,0
+VP-0250,Placebo,51,M,Yes,8,0.1,0,No,No,No,,,No remission,0
+VP-0251,TJ301 300 mg,47,M,No,12,0.086,1,No,No,Yes,Other reason,28,Discontinued,0
+VP-0252,TJ301 300 mg,70,F,No,10,0.134,0,No,No,No,,,No remission,0
+VP-0253,TJ301 600 mg,19,M,Yes,9,0.355,0,No,No,No,,,No remission,0
+VP-0254,TJ301 300 mg,46,M,No,7,0.246,1,No,No,No,,,No remission,0
+VP-0255,TJ301 600 mg,42,F,Yes,7,0.476,0,No,No,No,,,No remission,0
+VP-0256,TJ301 300 mg,38,M,No,7,0.246,0,No,No,No,,,No remission,0
+VP-0257,TJ301 300 mg,42,M,No,7,0.246,1,No,No,No,,,No remission,0
+VP-0258,TJ301 300 mg,44,F,No,10,0.134,1,No,No,Yes,Other reason,28,Discontinued,0
+VP-0259,TJ301 600 mg,53,M,No,8,0.414,0,No,No,No,,,No remission,0
+VP-0260,TJ301 600 mg,38,F,Yes,6,0.538,1,No,No,No,,,No remission,0
+VP-0261,TJ301 300 mg,44,M,No,8,0.203,0,No,No,No,,,Remission,1
+VP-0262,Placebo,44,M,No,11,0.05,0,No,No,No,,,No remission,0
+VP-0263,TJ301 300 mg,60,F,No,9,0.165,0,No,No,No,,,No remission,0
+VP-0264,TJ301 600 mg,31,M,No,7,0.476,1,No,No,No,,,No remission,0
+VP-0265,TJ301 300 mg,35,F,No,10,0.134,1,No,No,No,,,Remission,1
+VP-0266,TJ301 300 mg,20,M,No,12,0.086,0,No,No,No,,,No remission,0
+VP-0267,TJ301 300 mg,37,M,No,8,0.203,0,No,No,No,,,Remission,1
+VP-0268,Placebo,58,M,No,12,0.039,1,No,No,Yes,Other reason,42,Discontinued,0
+VP-0269,TJ301 600 mg,43,F,No,10,0.3,1,No,No,No,,,Remission,1
+VP-0270,Placebo,52,M,No,7,0.125,1,No,No,No,,,No remission,0
+VP-0271,Placebo,33,M,No,7,0.125,2,No,No,Yes,Adverse event,34,Discontinued,0
+VP-0272,Placebo,29,M,No,7,0.125,2,No,No,No,,,No remission,0
+VP-0273,Placebo,48,M,Yes,9,0.079,0,No,No,No,,,No remission,0
+VP-0274,Placebo,41,F,No,11,0.05,0,No,No,No,,,No remission,0
+VP-0275,TJ301 300 mg,40,M,No,7,0.246,0,No,No,Yes,Other reason,28,Discontinued,0
+VP-0276,TJ301 300 mg,18,M,No,7,0.246,2,No,No,No,,,No remission,0
+VP-0277,Placebo,18,F,No,7,0.125,0,No,No,No,,,No remission,0
+VP-0278,TJ301 300 mg,40,M,No,12,0.086,1,No,No,No,,,No remission,0
+VP-0279,TJ301 600 mg,34,F,Yes,7,0.476,0,No,No,Yes,Other reason,70,Discontinued,0
+VP-0280,Placebo,35,F,No,9,0.079,1,No,No,No,,,No remission,0
+VP-0281,Placebo,37,M,Yes,12,0.039,0,No,No,No,,,No remission,0
+VP-0282,TJ301 300 mg,18,F,No,10,0.134,3,No,Yes,No,,,No remission,0
+VP-0283,Placebo,28,F,No,8,0.1,0,No,No,No,,,No remission,0
+VP-0284,TJ301 600 mg,41,M,No,9,0.355,0,No,No,No,,,No remission,0
+VP-0285,Placebo,44,F,No,7,0.125,1,Yes,No,No,,,No remission,0
+VP-0286,Placebo,31,F,No,8,0.1,0,No,No,No,,,No remission,0
+VP-0287,TJ301 600 mg,21,M,Yes,10,0.3,4,No,No,No,,,No remission,0
+VP-0288,TJ301 300 mg,38,M,No,9,0.165,0,No,No,No,,,Remission,1
+VP-0289,Placebo,54,F,No,8,0.1,0,No,No,No,,,No remission,0
+VP-0290,TJ301 600 mg,30,M,Yes,7,0.476,0,No,No,No,,,Remission,1
+VP-0291,TJ301 600 mg,41,F,Yes,8,0.414,2,No,No,Yes,Other reason,14,Discontinued,0
+VP-0292,Placebo,47,M,No,11,0.05,2,No,No,No,,,No remission,0
+VP-0293,TJ301 600 mg,41,M,Yes,11,0.25,0,No,No,No,,,No remission,0
+VP-0294,Placebo,18,F,No,8,0.1,2,Yes,Yes,Yes,Adverse event,14,Discontinued,0
+VP-0295,Placebo,48,M,No,11,0.05,0,No,No,No,,,No remission,0
+VP-0296,TJ301 600 mg,32,F,No,5,0.599,0,No,No,No,,,Remission,1
+VP-0297,TJ301 300 mg,56,F,Yes,8,0.203,1,Yes,No,No,,,No remission,0
+VP-0298,Placebo,24,M,No,6,0.154,1,No,No,No,,,No remission,0
+VP-0299,Placebo,51,F,No,8,0.1,1,No,No,No,,,No remission,0
+VP-0300,TJ301 600 mg,33,F,Yes,7,0.476,0,No,No,No,,,Remission,1
+VP-0301,TJ301 600 mg,50,M,No,6,0.538,0,No,No,No,,,Remission,1
+VP-0302,TJ301 300 mg,48,M,Yes,7,0.246,4,No,No,Yes,Other reason,14,Discontinued,0
+VP-0303,TJ301 600 mg,38,M,No,11,0.25,0,No,No,Yes,Other reason,14,Discontinued,0
+VP-0304,TJ301 600 mg,42,M,Yes,6,0.538,1,No,No,No,,,Remission,1
+VP-0305,Placebo,24,M,No,5,0.19,0,No,No,No,,,No remission,0
+VP-0306,TJ301 600 mg,29,M,No,8,0.414,2,No,No,No,,,No remission,0
+VP-0307,Placebo,22,M,No,7,0.125,0,No,No,No,,,No remission,0
+VP-0308,TJ301 600 mg,30,M,No,6,0.538,0,No,No,No,,,No remission,0
+VP-0309,TJ301 600 mg,32,M,No,9,0.355,1,No,No,No,,,Remission,1
+VP-0310,TJ301 600 mg,47,M,No,8,0.414,2,No,No,No,,,No remission,0
+VP-0311,TJ301 600 mg,23,M,No,11,0.25,1,No,No,No,,,No remission,0
+VP-0312,TJ301 600 mg,55,M,No,10,0.3,0,No,No,No,,,No remission,0
+VP-0313,Placebo,36,M,Yes,12,0.039,0,No,No,No,,,Remission,1
+VP-0314,TJ301 300 mg,41,M,No,12,0.086,0,No,No,No,,,No remission,0
+VP-0315,TJ301 300 mg,38,M,No,11,0.107,2,No,No,No,,,No remission,0
+VP-0316,TJ301 600 mg,20,M,Yes,5,0.599,1,No,No,No,,,No remission,0
+VP-0317,TJ301 300 mg,41,M,Yes,7,0.246,0,No,No,No,,,Remission,1
+VP-0318,TJ301 600 mg,38,M,Yes,9,0.355,1,No,No,No,,,No remission,0
+VP-0319,TJ301 300 mg,37,M,Yes,9,0.165,0,No,No,No,,,No remission,0
+VP-0320,Placebo,42,F,Yes,7,0.125,1,No,No,No,,,No remission,0
+VP-0321,Placebo,61,M,No,10,0.063,0,No,No,Yes,Other reason,42,Discontinued,0
+VP-0322,TJ301 600 mg,38,M,Yes,6,0.538,3,No,No,No,,,No remission,0
+VP-0323,Placebo,49,F,Yes,9,0.079,0,No,No,No,,,No remission,0
+VP-0324,Placebo,24,M,Yes,7,0.125,0,No,No,No,,,No remission,0
+VP-0325,TJ301 300 mg,64,M,No,12,0.086,2,Yes,Yes,Yes,Adverse event,20,Discontinued,0
+VP-0326,TJ301 600 mg,33,F,Yes,9,0.355,0,No,No,No,,,Remission,1
+VP-0327,Placebo,48,M,No,9,0.079,0,No,No,No,,,No remission,0
+VP-0328,Placebo,47,F,No,7,0.125,0,No,No,No,,,No remission,0
+VP-0329,TJ301 600 mg,33,M,No,9,0.355,0,No,No,No,,,No remission,0
+VP-0330,TJ301 600 mg,36,M,Yes,6,0.538,1,No,No,Yes,Other reason,14,Discontinued,0
+VP-0331,TJ301 600 mg,42,M,No,7,0.476,1,No,Yes,No,,,Remission,1
+VP-0332,TJ301 300 mg,21,M,No,7,0.246,2,No,No,Yes,Other reason,28,Discontinued,0
+VP-0333,Placebo,27,M,Yes,5,0.19,0,No,No,No,,,No remission,0
+VP-0334,TJ301 600 mg,36,M,Yes,7,0.476,1,No,No,No,,,No remission,0
+VP-0335,Placebo,37,F,Yes,9,0.079,0,No,No,No,,,No remission,0
+VP-0336,TJ301 300 mg,39,M,No,9,0.165,0,No,No,Yes,Other reason,70,Discontinued,0
+VP-0337,TJ301 600 mg,23,M,Yes,10,0.3,1,No,No,No,,,No remission,0
+VP-0338,TJ301 300 mg,23,M,Yes,9,0.165,0,No,No,No,,,No remission,0
+VP-0339,TJ301 600 mg,65,M,Yes,11,0.25,2,No,No,No,,,No remission,0
+VP-0340,Placebo,34,M,Yes,6,0.154,1,No,No,No,,,No remission,0
+VP-0341,Placebo,20,F,No,7,0.125,1,No,No,No,,,No remission,0
+VP-0342,TJ301 300 mg,25,F,No,10,0.134,0,No,No,No,,,No remission,0
+VP-0343,TJ301 600 mg,34,F,Yes,5,0.599,0,No,No,No,,,Remission,1
+VP-0344,TJ301 600 mg,40,M,Yes,9,0.355,0,No,No,No,,,No remission,0
+VP-0345,TJ301 300 mg,35,M,Yes,7,0.246,1,No,No,No,,,No remission,0
+VP-0346,Placebo,31,F,No,11,0.05,0,No,No,No,,,No remission,0
+VP-0347,Placebo,62,F,Yes,7,0.125,1,No,Yes,No,,,No remission,0
+VP-0348,Placebo,35,M,No,8,0.1,1,No,No,Yes,Other reason,14,Discontinued,0
+VP-0349,TJ301 600 mg,27,F,No,7,0.476,0,No,No,Yes,Other reason,14,Discontinued,0
+VP-0350,Placebo,38,F,Yes,11,0.05,0,No,No,No,,,No remission,0
+VP-0351,TJ301 600 mg,49,F,Yes,8,0.414,0,No,No,No,,,Remission,1
+VP-0352,TJ301 600 mg,44,M,Yes,9,0.355,0,No,No,No,,,No remission,0
+VP-0353,TJ301 300 mg,52,M,Yes,10,0.134,1,No,No,No,,,No remission,0
+VP-0354,Placebo,61,M,Yes,8,0.1,0,No,No,No,,,No remission,0
+VP-0355,TJ301 300 mg,27,F,No,7,0.246,1,No,No,Yes,Adverse event,48,Discontinued,0
+VP-0356,Placebo,18,M,Yes,8,0.1,0,No,No,No,,,No remission,0
+VP-0357,Placebo,60,F,No,10,0.063,0,No,No,No,,,No remission,0
+VP-0358,TJ301 600 mg,52,M,Yes,8,0.414,1,No,No,No,,,No remission,0
+VP-0359,Placebo,55,M,No,7,0.125,1,No,No,No,,,No remission,0
+VP-0360,Placebo,60,M,No,9,0.079,1,Yes,No,No,,,No remission,0
+VP-0361,Placebo,34,M,No,7,0.125,2,Yes,No,No,,,No remission,0
+VP-0362,TJ301 600 mg,61,M,Yes,11,0.25,0,No,No,No,,,Remission,1
+VP-0363,TJ301 600 mg,46,F,Yes,9,0.355,1,Yes,No,No,,,No remission,0
+VP-0364,Placebo,35,M,No,7,0.125,0,No,No,No,,,No remission,0
+VP-0365,TJ301 600 mg,63,M,No,12,0.206,1,No,No,No,,,No remission,0
+VP-0366,TJ301 300 mg,66,F,No,6,0.296,0,No,No,Yes,Other reason,70,Discontinued,0
+VP-0367,Placebo,43,M,Yes,8,0.1,0,No,No,No,,,No remission,0
+VP-0368,TJ301 300 mg,37,F,No,9,0.165,0,No,No,No,,,No remission,0
+VP-0369,TJ301 300 mg,61,F,No,8,0.203,0,No,No,No,,,No remission,0
+VP-0370,TJ301 300 mg,36,M,Yes,8,0.203,0,No,No,No,,,No remission,0
+VP-0371,TJ301 300 mg,29,F,Yes,11,0.107,3,No,No,No,,,No remission,0
+VP-0372,TJ301 300 mg,45,M,No,7,0.246,2,No,No,No,,,Remission,1
+VP-0373,Placebo,44,M,No,10,0.063,2,No,No,No,,,No remission,0
+VP-0374,Placebo,25,M,Yes,5,0.19,0,No,No,Yes,Other reason,70,Discontinued,0
+VP-0375,Placebo,53,M,No,8,0.1,2,No,No,No,,,No remission,0
+VP-0376,TJ301 300 mg,33,M,Yes,8,0.203,1,No,No,No,,,Remission,1
+VP-0377,TJ301 300 mg,38,M,Yes,9,0.165,2,No,No,No,,,No remission,0
+VP-0378,Placebo,38,M,No,10,0.063,1,Yes,No,No,,,No remission,0
+VP-0379,TJ301 300 mg,26,F,No,6,0.296,0,No,No,No,,,Remission,1
+VP-0380,TJ301 600 mg,38,M,No,7,0.476,1,Yes,Yes,No,,,No remission,0
+VP-0381,TJ301 600 mg,48,M,No,8,0.414,1,No,No,Yes,Other reason,56,Discontinued,0
+VP-0382,TJ301 300 mg,40,M,No,7,0.246,0,No,No,No,,,No remission,0
+VP-0383,TJ301 600 mg,48,M,Yes,8,0.414,1,No,No,No,,,No remission,0
+VP-0384,TJ301 300 mg,46,F,No,11,0.107,2,No,No,No,,,Remission,1
+VP-0385,TJ301 300 mg,53,M,No,9,0.165,0,No,No,No,,,No remission,0
+VP-0386,Placebo,22,M,No,7,0.125,0,No,No,No,,,No remission,0
+VP-0387,TJ301 600 mg,37,F,Yes,8,0.414,1,No,No,No,,,Remission,1
+VP-0388,TJ301 600 mg,33,M,No,9,0.355,0,No,No,No,,,Remission,1
+VP-0389,TJ301 300 mg,18,M,Yes,8,0.203,1,No,No,No,,,No remission,0
+VP-0390,Placebo,43,M,No,7,0.125,0,No,No,No,,,No remission,0
+VP-0391,TJ301 300 mg,39,F,Yes,8,0.203,1,No,No,No,,,No remission,0
+VP-0392,TJ301 300 mg,34,F,Yes,8,0.203,0,No,No,No,,,No remission,0
+VP-0393,TJ301 300 mg,35,F,Yes,5,0.35,1,No,No,No,,,No remission,0
+VP-0394,Placebo,29,F,No,6,0.154,0,No,No,No,,,No remission,0
+VP-0395,Placebo,70,M,No,10,0.063,0,No,No,No,,,Remission,1
+VP-0396,Placebo,35,F,Yes,9,0.079,1,Yes,Yes,Yes,Adverse event,48,Discontinued,0
+VP-0397,Placebo,38,M,Yes,8,0.1,0,No,No,No,,,No remission,0
+VP-0398,TJ301 300 mg,42,M,Yes,7,0.246,0,No,No,No,,,No remission,0
+VP-0399,TJ301 300 mg,54,F,No,10,0.134,0,No,No,No,,,No remission,0
+VP-0400,Placebo,28,F,Yes,5,0.19,1,Yes,No,No,,,No remission,0
+VP-0401,TJ301 600 mg,55,M,No,7,0.476,0,No,No,No,,,No remission,0
+VP-0402,TJ301 600 mg,30,M,Yes,9,0.355,0,No,No,No,,,Remission,1
+VP-0403,TJ301 600 mg,57,M,No,8,0.414,1,No,No,No,,,No remission,0
+VP-0404,TJ301 300 mg,58,F,No,8,0.203,2,No,No,No,,,No remission,0
+VP-0405,Placebo,40,M,No,10,0.063,1,No,Yes,No,,,No remission,0
+VP-0406,TJ301 300 mg,38,M,No,7,0.246,0,No,No,No,,,No remission,0
+VP-0407,Placebo,43,M,Yes,6,0.154,1,No,No,No,,,No remission,0
+VP-0408,Placebo,24,M,No,12,0.039,2,No,No,Yes,Other reason,28,Discontinued,0
+VP-0409,TJ301 600 mg,57,M,Yes,7,0.476,1,No,No,No,,,Remission,1
+VP-0410,Placebo,28,F,Yes,12,0.039,3,No,No,No,,,No remission,0
+VP-0411,TJ301 600 mg,33,M,No,7,0.476,1,Yes,No,Yes,Other reason,56,Discontinued,0
+VP-0412,Placebo,39,F,Yes,10,0.063,0,No,No,No,,,No remission,0
+VP-0413,Placebo,45,M,No,8,0.1,1,No,No,No,,,No remission,0
+VP-0414,Placebo,18,M,Yes,10,0.063,2,No,No,No,,,No remission,0
+VP-0415,Placebo,28,F,Yes,9,0.079,0,No,No,Yes,Other reason,42,Discontinued,0
+VP-0416,TJ301 600 mg,37,M,Yes,7,0.476,0,No,No,No,,,No remission,0
+VP-0417,Placebo,52,M,Yes,6,0.154,2,No,No,No,,,No remission,0
+VP-0418,TJ301 600 mg,40,M,No,8,0.414,0,No,No,No,,,Remission,1
+VP-0419,TJ301 600 mg,34,M,No,9,0.355,0,No,No,No,,,No remission,0
+VP-0420,TJ301 300 mg,56,M,No,7,0.246,1,No,No,No,,,No remission,0
+VP-0421,Placebo,39,M,Yes,8,0.1,1,No,No,No,,,No remission,0
+VP-0422,TJ301 600 mg,52,M,No,5,0.599,0,No,No,No,,,Remission,1
+VP-0423,TJ301 600 mg,48,F,Yes,12,0.206,2,No,No,No,,,No remission,0
+VP-0424,TJ301 300 mg,47,M,No,9,0.165,2,No,No,No,,,No remission,0
+VP-0425,TJ301 600 mg,27,F,No,8,0.414,0,No,No,No,,,Remission,1
+VP-0426,Placebo,54,M,No,10,0.063,0,No,No,No,,,No remission,0
+VP-0427,TJ301 300 mg,21,F,No,9,0.165,0,No,No,No,,,No remission,0
+VP-0428,TJ301 600 mg,43,F,No,12,0.206,1,No,No,No,,,No remission,0
+VP-0429,TJ301 600 mg,27,F,No,9,0.355,0,No,No,No,,,No remission,0
+VP-0430,Placebo,36,M,Yes,12,0.039,1,No,Yes,No,,,No remission,0
+VP-0431,TJ301 300 mg,34,M,No,12,0.086,0,No,No,Yes,Other reason,14,Discontinued,0
+VP-0432,TJ301 600 mg,51,F,No,8,0.414,3,No,No,No,,,No remission,0
+VP-0433,TJ301 600 mg,68,F,No,12,0.206,4,Yes,Yes,No,,,No remission,0
+VP-0434,TJ301 600 mg,31,M,Yes,5,0.599,0,No,No,No,,,No remission,0
+VP-0435,TJ301 600 mg,28,F,No,9,0.355,0,No,No,Yes,Other reason,14,Discontinued,0
+VP-0436,TJ301 300 mg,22,M,Yes,8,0.203,0,No,No,No,,,No remission,0
+VP-0437,TJ301 600 mg,21,M,No,9,0.355,0,No,No,Yes,Other reason,56,Discontinued,0
+VP-0438,TJ301 300 mg,45,F,Yes,10,0.134,0,No,No,No,,,Remission,1
+VP-0439,Placebo,39,M,No,6,0.154,0,No,No,No,,,No remission,0
+VP-0440,TJ301 600 mg,44,F,No,6,0.538,1,No,No,Yes,Other reason,14,Discontinued,0
+VP-0441,TJ301 600 mg,25,M,No,9,0.355,0,No,No,No,,,No remission,0
+VP-0442,Placebo,34,F,No,11,0.05,2,No,No,No,,,No remission,0
+VP-0443,TJ301 600 mg,38,M,No,12,0.206,0,No,No,No,,,No remission,0
+VP-0444,TJ301 300 mg,43,F,No,7,0.246,1,No,No,Yes,Other reason,14,Discontinued,0
+VP-0445,Placebo,29,M,No,11,0.05,1,No,No,No,,,No remission,0
+VP-0446,TJ301 600 mg,26,M,No,7,0.476,1,No,No,No,,,No remission,0
+VP-0447,TJ301 300 mg,44,M,No,10,0.134,1,Yes,Yes,No,,,No remission,0
+VP-0448,TJ301 600 mg,54,M,Yes,11,0.25,1,No,No,No,,,No remission,0
+VP-0449,TJ301 300 mg,41,F,No,8,0.203,0,No,No,No,,,No remission,0
+VP-0450,TJ301 600 mg,45,F,Yes,8,0.414,1,No,No,No,,,Remission,1
+VP-0451,TJ301 600 mg,52,F,Yes,12,0.206,1,Yes,Yes,Yes,Adverse event,12,Discontinued,0
+VP-0452,TJ301 600 mg,34,M,Yes,9,0.355,0,No,No,No,,,No remission,0
+VP-0453,Placebo,34,M,No,5,0.19,1,No,No,No,,,No remission,0
+VP-0454,TJ301 600 mg,44,M,No,11,0.25,1,No,No,No,,,No remission,0
+VP-0455,TJ301 300 mg,48,F,Yes,7,0.246,1,No,No,Yes,Other reason,70,Discontinued,0
+VP-0456,TJ301 300 mg,70,M,No,7,0.246,2,No,No,No,,,No remission,0
+VP-0457,TJ301 300 mg,35,M,No,9,0.165,1,No,No,No,,,No remission,0
+VP-0458,TJ301 600 mg,30,M,Yes,7,0.476,0,No,No,No,,,Remission,1
+VP-0459,TJ301 600 mg,44,F,No,7,0.476,1,No,No,No,,,No remission,0
+VP-0460,TJ301 300 mg,43,F,No,6,0.296,1,No,No,No,,,Remission,1
+VP-0461,TJ301 300 mg,47,F,No,11,0.107,1,No,No,No,,,No remission,0
+VP-0462,Placebo,29,F,No,7,0.125,0,No,No,No,,,No remission,0
+VP-0463,Placebo,18,M,No,6,0.154,0,No,No,No,,,No remission,0
+VP-0464,Placebo,44,M,No,6,0.154,0,No,No,No,,,No remission,0
+VP-0465,TJ301 600 mg,46,M,Yes,9,0.355,1,No,No,No,,,Remission,1
+VP-0466,TJ301 300 mg,29,M,Yes,8,0.203,2,No,No,No,,,No remission,0
+VP-0467,TJ301 300 mg,27,F,No,10,0.134,0,No,No,No,,,No remission,0
+VP-0468,TJ301 300 mg,19,M,No,8,0.203,0,No,No,No,,,No remission,0
+VP-0469,TJ301 300 mg,32,F,No,7,0.246,0,No,No,No,,,No remission,0
+VP-0470,TJ301 600 mg,46,M,No,12,0.206,2,No,No,No,,,No remission,0
+VP-0471,Placebo,42,M,No,8,0.1,0,No,No,No,,,No remission,0
+VP-0472,TJ301 300 mg,56,M,No,9,0.165,0,No,No,No,,,No remission,0
+VP-0473,Placebo,51,F,No,8,0.1,0,No,No,No,,,Remission,1
+VP-0474,TJ301 300 mg,25,F,No,10,0.134,3,No,No,No,,,No remission,0
+VP-0475,Placebo,18,M,No,11,0.05,4,Yes,No,Yes,Other reason,14,Discontinued,0
+VP-0476,Placebo,31,M,Yes,5,0.19,0,No,No,No,,,No remission,0
+VP-0477,TJ301 300 mg,41,M,No,10,0.134,0,No,No,No,,,No remission,0
+VP-0478,TJ301 600 mg,44,F,No,10,0.3,1,No,No,No,,,Remission,1
+VP-0479,TJ301 600 mg,39,M,Yes,10,0.3,0,No,No,No,,,Remission,1
+VP-0480,TJ301 300 mg,49,M,No,7,0.246,0,No,No,No,,,No remission,0
+VP-0481,TJ301 600 mg,39,F,Yes,9,0.355,2,No,No,No,,,No remission,0
+VP-0482,TJ301 300 mg,29,M,No,7,0.246,1,Yes,Yes,No,,,Remission,1
+VP-0483,Placebo,34,F,Yes,9,0.079,1,No,Yes,Yes,Other reason,42,Discontinued,0
+VP-0484,Placebo,44,F,No,8,0.1,0,No,No,No,,,No remission,0
+VP-0485,TJ301 300 mg,44,F,Yes,8,0.203,2,No,No,No,,,No remission,0
+VP-0486,TJ301 300 mg,18,M,No,11,0.107,0,No,No,No,,,No remission,0
+VP-0487,TJ301 600 mg,45,M,No,6,0.538,1,No,No,No,,,No remission,0
+VP-0488,TJ301 300 mg,33,M,Yes,8,0.203,1,No,No,No,,,No remission,0
+VP-0489,Placebo,60,F,Yes,8,0.1,1,No,No,No,,,Remission,1
+VP-0490,Placebo,28,M,Yes,5,0.19,0,No,No,No,,,Remission,1
+VP-0491,TJ301 600 mg,59,M,Yes,6,0.538,1,No,No,No,,,No remission,0
+VP-0492,TJ301 300 mg,26,M,Yes,6,0.296,1,No,No,No,,,Remission,1
+VP-0493,TJ301 300 mg,18,M,Yes,8,0.203,0,No,No,No,,,No remission,0
+VP-0494,Placebo,31,M,Yes,9,0.079,0,No,No,No,,,No remission,0
+VP-0495,Placebo,32,F,No,10,0.063,0,No,No,No,,,No remission,0
+VP-0496,TJ301 600 mg,70,F,No,5,0.599,0,No,No,No,,,Remission,1
+VP-0497,Placebo,40,F,No,8,0.1,0,No,No,No,,,No remission,0
+VP-0498,TJ301 300 mg,30,M,Yes,10,0.134,2,No,No,No,,,No remission,0
+VP-0499,TJ301 300 mg,40,M,No,9,0.165,0,No,No,No,,,Remission,1
+VP-0500,Placebo,54,M,No,11,0.05,0,No,No,No,,,No remission,0
+VP-0501,TJ301 600 mg,35,M,Yes,9,0.355,1,No,No,Yes,Other reason,14,Discontinued,0
+VP-0502,TJ301 300 mg,57,M,No,9,0.165,0,No,No,No,,,No remission,0
+VP-0503,Placebo,46,M,Yes,8,0.1,0,No,No,No,,,No remission,0
+VP-0504,Placebo,54,F,Yes,9,0.079,0,No,No,No,,,No remission,0
+VP-0505,TJ301 600 mg,59,F,Yes,7,0.476,4,Yes,No,No,,,Remission,1
+VP-0506,TJ301 600 mg,41,F,Yes,9,0.355,2,No,No,No,,,Remission,1
+VP-0507,Placebo,53,M,Yes,10,0.063,0,No,No,No,,,No remission,0
+VP-0508,TJ301 300 mg,40,F,No,9,0.165,0,No,No,No,,,No remission,0
+VP-0509,TJ301 600 mg,46,F,Yes,6,0.538,1,No,No,No,,,Remission,1
+VP-0510,Placebo,53,F,Yes,10,0.063,0,No,No,No,,,No remission,0
+VP-0511,TJ301 600 mg,36,M,No,9,0.355,2,No,No,No,,,No remission,0
+VP-0512,TJ301 300 mg,41,F,No,7,0.246,4,No,No,No,,,No remission,0
+VP-0513,Placebo,31,M,Yes,10,0.063,2,No,No,No,,,No remission,0
+VP-0514,Placebo,29,M,Yes,7,0.125,0,No,No,No,,,Remission,1
+VP-0515,TJ301 300 mg,45,F,Yes,11,0.107,0,No,No,No,,,No remission,0
+VP-0516,TJ301 300 mg,42,F,No,7,0.246,1,No,No,No,,,No remission,0
+VP-0517,TJ301 600 mg,30,F,Yes,6,0.538,0,No,No,No,,,Remission,1
+VP-0518,TJ301 600 mg,47,M,No,11,0.25,0,No,No,No,,,No remission,0
+VP-0519,TJ301 600 mg,36,M,Yes,11,0.25,0,No,No,No,,,No remission,0
+VP-0520,TJ301 300 mg,32,M,No,9,0.165,1,No,No,Yes,Other reason,14,Discontinued,0
+VP-0521,TJ301 600 mg,22,F,Yes,8,0.414,0,No,No,No,,,No remission,0
+VP-0522,TJ301 300 mg,29,M,Yes,9,0.165,0,No,No,No,,,No remission,0
+VP-0523,Placebo,48,M,No,8,0.1,0,No,No,No,,,No remission,0
+VP-0524,TJ301 600 mg,47,M,No,5,0.599,1,No,No,No,,,Remission,1
+VP-0525,Placebo,42,M,Yes,9,0.079,0,No,No,No,,,Remission,1
+VP-0526,Placebo,18,M,Yes,10,0.063,2,No,No,No,,,No remission,0
+VP-0527,TJ301 600 mg,36,M,No,8,0.414,1,No,No,No,,,No remission,0
+VP-0528,Placebo,36,F,Yes,10,0.063,0,No,No,Yes,Other reason,42,Discontinued,0
+VP-0529,TJ301 300 mg,19,M,No,7,0.246,0,No,No,No,,,No remission,0
+VP-0530,Placebo,26,M,Yes,6,0.154,1,Yes,No,No,,,No remission,0
+VP-0531,TJ301 300 mg,42,F,No,8,0.203,1,No,No,No,,,No remission,0
+VP-0532,TJ301 600 mg,29,M,Yes,7,0.476,2,Yes,No,No,,,Remission,1
+VP-0533,Placebo,61,M,No,8,0.1,1,No,No,No,,,No remission,0
+VP-0534,TJ301 300 mg,18,F,Yes,8,0.203,1,No,No,Yes,Other reason,28,Discontinued,0
+VP-0535,TJ301 300 mg,62,M,No,6,0.296,3,No,Yes,No,,,No remission,0
+VP-0536,TJ301 600 mg,38,M,No,11,0.25,1,Yes,Yes,No,,,No remission,0
+VP-0537,TJ301 300 mg,55,F,No,8,0.203,0,No,No,No,,,No remission,0
+VP-0538,TJ301 300 mg,62,F,Yes,7,0.246,1,Yes,Yes,No,,,Remission,1
+VP-0539,TJ301 300 mg,51,M,No,8,0.203,0,No,No,No,,,No remission,0
+VP-0540,TJ301 600 mg,48,M,Yes,11,0.25,0,No,No,No,,,No remission,0
+VP-0541,TJ301 300 mg,44,M,Yes,6,0.296,0,No,No,No,,,No remission,0
+VP-0542,Placebo,44,F,No,11,0.05,0,No,No,No,,,No remission,0
+VP-0543,TJ301 300 mg,62,M,Yes,8,0.203,1,No,No,No,,,No remission,0
+VP-0544,TJ301 300 mg,49,M,Yes,7,0.246,0,No,No,No,,,No remission,0
+VP-0545,TJ301 600 mg,66,M,No,5,0.599,0,No,No,No,,,No remission,0
+VP-0546,TJ301 600 mg,28,M,Yes,9,0.355,0,No,No,No,,,Remission,1
+VP-0547,TJ301 600 mg,36,F,No,5,0.599,1,No,No,No,,,Remission,1
+VP-0548,TJ301 300 mg,18,M,No,6,0.296,1,No,No,No,,,No remission,0
+VP-0549,Placebo,42,F,Yes,11,0.05,0,No,No,No,,,Remission,1
+VP-0550,TJ301 600 mg,42,M,Yes,12,0.206,1,No,No,No,,,No remission,0
+VP-0551,TJ301 300 mg,56,M,Yes,6,0.296,0,No,No,No,,,No remission,0
+VP-0552,TJ301 600 mg,38,M,No,9,0.355,0,No,No,No,,,No remission,0
+VP-0553,TJ301 600 mg,43,M,No,6,0.538,1,No,No,No,,,Remission,1
+VP-0554,TJ301 600 mg,27,M,No,11,0.25,1,No,No,No,,,No remission,0
+VP-0555,TJ301 300 mg,40,M,No,11,0.107,0,No,No,No,,,No remission,0
+VP-0556,TJ301 300 mg,36,M,No,8,0.203,1,No,No,Yes,Other reason,42,Discontinued,0
+VP-0557,Placebo,32,M,No,9,0.079,1,No,No,No,,,Remission,1
+VP-0558,TJ301 600 mg,24,M,Yes,8,0.414,4,Yes,Yes,Yes,Other reason,70,Discontinued,0
+VP-0559,Placebo,39,M,No,8,0.1,1,No,No,No,,,No remission,0
+VP-0560,Placebo,20,M,Yes,8,0.1,0,No,No,No,,,No remission,0
+VP-0561,Placebo,40,F,Yes,9,0.079,1,No,Yes,Yes,Other reason,14,Discontinued,0
+VP-0562,Placebo,44,M,Yes,7,0.125,0,No,No,No,,,No remission,0
+VP-0563,TJ301 300 mg,36,M,Yes,10,0.134,4,No,No,No,,,No remission,0
+VP-0564,TJ301 600 mg,18,F,Yes,9,0.355,1,No,No,No,,,No remission,0
+VP-0565,TJ301 300 mg,25,F,No,8,0.203,0,No,No,No,,,No remission,0
+VP-0566,TJ301 600 mg,42,M,Yes,8,0.414,0,No,No,Yes,Other reason,56,Discontinued,0
+VP-0567,TJ301 300 mg,18,F,Yes,6,0.296,0,No,No,No,,,No remission,0
+VP-0568,TJ301 300 mg,35,F,Yes,7,0.246,0,No,No,No,,,No remission,0
+VP-0569,Placebo,64,M,Yes,8,0.1,0,No,No,Yes,Other reason,42,Discontinued,0
+VP-0570,Placebo,44,M,No,12,0.039,0,No,No,No,,,No remission,0
+VP-0571,TJ301 600 mg,61,F,No,9,0.355,0,No,No,No,,,No remission,0
+VP-0572,Placebo,36,M,No,7,0.125,0,No,No,No,,,No remission,0
+VP-0573,TJ301 600 mg,37,M,Yes,7,0.476,1,Yes,No,No,,,No remission,0
+VP-0574,TJ301 300 mg,47,M,Yes,8,0.203,0,No,No,No,,,No remission,0
+VP-0575,TJ301 600 mg,37,F,Yes,10,0.3,1,No,No,No,,,Remission,1
+VP-0576,TJ301 600 mg,34,M,Yes,8,0.414,2,Yes,Yes,Yes,Other reason,42,Discontinued,0
+VP-0577,Placebo,40,M,No,9,0.079,1,No,No,No,,,No remission,0
+VP-0578,Placebo,48,F,Yes,7,0.125,0,No,No,No,,,No remission,0
+VP-0579,TJ301 600 mg,40,M,Yes,8,0.414,6,No,No,No,,,No remission,0
+VP-0580,TJ301 300 mg,47,M,Yes,5,0.35,1,No,No,No,,,No remission,0
+VP-0581,TJ301 300 mg,45,M,Yes,6,0.296,2,No,No,No,,,No remission,0
+VP-0582,TJ301 600 mg,47,M,Yes,12,0.206,1,No,No,Yes,Other reason,14,Discontinued,0
+VP-0583,TJ301 600 mg,40,M,No,11,0.25,0,No,No,Yes,Other reason,14,Discontinued,0
+VP-0584,TJ301 300 mg,56,F,Yes,5,0.35,0,No,No,No,,,No remission,0
+VP-0585,TJ301 600 mg,22,M,No,10,0.3,1,No,No,No,,,No remission,0
+VP-0586,Placebo,40,M,Yes,8,0.1,0,No,No,No,,,No remission,0
+VP-0587,Placebo,61,F,No,10,0.063,1,No,No,No,,,No remission,0
+VP-0588,Placebo,26,F,No,11,0.05,1,No,No,No,,,No remission,0
+VP-0589,TJ301 300 mg,49,F,No,6,0.296,1,No,No,No,,,No remission,0
+VP-0590,TJ301 600 mg,58,M,No,6,0.538,0,No,No,No,,,Remission,1
+VP-0591,TJ301 300 mg,62,M,Yes,6,0.296,1,No,No,No,,,No remission,0
+VP-0592,Placebo,48,F,Yes,8,0.1,0,No,No,No,,,No remission,0
+VP-0593,TJ301 600 mg,31,M,No,5,0.599,1,No,No,No,,,Remission,1
+VP-0594,TJ301 600 mg,41,F,Yes,6,0.538,2,No,Yes,No,,,Remission,1
+VP-0595,Placebo,19,M,Yes,9,0.079,0,No,No,No,,,No remission,0
+VP-0596,TJ301 600 mg,60,M,Yes,6,0.538,1,No,No,No,,,No remission,0
+VP-0597,Placebo,47,F,Yes,9,0.079,0,No,No,Yes,Other reason,14,Discontinued,0
+VP-0598,Placebo,28,M,Yes,6,0.154,1,No,No,No,,,No remission,0
+VP-0599,TJ301 300 mg,43,F,No,10,0.134,1,No,No,No,,,No remission,0
+VP-0600,TJ301 600 mg,28,M,Yes,6,0.538,0,No,No,No,,,Remission,1
+VP-0601,TJ301 600 mg,21,M,Yes,9,0.355,2,No,No,Yes,Other reason,28,Discontinued,0
+VP-0602,TJ301 600 mg,26,F,Yes,8,0.414,0,No,No,Yes,Other reason,70,Discontinued,0
+VP-0603,TJ301 300 mg,47,F,No,11,0.107,0,No,No,No,,,No remission,0
+VP-0604,Placebo,38,M,Yes,7,0.125,0,No,No,No,,,No remission,0
+VP-0605,TJ301 600 mg,33,M,No,9,0.355,1,No,Yes,Yes,Other reason,42,Discontinued,0
+VP-0606,TJ301 600 mg,24,M,No,8,0.414,1,No,No,No,,,No remission,0
+VP-0607,Placebo,27,F,No,11,0.05,0,No,No,No,,,No remission,0
+VP-0608,TJ301 600 mg,36,M,No,10,0.3,0,No,No,No,,,Remission,1
+VP-0609,TJ301 300 mg,38,M,No,11,0.107,3,No,No,No,,,No remission,0
+VP-0610,Placebo,45,M,No,6,0.154,0,No,No,No,,,No remission,0
+VP-0611,TJ301 300 mg,56,F,Yes,8,0.203,0,No,No,No,,,No remission,0
+VP-0612,TJ301 600 mg,35,M,No,11,0.25,0,No,No,No,,,No remission,0
+VP-0613,Placebo,61,M,No,6,0.154,0,No,No,No,,,No remission,0
+VP-0614,TJ301 300 mg,39,M,No,9,0.165,0,No,No,Yes,Other reason,56,Discontinued,0
+VP-0615,Placebo,44,M,No,7,0.125,0,No,No,No,,,No remission,0
+VP-0616,Placebo,31,F,Yes,6,0.154,0,No,No,No,,,No remission,0
+VP-0617,Placebo,41,F,Yes,6,0.154,0,No,No,No,,,No remission,0
+VP-0618,Placebo,27,F,No,6,0.154,0,No,No,No,,,No remission,0
+VP-0619,TJ301 600 mg,32,F,No,7,0.476,0,No,No,No,,,No remission,0
+VP-0620,TJ301 600 mg,38,F,No,5,0.599,2,No,Yes,Yes,Other reason,28,Discontinued,0
+VP-0621,TJ301 300 mg,56,F,No,10,0.134,1,No,No,No,,,No remission,0
+VP-0622,Placebo,46,M,Yes,9,0.079,0,No,No,No,,,No remission,0
+VP-0623,Placebo,53,M,No,8,0.1,0,No,No,No,,,No remission,0
+VP-0624,Placebo,24,M,Yes,9,0.079,0,No,No,Yes,Other reason,14,Discontinued,0
+VP-0625,Placebo,41,M,No,10,0.063,1,Yes,No,No,,,No remission,0
+VP-0626,TJ301 600 mg,63,M,Yes,7,0.476,0,No,No,No,,,Remission,1
+VP-0627,TJ301 600 mg,52,M,No,8,0.414,0,No,No,No,,,Remission,1
+VP-0628,TJ301 600 mg,51,M,No,9,0.355,0,No,No,No,,,No remission,0
+VP-0629,TJ301 600 mg,39,M,No,10,0.3,1,No,No,No,,,No remission,0
+VP-0630,Placebo,49,M,Yes,8,0.1,0,No,No,No,,,No remission,0
+VP-0631,TJ301 600 mg,41,M,No,7,0.476,2,No,No,No,,,No remission,0
+VP-0632,TJ301 300 mg,42,M,Yes,10,0.134,0,No,No,No,,,No remission,0
+VP-0633,Placebo,35,M,Yes,9,0.079,1,No,No,No,,,No remission,0
+VP-0634,Placebo,35,M,Yes,11,0.05,1,No,Yes,No,,,No remission,0
+VP-0635,TJ301 300 mg,40,M,Yes,9,0.165,2,No,No,No,,,No remission,0
+VP-0636,TJ301 600 mg,37,M,No,6,0.538,1,No,No,No,,,Remission,1
+VP-0637,TJ301 600 mg,28,M,No,9,0.355,0,No,No,No,,,No remission,0
+VP-0638,TJ301 300 mg,23,F,No,7,0.246,0,No,No,No,,,No remission,0
+VP-0639,Placebo,26,M,Yes,5,0.19,0,No,No,No,,,No remission,0
+VP-0640,TJ301 300 mg,36,F,Yes,12,0.086,1,No,No,No,,,No remission,0
+VP-0641,TJ301 300 mg,18,M,Yes,6,0.296,0,No,No,No,,,No remission,0
+VP-0642,TJ301 600 mg,52,M,Yes,8,0.414,1,No,No,No,,,No remission,0
+VP-0643,TJ301 600 mg,37,F,No,7,0.476,1,No,No,Yes,Other reason,70,Discontinued,0
+VP-0644,TJ301 600 mg,40,M,No,12,0.206,0,No,No,Yes,Other reason,42,Discontinued,0
+VP-0645,TJ301 600 mg,39,F,No,7,0.476,1,No,No,No,,,Remission,1
+VP-0646,Placebo,56,M,No,12,0.039,0,No,No,No,,,No remission,0
+VP-0647,TJ301 300 mg,45,F,Yes,8,0.203,0,No,No,No,,,No remission,0
+VP-0648,TJ301 300 mg,35,M,No,5,0.35,1,No,No,No,,,No remission,0
+VP-0649,Placebo,18,F,Yes,9,0.079,1,No,No,No,,,No remission,0
+VP-0650,Placebo,56,M,No,12,0.039,0,No,No,No,,,No remission,0
+VP-0651,TJ301 300 mg,32,F,No,8,0.203,0,No,No,No,,,No remission,0
+VP-0652,TJ301 300 mg,27,M,Yes,5,0.35,2,No,No,No,,,Remission,1
+VP-0653,Placebo,38,M,No,10,0.063,0,No,No,No,,,No remission,0
+VP-0654,TJ301 300 mg,43,M,No,5,0.35,2,No,No,Yes,Adverse event,69,Discontinued,0
+VP-0655,Placebo,49,M,No,11,0.05,1,No,No,No,,,No remission,0
+VP-0656,TJ301 300 mg,48,M,Yes,8,0.203,2,No,No,No,,,No remission,0
+VP-0657,Placebo,34,F,No,10,0.063,2,No,No,No,,,No remission,0
+VP-0658,Placebo,24,F,No,5,0.19,0,No,No,No,,,No remission,0
+VP-0659,TJ301 300 mg,47,M,Yes,7,0.246,2,No,No,No,,,No remission,0
+VP-0660,TJ301 600 mg,36,M,No,5,0.599,1,No,No,No,,,Remission,1
+VP-0661,TJ301 600 mg,49,M,No,11,0.25,1,No,No,No,,,No remission,0
+VP-0662,TJ301 300 mg,69,M,Yes,9,0.165,1,No,No,No,,,Remission,1
+VP-0663,TJ301 600 mg,45,F,No,7,0.476,0,No,No,No,,,No remission,0
+VP-0664,TJ301 600 mg,33,M,Yes,7,0.476,0,No,No,No,,,No remission,0
+VP-0665,TJ301 600 mg,32,F,No,11,0.25,2,No,No,No,,,No remission,0
+VP-0666,TJ301 600 mg,58,F,Yes,11,0.25,5,No,No,No,,,No remission,0
+VP-0667,TJ301 600 mg,23,M,Yes,11,0.25,1,No,No,No,,,Remission,1
+VP-0668,TJ301 300 mg,49,F,No,12,0.086,0,No,No,No,,,No remission,0
+VP-0669,Placebo,29,M,No,8,0.1,1,No,No,No,,,No remission,0
+VP-0670,TJ301 600 mg,53,F,Yes,10,0.3,0,No,No,No,,,No remission,0
+VP-0671,Placebo,18,F,Yes,9,0.079,1,No,No,No,,,No remission,0
+VP-0672,Placebo,36,F,No,7,0.125,0,No,No,No,,,No remission,0
+VP-0673,Placebo,46,M,No,7,0.125,0,No,No,Yes,Other reason,70,Discontinued,0
+VP-0674,TJ301 600 mg,30,F,No,10,0.3,1,No,No,No,,,Remission,1
+VP-0675,TJ301 600 mg,45,M,Yes,9,0.355,0,No,No,No,,,No remission,0
+VP-0676,Placebo,51,M,No,6,0.154,0,No,No,No,,,No remission,0
+VP-0677,Placebo,34,M,No,10,0.063,0,No,No,No,,,No remission,0
+VP-0678,TJ301 600 mg,29,M,Yes,11,0.25,2,Yes,Yes,Yes,Other reason,14,Discontinued,0
+VP-0679,Placebo,45,F,No,11,0.05,1,No,No,Yes,Other reason,28,Discontinued,0
+VP-0680,TJ301 600 mg,55,M,No,5,0.599,0,No,No,Yes,Other reason,14,Discontinued,0
+VP-0681,Placebo,39,F,Yes,5,0.19,0,No,No,No,,,Remission,1
+VP-0682,TJ301 300 mg,43,F,No,6,0.296,0,No,No,No,,,No remission,0
+VP-0683,Placebo,57,F,No,7,0.125,0,No,No,No,,,No remission,0
+VP-0684,TJ301 600 mg,24,M,No,9,0.355,2,No,No,No,,,No remission,0
+VP-0685,TJ301 300 mg,43,F,Yes,8,0.203,0,No,No,No,,,No remission,0
+VP-0686,Placebo,47,F,No,7,0.125,0,No,No,No,,,No remission,0
+VP-0687,TJ301 300 mg,59,M,No,11,0.107,0,No,No,Yes,Other reason,14,Discontinued,0
+VP-0688,Placebo,51,M,No,8,0.1,0,No,No,No,,,No remission,0
+VP-0689,Placebo,49,F,No,9,0.079,0,No,No,No,,,No remission,0
+VP-0690,Placebo,51,M,No,10,0.063,2,No,No,No,,,No remission,0
+VP-0691,TJ301 600 mg,70,M,Yes,10,0.3,0,No,No,No,,,No remission,0
+VP-0692,TJ301 600 mg,18,M,Yes,7,0.476,0,No,No,No,,,Remission,1
+VP-0693,TJ301 300 mg,31,F,Yes,11,0.107,3,No,No,No,,,No remission,0
+VP-0694,Placebo,44,F,Yes,9,0.079,0,No,No,No,,,No remission,0
+VP-0695,Placebo,20,M,No,7,0.125,0,No,No,Yes,Other reason,14,Discontinued,0
+VP-0696,Placebo,49,M,Yes,11,0.05,2,No,No,Yes,Other reason,14,Discontinued,0
+VP-0697,Placebo,35,M,No,11,0.05,1,No,No,No,,,No remission,0
+VP-0698,Placebo,32,F,No,6,0.154,0,No,No,No,,,No remission,0
+VP-0699,TJ301 300 mg,60,M,No,7,0.246,1,No,No,No,,,No remission,0
+VP-0700,Placebo,48,M,Yes,10,0.063,1,Yes,No,No,,,No remission,0
+VP-0701,TJ301 300 mg,44,M,No,7,0.246,1,No,Yes,Yes,Adverse event,39,Discontinued,0
+VP-0702,TJ301 300 mg,50,M,No,6,0.296,0,No,No,No,,,No remission,0
+VP-0703,Placebo,50,F,Yes,8,0.1,0,No,No,No,,,No remission,0
+VP-0704,TJ301 300 mg,34,M,No,8,0.203,1,No,No,Yes,Other reason,42,Discontinued,0
+VP-0705,TJ301 300 mg,47,M,No,9,0.165,4,No,No,No,,,No remission,0
+VP-0706,TJ301 300 mg,31,F,Yes,11,0.107,2,No,No,No,,,No remission,0
+VP-0707,TJ301 600 mg,30,M,No,6,0.538,1,No,No,Yes,Other reason,28,Discontinued,0
+VP-0708,TJ301 600 mg,27,F,Yes,9,0.355,0,No,No,No,,,No remission,0
+VP-0709,TJ301 300 mg,18,F,No,8,0.203,1,No,No,No,,,No remission,0
+VP-0710,TJ301 600 mg,56,M,No,9,0.355,0,No,No,No,,,Remission,1
+VP-0711,TJ301 600 mg,39,M,No,8,0.414,0,No,No,No,,,No remission,0
+VP-0712,TJ301 600 mg,57,M,No,7,0.476,0,No,No,No,,,No remission,0
+VP-0713,TJ301 300 mg,53,F,Yes,12,0.086,3,No,No,No,,,Remission,1
+VP-0714,TJ301 300 mg,31,F,No,11,0.107,1,No,No,No,,,No remission,0
+VP-0715,TJ301 300 mg,69,M,No,10,0.134,0,No,No,No,,,No remission,0
+VP-0716,TJ301 300 mg,60,M,Yes,9,0.165,1,No,No,No,,,Remission,1
+VP-0717,TJ301 300 mg,32,M,No,7,0.246,0,No,No,No,,,No remission,0
+VP-0718,TJ301 300 mg,31,M,No,8,0.203,0,No,No,No,,,No remission,0
+VP-0719,TJ301 600 mg,49,M,No,7,0.476,2,No,No,No,,,Remission,1
+VP-0720,TJ301 300 mg,27,F,Yes,7,0.246,0,No,No,No,,,No remission,0
+VP-0721,TJ301 300 mg,25,F,No,9,0.165,0,No,No,No,,,No remission,0
+VP-0722,TJ301 600 mg,30,M,Yes,9,0.355,0,No,No,Yes,Other reason,28,Discontinued,0
+VP-0723,Placebo,44,M,No,9,0.079,0,No,No,No,,,No remission,0
+VP-0724,Placebo,35,M,Yes,8,0.1,0,No,No,Yes,Other reason,14,Discontinued,0
+VP-0725,Placebo,36,F,No,10,0.063,0,No,No,No,,,No remission,0
+VP-0726,TJ301 300 mg,18,M,Yes,9,0.165,3,No,No,No,,,Remission,1
+VP-0727,TJ301 600 mg,70,M,Yes,6,0.538,0,No,No,No,,,No remission,0
+VP-0728,TJ301 600 mg,54,M,No,7,0.476,1,No,No,No,,,No remission,0
+VP-0729,Placebo,33,F,Yes,9,0.079,1,No,No,No,,,No remission,0
+VP-0730,TJ301 600 mg,45,M,No,7,0.476,0,No,No,No,,,Remission,1
+VP-0731,TJ301 300 mg,30,M,No,10,0.134,0,No,No,No,,,No remission,0
+VP-0732,TJ301 600 mg,25,M,Yes,8,0.414,1,No,No,No,,,Remission,1
+VP-0733,Placebo,43,M,No,12,0.039,1,No,No,Yes,Other reason,28,Discontinued,0
+VP-0734,TJ301 600 mg,41,F,No,8,0.414,1,No,No,No,,,Remission,1
+VP-0735,Placebo,44,M,Yes,9,0.079,1,No,No,No,,,No remission,0
+VP-0736,Placebo,52,M,No,5,0.19,2,No,No,No,,,No remission,0
+VP-0737,TJ301 600 mg,56,F,No,12,0.206,1,Yes,Yes,No,,,No remission,0
+VP-0738,Placebo,40,M,No,8,0.1,1,No,No,No,,,No remission,0
+VP-0739,Placebo,54,M,Yes,5,0.19,0,No,No,No,,,Remission,1
+VP-0740,TJ301 300 mg,37,M,No,9,0.165,1,No,No,No,,,Remission,1
+VP-0741,Placebo,22,M,Yes,8,0.1,0,No,No,No,,,No remission,0
+VP-0742,TJ301 300 mg,38,M,Yes,11,0.107,3,No,No,No,,,No remission,0
+VP-0743,Placebo,37,M,No,7,0.125,1,No,Yes,No,,,No remission,0
+VP-0744,TJ301 600 mg,33,F,Yes,12,0.206,1,No,No,Yes,Other reason,28,Discontinued,0
+VP-0745,Placebo,51,M,No,10,0.063,0,No,No,No,,,No remission,0
+VP-0746,TJ301 600 mg,19,F,Yes,9,0.355,2,No,No,No,,,No remission,0
+VP-0747,TJ301 300 mg,56,M,No,10,0.134,0,No,No,No,,,No remission,0
+VP-0748,Placebo,27,M,No,12,0.039,0,No,No,No,,,No remission,0
+VP-0749,TJ301 300 mg,33,F,No,9,0.165,2,No,No,No,,,No remission,0
+VP-0750,TJ301 600 mg,50,M,No,7,0.476,0,No,No,No,,,Remission,1
+VP-0751,TJ301 300 mg,37,M,No,5,0.35,4,No,No,No,,,Remission,1
+VP-0752,TJ301 300 mg,65,F,Yes,10,0.134,2,No,No,No,,,Remission,1
+VP-0753,Placebo,31,M,No,8,0.1,0,No,No,No,,,No remission,0
+VP-0754,Placebo,48,M,No,11,0.05,0,No,No,No,,,No remission,0
+VP-0755,TJ301 300 mg,60,M,Yes,9,0.165,0,No,No,No,,,No remission,0
+VP-0756,TJ301 300 mg,53,F,Yes,7,0.246,1,No,No,No,,,No remission,0
+VP-0757,TJ301 600 mg,27,M,No,8,0.414,1,No,No,No,,,Remission,1
+VP-0758,TJ301 600 mg,48,F,Yes,8,0.414,1,No,No,No,,,No remission,0
+VP-0759,TJ301 600 mg,41,F,No,6,0.538,2,No,No,No,,,Remission,1
+VP-0760,TJ301 600 mg,56,M,No,10,0.3,2,No,No,No,,,No remission,0
+VP-0761,TJ301 600 mg,50,M,No,8,0.414,4,No,No,Yes,Other reason,70,Discontinued,0
+VP-0762,Placebo,35,M,Yes,9,0.079,0,No,No,No,,,No remission,0
+VP-0763,TJ301 300 mg,52,F,Yes,6,0.296,3,Yes,No,No,,,No remission,0
+VP-0764,Placebo,52,M,No,6,0.154,0,No,No,No,,,No remission,0
+VP-0765,TJ301 300 mg,48,M,No,9,0.165,0,No,No,Yes,Other reason,56,Discontinued,0
+VP-0766,TJ301 300 mg,26,M,No,9,0.165,1,No,No,No,,,No remission,0
+VP-0767,TJ301 600 mg,36,F,No,8,0.414,2,No,No,No,,,No remission,0
+VP-0768,Placebo,31,M,Yes,7,0.125,0,No,No,No,,,No remission,0
+VP-0769,Placebo,39,M,Yes,10,0.063,1,No,Yes,No,,,No remission,0
+VP-0770,TJ301 300 mg,53,F,No,8,0.203,2,No,No,No,,,No remission,0
+VP-0771,TJ301 300 mg,46,F,Yes,6,0.296,1,No,No,Yes,Other reason,56,Discontinued,0
+VP-0772,TJ301 300 mg,52,F,Yes,8,0.203,1,No,No,Yes,Other reason,14,Discontinued,0
+VP-0773,Placebo,30,F,Yes,7,0.125,0,No,No,No,,,No remission,0
+VP-0774,TJ301 300 mg,42,M,No,7,0.246,2,No,No,Yes,Other reason,56,Discontinued,0
+VP-0775,TJ301 600 mg,48,M,Yes,7,0.476,0,No,No,No,,,No remission,0
+VP-0776,TJ301 300 mg,19,M,Yes,10,0.134,1,No,No,No,,,No remission,0
+VP-0777,Placebo,44,F,Yes,9,0.079,0,No,No,No,,,No remission,0
+VP-0778,TJ301 300 mg,18,M,Yes,12,0.086,0,No,No,No,,,Remission,1
+VP-0779,Placebo,22,F,Yes,10,0.063,0,No,No,No,,,No remission,0
+VP-0780,TJ301 300 mg,53,F,Yes,5,0.35,2,No,No,No,,,No remission,0
+VP-0781,TJ301 300 mg,44,M,No,9,0.165,1,No,No,Yes,Adverse event,42,Discontinued,0
+VP-0782,Placebo,23,M,No,6,0.154,1,No,No,No,,,Remission,1
+VP-0783,TJ301 300 mg,19,M,Yes,8,0.203,1,No,No,No,,,No remission,0
+VP-0784,Placebo,39,M,No,5,0.19,0,No,No,No,,,Remission,1
+VP-0785,TJ301 300 mg,42,M,No,9,0.165,0,No,No,No,,,Remission,1
+VP-0786,Placebo,29,M,No,6,0.154,0,No,No,No,,,No remission,0
+VP-0787,TJ301 300 mg,46,F,Yes,11,0.107,1,No,No,No,,,No remission,0
+VP-0788,Placebo,34,M,No,9,0.079,0,No,No,No,,,No remission,0
+VP-0789,Placebo,39,F,No,8,0.1,1,No,Yes,Yes,Adverse event,55,Discontinued,0
+VP-0790,TJ301 300 mg,45,F,No,10,0.134,0,No,No,No,,,No remission,0
+VP-0791,TJ301 300 mg,42,F,Yes,5,0.35,2,No,No,Yes,Other reason,42,Discontinued,0
+VP-0792,TJ301 600 mg,49,M,Yes,11,0.25,1,No,No,No,,,No remission,0
+VP-0793,Placebo,24,M,No,9,0.079,1,No,No,No,,,No remission,0
+VP-0794,Placebo,65,F,No,9,0.079,0,No,No,No,,,No remission,0
+VP-0795,TJ301 600 mg,21,F,No,10,0.3,2,No,No,No,,,No remission,0
+VP-0796,TJ301 600 mg,34,M,No,7,0.476,0,No,No,No,,,No remission,0
+VP-0797,TJ301 300 mg,66,M,No,5,0.35,0,No,No,No,,,No remission,0
+VP-0798,TJ301 600 mg,52,M,Yes,5,0.599,0,No,No,No,,,No remission,0
+VP-0799,TJ301 300 mg,39,M,No,10,0.134,1,No,No,No,,,No remission,0
+VP-0800,TJ301 300 mg,34,F,No,8,0.203,0,No,No,No,,,No remission,0
+VP-0801,TJ301 600 mg,40,M,No,11,0.25,0,No,No,No,,,No remission,0
+VP-0802,TJ301 300 mg,49,M,Yes,10,0.134,2,Yes,Yes,Yes,Adverse event,38,Discontinued,0
+VP-0803,TJ301 300 mg,18,M,No,9,0.165,1,No,No,No,,,No remission,0
+VP-0804,TJ301 300 mg,30,M,No,8,0.203,0,No,No,No,,,No remission,0
+VP-0805,TJ301 600 mg,42,M,No,10,0.3,1,No,No,No,,,Remission,1
+VP-0806,Placebo,35,M,Yes,10,0.063,0,No,No,No,,,No remission,0
+VP-0807,TJ301 600 mg,42,M,No,7,0.476,2,No,No,Yes,Other reason,14,Discontinued,0
+VP-0808,TJ301 600 mg,50,M,No,8,0.414,1,No,No,No,,,Remission,1
+VP-0809,Placebo,18,M,Yes,7,0.125,0,No,No,No,,,No remission,0
+VP-0810,TJ301 600 mg,39,F,Yes,7,0.476,2,No,No,No,,,No remission,0
+VP-0811,Placebo,28,F,Yes,12,0.039,1,No,No,No,,,No remission,0
+VP-0812,TJ301 300 mg,18,M,Yes,6,0.296,1,No,No,No,,,No remission,0
+VP-0813,TJ301 300 mg,31,M,No,9,0.165,0,No,No,No,,,No remission,0
+VP-0814,Placebo,47,F,No,12,0.039,1,No,No,No,,,No remission,0
+VP-0815,TJ301 300 mg,50,M,Yes,7,0.246,2,No,No,No,,,No remission,0
+VP-0816,TJ301 300 mg,49,M,Yes,9,0.165,1,No,No,No,,,No remission,0
+VP-0817,TJ301 600 mg,58,M,No,8,0.414,0,No,No,Yes,Other reason,56,Discontinued,0
+VP-0818,TJ301 300 mg,37,F,Yes,7,0.246,0,No,No,No,,,No remission,0
+VP-0819,Placebo,45,F,Yes,6,0.154,0,No,No,No,,,No remission,0
+VP-0820,Placebo,27,M,No,9,0.079,1,No,No,Yes,Other reason,42,Discontinued,0
+VP-0821,Placebo,59,M,No,10,0.063,0,No,No,No,,,No remission,0
+VP-0822,Placebo,49,M,No,7,0.125,0,No,No,No,,,No remission,0
+VP-0823,TJ301 600 mg,32,F,No,11,0.25,3,No,No,No,,,No remission,0
+VP-0824,TJ301 600 mg,34,M,No,12,0.206,1,No,No,No,,,No remission,0
+VP-0825,Placebo,50,F,Yes,8,0.1,0,No,No,No,,,No remission,0
+VP-0826,Placebo,28,M,No,8,0.1,1,No,No,No,,,No remission,0
+VP-0827,TJ301 300 mg,43,F,Yes,8,0.203,0,No,No,No,,,No remission,0
+VP-0828,Placebo,32,M,No,8,0.1,0,No,No,No,,,No remission,0
+VP-0829,Placebo,29,M,Yes,7,0.125,0,No,No,No,,,No remission,0
+VP-0830,Placebo,70,F,No,6,0.154,0,No,No,No,,,No remission,0
+VP-0831,TJ301 300 mg,24,F,Yes,5,0.35,0,No,No,No,,,No remission,0
+VP-0832,TJ301 300 mg,34,M,Yes,10,0.134,0,No,No,No,,,No remission,0
+VP-0833,TJ301 300 mg,41,M,Yes,10,0.134,1,No,No,No,,,No remission,0
+VP-0834,Placebo,18,F,No,7,0.125,0,No,No,No,,,No remission,0
+VP-0835,TJ301 600 mg,52,F,No,6,0.538,0,No,No,No,,,No remission,0
+VP-0836,TJ301 600 mg,18,M,No,9,0.355,0,No,No,No,,,No remission,0
+VP-0837,TJ301 600 mg,39,F,No,8,0.414,0,No,No,No,,,No remission,0
+VP-0838,TJ301 600 mg,37,F,Yes,7,0.476,1,No,No,Yes,Other reason,56,Discontinued,0
+VP-0839,TJ301 300 mg,40,F,Yes,9,0.165,0,No,No,No,,,No remission,0
+VP-0840,TJ301 600 mg,43,F,No,7,0.476,1,No,No,No,,,No remission,0
+VP-0841,TJ301 300 mg,39,M,Yes,10,0.134,0,No,No,No,,,No remission,0
+VP-0842,TJ301 600 mg,54,F,Yes,7,0.476,0,No,No,No,,,Remission,1
+VP-0843,Placebo,67,F,No,12,0.039,1,No,No,No,,,No remission,0
+VP-0844,Placebo,40,M,No,10,0.063,2,No,No,No,,,No remission,0
+VP-0845,TJ301 600 mg,59,M,Yes,9,0.355,2,No,No,No,,,No remission,0
+VP-0846,TJ301 300 mg,39,F,No,11,0.107,0,No,No,No,,,No remission,0
+VP-0847,TJ301 300 mg,38,M,Yes,8,0.203,0,No,No,No,,,Remission,1
+VP-0848,Placebo,33,M,No,10,0.063,0,No,No,No,,,No remission,0
+VP-0849,Placebo,53,M,No,11,0.05,0,No,No,No,,,Remission,1
+VP-0850,TJ301 300 mg,51,F,No,8,0.203,1,No,No,Yes,Other reason,28,Discontinued,0
+VP-0851,TJ301 300 mg,50,F,Yes,10,0.134,0,No,No,No,,,No remission,0
+VP-0852,TJ301 600 mg,29,F,Yes,7,0.476,0,No,No,No,,,Remission,1
+VP-0853,TJ301 300 mg,49,F,Yes,9,0.165,3,No,No,No,,,No remission,0
+VP-0854,TJ301 600 mg,38,M,No,8,0.414,1,No,No,No,,,Remission,1
+VP-0855,Placebo,23,M,No,6,0.154,0,No,No,No,,,No remission,0
+VP-0856,Placebo,68,F,No,12,0.039,1,No,No,No,,,No remission,0
+VP-0857,TJ301 600 mg,26,F,Yes,8,0.414,0,No,No,No,,,Remission,1
+VP-0858,TJ301 600 mg,33,M,No,10,0.3,3,No,No,Yes,Adverse event,0,Discontinued,0
+VP-0859,Placebo,60,M,Yes,11,0.05,0,No,No,No,,,No remission,0
+VP-0860,Placebo,49,M,No,10,0.063,0,No,No,No,,,No remission,0
+VP-0861,TJ301 600 mg,42,F,Yes,10,0.3,0,No,No,No,,,No remission,0
+VP-0862,TJ301 300 mg,22,M,Yes,11,0.107,0,No,No,Yes,Other reason,56,Discontinued,0
+VP-0863,Placebo,54,M,No,8,0.1,0,No,No,No,,,No remission,0
+VP-0864,TJ301 600 mg,30,F,No,9,0.355,0,No,No,No,,,Remission,1
+VP-0865,Placebo,27,F,No,9,0.079,0,No,No,No,,,No remission,0
+VP-0866,TJ301 600 mg,34,F,Yes,6,0.538,0,No,No,Yes,Other reason,42,Discontinued,0
+VP-0867,TJ301 600 mg,40,F,No,6,0.538,0,No,No,No,,,Remission,1
+VP-0868,TJ301 300 mg,44,M,No,8,0.203,1,No,No,No,,,No remission,0
+VP-0869,TJ301 300 mg,29,M,No,12,0.086,0,No,No,No,,,No remission,0
+VP-0870,Placebo,52,F,No,10,0.063,1,No,No,Yes,Other reason,56,Discontinued,0
+VP-0871,TJ301 300 mg,23,M,Yes,7,0.246,0,No,No,No,,,No remission,0
+VP-0872,TJ301 600 mg,33,F,Yes,8,0.414,0,No,No,No,,,Remission,1
+VP-0873,TJ301 300 mg,24,F,No,7,0.246,0,No,No,No,,,No remission,0
+VP-0874,TJ301 300 mg,38,F,Yes,9,0.165,1,No,No,No,,,No remission,0
+VP-0875,TJ301 300 mg,40,F,No,7,0.246,1,No,No,No,,,No remission,0
+VP-0876,Placebo,60,M,Yes,10,0.063,0,No,No,No,,,No remission,0
+VP-0877,Placebo,41,F,Yes,6,0.154,0,No,No,No,,,No remission,0
+VP-0878,TJ301 300 mg,39,M,Yes,12,0.086,0,No,No,No,,,Remission,1
+VP-0879,TJ301 600 mg,35,F,No,7,0.476,1,No,No,No,,,No remission,0
+VP-0880,Placebo,39,M,Yes,7,0.125,0,No,No,No,,,No remission,0
+VP-0881,TJ301 600 mg,60,M,No,8,0.414,2,No,No,No,,,No remission,0
+VP-0882,TJ301 600 mg,31,F,Yes,9,0.355,0,No,No,No,,,Remission,1
+VP-0883,TJ301 300 mg,42,M,Yes,7,0.246,2,No,No,No,,,Remission,1
+VP-0884,TJ301 300 mg,48,M,No,5,0.35,0,No,No,No,,,No remission,0
+VP-0885,TJ301 300 mg,58,M,No,7,0.246,0,No,No,No,,,Remission,1
+VP-0886,TJ301 600 mg,52,F,No,7,0.476,0,No,No,No,,,No remission,0
+VP-0887,TJ301 300 mg,39,M,No,9,0.165,0,No,No,No,,,No remission,0
+VP-0888,TJ301 600 mg,37,F,Yes,8,0.414,2,No,No,No,,,No remission,0
+VP-0889,Placebo,26,F,Yes,10,0.063,0,No,No,No,,,No remission,0
+VP-0890,TJ301 300 mg,45,M,No,8,0.203,0,No,No,No,,,Remission,1
+VP-0891,TJ301 300 mg,55,M,No,9,0.165,0,No,No,No,,,No remission,0
+VP-0892,TJ301 300 mg,54,M,Yes,8,0.203,0,No,No,No,,,No remission,0
+VP-0893,TJ301 300 mg,31,M,Yes,10,0.134,0,No,No,No,,,No remission,0
+VP-0894,TJ301 300 mg,29,F,Yes,7,0.246,0,No,No,No,,,No remission,0
+VP-0895,TJ301 300 mg,50,F,Yes,9,0.165,0,No,No,Yes,Other reason,14,Discontinued,0
+VP-0896,Placebo,34,F,No,8,0.1,0,No,No,No,,,No remission,0
+VP-0897,TJ301 300 mg,31,M,No,7,0.246,0,No,No,No,,,Remission,1
+VP-0898,Placebo,36,M,Yes,5,0.19,0,No,No,No,,,Remission,1
+VP-0899,TJ301 600 mg,34,F,No,10,0.3,0,No,No,Yes,Other reason,42,Discontinued,0
+VP-0900,Placebo,49,M,No,8,0.1,1,No,No,No,,,Remission,1
+VP-0901,TJ301 600 mg,31,F,No,7,0.476,1,No,No,No,,,No remission,0
+VP-0902,Placebo,30,M,No,8,0.1,0,No,No,No,,,No remission,0
+VP-0903,Placebo,29,M,Yes,8,0.1,0,No,No,No,,,No remission,0
+VP-0904,TJ301 600 mg,38,M,Yes,6,0.538,2,No,No,No,,,No remission,0
+VP-0905,TJ301 600 mg,19,M,Yes,12,0.206,0,No,No,No,,,No remission,0
+VP-0906,TJ301 600 mg,32,M,No,10,0.3,1,No,No,No,,,No remission,0
+VP-0907,TJ301 600 mg,47,F,Yes,6,0.538,0,No,No,Yes,Other reason,56,Discontinued,0
+VP-0908,Placebo,47,M,Yes,11,0.05,0,No,No,No,,,No remission,0
+VP-0909,TJ301 300 mg,39,M,Yes,12,0.086,3,No,No,No,,,No remission,0
+VP-0910,TJ301 300 mg,49,M,Yes,9,0.165,0,No,No,Yes,Other reason,14,Discontinued,0
+VP-0911,TJ301 600 mg,43,M,Yes,11,0.25,3,No,No,No,,,No remission,0
+VP-0912,TJ301 300 mg,63,F,Yes,11,0.107,1,No,No,No,,,No remission,0
+VP-0913,Placebo,28,M,No,11,0.05,0,No,No,No,,,No remission,0
+VP-0914,TJ301 600 mg,35,M,No,10,0.3,2,No,No,No,,,No remission,0
+VP-0915,Placebo,60,F,Yes,8,0.1,1,No,No,No,,,No remission,0
+VP-0916,TJ301 300 mg,48,M,No,9,0.165,2,No,No,No,,,No remission,0
+VP-0917,TJ301 300 mg,23,M,Yes,7,0.246,2,No,No,No,,,Remission,1
+VP-0918,TJ301 300 mg,26,M,No,6,0.296,1,No,No,No,,,No remission,0
+VP-0919,TJ301 600 mg,24,F,No,7,0.476,0,No,No,No,,,No remission,0
+VP-0920,TJ301 300 mg,47,F,No,8,0.203,0,No,No,No,,,No remission,0
+VP-0921,TJ301 300 mg,28,F,No,8,0.203,0,No,No,Yes,Other reason,14,Discontinued,0
+VP-0922,TJ301 600 mg,39,M,Yes,6,0.538,3,No,No,No,,,No remission,0
+VP-0923,TJ301 600 mg,40,M,No,5,0.599,0,No,No,No,,,Remission,1
+VP-0924,TJ301 300 mg,42,F,No,6,0.296,0,No,No,No,,,No remission,0
+VP-0925,Placebo,31,M,No,10,0.063,0,No,No,No,,,No remission,0
+VP-0926,TJ301 600 mg,42,F,No,5,0.599,3,No,No,Yes,Other reason,56,Discontinued,0
+VP-0927,TJ301 300 mg,50,M,Yes,9,0.165,2,No,No,No,,,No remission,0
+VP-0928,TJ301 600 mg,20,F,Yes,10,0.3,5,No,No,No,,,Remission,1
+VP-0929,Placebo,42,M,No,6,0.154,0,No,No,No,,,No remission,0
+VP-0930,TJ301 600 mg,53,M,No,9,0.355,4,No,No,No,,,No remission,0
+VP-0931,TJ301 600 mg,28,M,No,9,0.355,1,No,No,No,,,No remission,0
+VP-0932,TJ301 300 mg,35,M,No,7,0.246,1,Yes,No,No,,,No remission,0
+VP-0933,Placebo,46,M,Yes,7,0.125,0,No,No,No,,,No remission,0
+VP-0934,TJ301 600 mg,49,M,No,6,0.538,0,No,No,No,,,Remission,1
+VP-0935,TJ301 300 mg,35,F,Yes,9,0.165,1,No,No,No,,,No remission,0
+VP-0936,Placebo,32,M,No,10,0.063,0,No,No,No,,,No remission,0
+VP-0937,Placebo,38,M,No,9,0.079,0,No,No,Yes,Other reason,56,Discontinued,0
+VP-0938,Placebo,30,M,Yes,9,0.079,0,No,No,No,,,No remission,0
+VP-0939,TJ301 300 mg,53,M,Yes,7,0.246,0,No,No,Yes,Other reason,56,Discontinued,0
+VP-0940,TJ301 600 mg,41,F,No,6,0.538,0,No,No,No,,,Remission,1
+VP-0941,Placebo,37,F,No,11,0.05,1,No,No,Yes,Other reason,28,Discontinued,0
+VP-0942,Placebo,20,M,No,6,0.154,1,No,No,Yes,Adverse event,20,Discontinued,0
+VP-0943,TJ301 300 mg,57,M,Yes,7,0.246,0,No,No,No,,,No remission,0
+VP-0944,TJ301 600 mg,52,M,Yes,8,0.414,1,No,No,No,,,Remission,1
+VP-0945,Placebo,33,F,No,10,0.063,0,No,No,No,,,No remission,0
+VP-0946,TJ301 600 mg,33,M,No,9,0.355,2,No,No,No,,,No remission,0
+VP-0947,TJ301 300 mg,26,M,No,8,0.203,2,No,No,No,,,Remission,1
+VP-0948,TJ301 600 mg,25,F,Yes,8,0.414,1,No,No,Yes,Other reason,70,Discontinued,0
+VP-0949,Placebo,31,M,No,6,0.154,0,No,No,No,,,No remission,0
+VP-0950,TJ301 600 mg,25,F,Yes,9,0.355,1,No,No,No,,,Remission,1
+VP-0951,Placebo,35,F,No,9,0.079,0,No,No,No,,,No remission,0
+VP-0952,Placebo,38,M,No,8,0.1,0,No,No,No,,,No remission,0
+VP-0953,Placebo,18,M,Yes,7,0.125,0,No,No,No,,,No remission,0
+VP-0954,TJ301 300 mg,57,M,Yes,7,0.246,0,No,No,No,,,No remission,0
+VP-0955,TJ301 600 mg,67,F,No,10,0.3,0,No,No,No,,,No remission,0
+VP-0956,TJ301 600 mg,44,F,No,11,0.25,0,No,No,No,,,No remission,0
+VP-0957,Placebo,25,M,No,9,0.079,0,No,No,Yes,Other reason,14,Discontinued,0
+VP-0958,Placebo,63,F,Yes,7,0.125,0,No,No,No,,,No remission,0
+VP-0959,TJ301 600 mg,41,M,Yes,8,0.414,0,No,No,Yes,Other reason,56,Discontinued,0
+VP-0960,TJ301 600 mg,38,F,Yes,8,0.414,1,No,No,No,,,No remission,0
+VP-0961,Placebo,46,F,Yes,6,0.154,0,No,No,No,,,No remission,0
+VP-0962,TJ301 300 mg,23,F,Yes,8,0.203,0,No,No,No,,,No remission,0
+VP-0963,TJ301 300 mg,30,F,No,8,0.203,2,No,No,No,,,No remission,0
+VP-0964,TJ301 300 mg,48,F,Yes,8,0.203,0,No,No,No,,,No remission,0
+VP-0965,TJ301 300 mg,55,M,Yes,8,0.203,2,No,No,Yes,Adverse event,40,Discontinued,0
+VP-0966,TJ301 300 mg,69,F,Yes,7,0.246,1,No,No,No,,,No remission,0
+VP-0967,Placebo,18,M,Yes,8,0.1,0,No,No,No,,,No remission,0
+VP-0968,TJ301 600 mg,18,M,No,10,0.3,0,No,No,No,,,No remission,0
+VP-0969,TJ301 600 mg,35,M,Yes,7,0.476,1,No,No,No,,,Remission,1
+VP-0970,Placebo,45,M,No,9,0.079,3,Yes,No,No,,,No remission,0
+VP-0971,TJ301 300 mg,37,M,Yes,9,0.165,0,No,No,No,,,No remission,0
+VP-0972,TJ301 300 mg,67,M,No,6,0.296,1,No,No,No,,,Remission,1
+VP-0973,Placebo,48,F,No,5,0.19,1,No,No,No,,,No remission,0
+VP-0974,TJ301 600 mg,27,M,No,7,0.476,1,No,No,No,,,Remission,1
+VP-0975,TJ301 600 mg,60,F,Yes,12,0.206,0,No,No,No,,,No remission,0
+VP-0976,TJ301 600 mg,35,M,Yes,9,0.355,0,No,No,No,,,No remission,0
+VP-0977,TJ301 600 mg,45,M,No,7,0.476,0,No,No,No,,,No remission,0
+VP-0978,Placebo,40,M,No,8,0.1,1,Yes,No,No,,,Remission,1
+VP-0979,Placebo,46,F,Yes,9,0.079,0,No,No,No,,,No remission,0
+VP-0980,TJ301 600 mg,54,M,No,12,0.206,1,No,Yes,No,,,No remission,0
+VP-0981,TJ301 300 mg,49,F,No,8,0.203,0,No,No,No,,,Remission,1
+VP-0982,TJ301 600 mg,61,F,Yes,9,0.355,0,No,No,No,,,Remission,1
+VP-0983,TJ301 300 mg,40,M,No,7,0.246,0,No,No,No,,,No remission,0
+VP-0984,Placebo,50,M,No,12,0.039,0,No,No,Yes,Other reason,42,Discontinued,0
+VP-0985,TJ301 600 mg,59,M,Yes,8,0.414,0,No,No,No,,,No remission,0
+VP-0986,TJ301 300 mg,63,M,No,8,0.203,0,No,No,No,,,No remission,0
+VP-0987,TJ301 300 mg,67,F,Yes,10,0.134,2,No,Yes,No,,,No remission,0
+VP-0988,Placebo,34,F,No,6,0.154,0,No,No,No,,,No remission,0
+VP-0989,TJ301 300 mg,47,F,No,9,0.165,0,No,No,No,,,Remission,1
+VP-0990,Placebo,40,F,No,11,0.05,0,No,No,Yes,Other reason,28,Discontinued,0
+VP-0991,TJ301 300 mg,47,M,No,6,0.296,0,No,No,No,,,No remission,0
+VP-0992,Placebo,19,F,Yes,10,0.063,0,No,No,Yes,Other reason,28,Discontinued,0
+VP-0993,TJ301 300 mg,55,M,Yes,8,0.203,1,No,No,No,,,Remission,1
+VP-0994,TJ301 600 mg,54,F,Yes,5,0.599,0,No,No,No,,,No remission,0
+VP-0995,TJ301 600 mg,37,M,Yes,6,0.538,3,No,No,Yes,Other reason,14,Discontinued,0
+VP-0996,TJ301 300 mg,24,F,Yes,7,0.246,0,No,No,No,,,No remission,0
+VP-0997,TJ301 300 mg,55,M,No,8,0.203,1,No,No,No,,,No remission,0
+VP-0998,TJ301 300 mg,41,M,Yes,7,0.246,0,No,No,No,,,No remission,0
+VP-0999,TJ301 300 mg,40,F,No,7,0.246,0,No,No,No,,,No remission,0
+VP-1000,TJ301 600 mg,23,M,No,9,0.355,2,No,No,No,,,No remission,0

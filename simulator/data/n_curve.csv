@@ -1,0 +1,12 @@
+n_per_arm,endpoint,power
+20,Remission (protocol assumptions),0.531
+30,Remission (protocol assumptions),0.75
+40,Remission (protocol assumptions),0.856
+50,Remission (protocol assumptions),0.919
+60,Remission (protocol assumptions),0.965
+80,Remission (protocol assumptions),0.99
+30,Clinical response (published rates),0.488
+45,Clinical response (published rates),0.637
+60,Clinical response (published rates),0.762
+80,Clinical response (published rates),0.856
+100,Clinical response (published rates),0.921

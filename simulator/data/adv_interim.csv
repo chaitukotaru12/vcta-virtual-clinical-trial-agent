@@ -1,0 +1,7 @@
+truth,n_per_arm,p_stop,power_no_rule,power_with_rule,key
+Drug does nothing (11% vs 11%),30,0.754,0.056,0.048,Drug does nothing (11% vs 11%) | 30
+Drug does nothing (11% vs 11%),80,0.751,0.052,0.045,Drug does nothing (11% vs 11%) | 80
+Realistic benefit (11% vs 22%),30,0.51,0.274,0.238,Realistic benefit (11% vs 22%) | 30
+Realistic benefit (11% vs 22%),80,0.323,0.497,0.447,Realistic benefit (11% vs 22%) | 80
+Protocol assumption (10% vs 40%),30,0.151,0.795,0.741,Protocol assumption (10% vs 40%) | 30
+Protocol assumption (10% vs 40%),80,0.018,0.99,0.975,Protocol assumption (10% vs 40%) | 80

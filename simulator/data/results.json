@@ -1,0 +1,1002 @@
+{
+ "validation": {
+  "claim_600": 0.83,
+  "claim_pooled": 0.7,
+  "exact_pairwise_24": 0.8053618560566191,
+  "analytic_pairwise_24": 0.7895869107759443,
+  "trend_24": {
+   "0.1": 0.843165,
+   "0.15": 0.82997,
+   "0.2": 0.81685,
+   "0.25": 0.80262,
+   "0.3": 0.78781
+  },
+  "pooled_48v24": 0.6511724370725188,
+  "pooled_60v30": 0.7092461130019981
+ },
+ "headline": {
+  "scenario": "Protocol assumptions, as randomised (30/arm, 20% dropout, ITT-NRI)",
+  "n_per_arm": 30,
+  "dropout": 0.2,
+  "alpha": 0.05,
+  "rates": {
+   "Placebo": 0.1,
+   "TJ301 300 mg": 0.2,
+   "TJ301 600 mg": 0.4
+  },
+  "power_600_itt_chisq": 0.8033333333333333,
+  "power_pooled_itt_chisq": 0.6473333333333333,
+  "power_600_completers_chisq": 0.8153333333333334,
+  "obs_rate_mean": [
+   0.07914444444444207,
+   0.16091111111111187,
+   0.3226777777777745
+  ],
+  "diff600_q": [
+   0.06666666666666668,
+   0.23333333333333334,
+   0.4
+  ],
+  "zero_placebo_remitters": 0.084,
+  "sims": 3000,
+  "power_600_itt_logistic": 0.7496666666666667,
+  "power_300_itt_logistic": 0.179,
+  "power_pooled_itt_logistic": 0.5526666666666666
+ },
+ "headline_a20": {
+  "scenario": "Same, one-sided alpha 0.20",
+  "n_per_arm": 30,
+  "dropout": 0.2,
+  "alpha": 0.2,
+  "rates": {
+   "Placebo": 0.1,
+   "TJ301 300 mg": 0.2,
+   "TJ301 600 mg": 0.4
+  },
+  "power_600_itt_chisq": 0.954,
+  "power_pooled_itt_chisq": 0.8973333333333333,
+  "power_600_completers_chisq": 0.9533333333333334,
+  "obs_rate_mean": [
+   0.07914444444444207,
+   0.16091111111111187,
+   0.3226777777777745
+  ],
+  "diff600_q": [
+   0.06666666666666668,
+   0.23333333333333334,
+   0.4
+  ],
+  "zero_placebo_remitters": 0.084,
+  "sims": 3000,
+  "power_600_itt_logistic": 0.9476666666666667,
+  "power_300_itt_logistic": 0.5303333333333333,
+  "power_pooled_itt_logistic": 0.8756666666666667
+ },
+ "effect_curve": [
+  {
+   "scenario": "600mg=0.15",
+   "n_per_arm": 30,
+   "dropout": 0.2,
+   "alpha": 0.05,
+   "rates": {
+    "Placebo": 0.1,
+    "TJ301 300 mg": 0.2,
+    "TJ301 600 mg": 0.15
+   },
+   "power_600_itt_chisq": 0.15433333333333332,
+   "power_pooled_itt_chisq": 0.21666666666666667,
+   "power_600_completers_chisq": 0.14333333333333334,
+   "obs_rate_mean": [
+    0.07914444444444207,
+    0.16091111111111187,
+    0.12117777777777759
+   ],
+   "diff600_q": [
+    -0.06666666666666668,
+    0.03333333333333334,
+    0.16666666666666669
+   ],
+   "zero_placebo_remitters": 0.084,
+   "sims": 3000,
+   "power_600_itt_logistic": 0.07733333333333334,
+   "power_300_itt_logistic": 0.18533333333333332,
+   "power_pooled_itt_logistic": 0.11466666666666667
+  },
+  {
+   "scenario": "600mg=0.2",
+   "n_per_arm": 30,
+   "dropout": 0.2,
+   "alpha": 0.05,
+   "rates": {
+    "Placebo": 0.1,
+    "TJ301 300 mg": 0.2,
+    "TJ301 600 mg": 0.2
+   },
+   "power_600_itt_chisq": 0.2723333333333333,
+   "power_pooled_itt_chisq": 0.296,
+   "power_600_completers_chisq": 0.262,
+   "obs_rate_mean": [
+    0.07914444444444207,
+    0.16091111111111187,
+    0.16113333333333407
+   ],
+   "diff600_q": [
+    -0.06666666666666665,
+    0.06666666666666668,
+    0.23333333333333334
+   ],
+   "zero_placebo_remitters": 0.084,
+   "sims": 3000,
+   "power_600_itt_logistic": 0.18466666666666667,
+   "power_300_itt_logistic": 0.185,
+   "power_pooled_itt_logistic": 0.18366666666666667
+  },
+  {
+   "scenario": "600mg=0.25",
+   "n_per_arm": 30,
+   "dropout": 0.2,
+   "alpha": 0.05,
+   "rates": {
+    "Placebo": 0.1,
+    "TJ301 300 mg": 0.2,
+    "TJ301 600 mg": 0.25
+   },
+   "power_600_itt_chisq": 0.4046666666666667,
+   "power_pooled_itt_chisq": 0.391,
+   "power_600_completers_chisq": 0.4093333333333333,
+   "obs_rate_mean": [
+    0.07914444444444207,
+    0.16091111111111187,
+    0.20103333333333387
+   ],
+   "diff600_q": [
+    -0.033333333333333326,
+    0.13333333333333333,
+    0.26666666666666666
+   ],
+   "zero_placebo_remitters": 0.084,
+   "sims": 3000,
+   "power_600_itt_logistic": 0.319,
+   "power_300_itt_logistic": 0.182,
+   "power_pooled_itt_logistic": 0.26766666666666666
+  },
+  {
+   "scenario": "600mg=0.3",
+   "n_per_arm": 30,
+   "dropout": 0.2,
+   "alpha": 0.05,
+   "rates": {
+    "Placebo": 0.1,
+    "TJ301 300 mg": 0.2,
+    "TJ301 600 mg": 0.3
+   },
+   "power_600_itt_chisq": 0.561,
+   "power_pooled_itt_chisq": 0.4756666666666667,
+   "power_600_completers_chisq": 0.564,
+   "obs_rate_mean": [
+    0.07914444444444207,
+    0.16091111111111187,
+    0.24141111111111177
+   ],
+   "diff600_q": [
+    0.0,
+    0.16666666666666666,
+    0.30000000000000004
+   ],
+   "zero_placebo_remitters": 0.084,
+   "sims": 3000,
+   "power_600_itt_logistic": 0.473,
+   "power_300_itt_logistic": 0.182,
+   "power_pooled_itt_logistic": 0.36033333333333334
+  },
+  {
+   "scenario": "600mg=0.35",
+   "n_per_arm": 30,
+   "dropout": 0.2,
+   "alpha": 0.05,
+   "rates": {
+    "Placebo": 0.1,
+    "TJ301 300 mg": 0.2,
+    "TJ301 600 mg": 0.35
+   },
+   "power_600_itt_chisq": 0.6946666666666667,
+   "power_pooled_itt_chisq": 0.5653333333333334,
+   "power_600_completers_chisq": 0.6983333333333334,
+   "obs_rate_mean": [
+    0.07914444444444207,
+    0.16091111111111187,
+    0.2822111111111103
+   ],
+   "diff600_q": [
+    0.033333333333333354,
+    0.2,
+    0.3666666666666667
+   ],
+   "zero_placebo_remitters": 0.084,
+   "sims": 3000,
+   "power_600_itt_logistic": 0.6243333333333333,
+   "power_300_itt_logistic": 0.182,
+   "power_pooled_itt_logistic": 0.45666666666666667
+  },
+  {
+   "scenario": "600mg=0.4",
+   "n_per_arm": 30,
+   "dropout": 0.2,
+   "alpha": 0.05,
+   "rates": {
+    "Placebo": 0.1,
+    "TJ301 300 mg": 0.2,
+    "TJ301 600 mg": 0.4
+   },
+   "power_600_itt_chisq": 0.8033333333333333,
+   "power_pooled_itt_chisq": 0.6473333333333333,
+   "power_600_completers_chisq": 0.8153333333333334,
+   "obs_rate_mean": [
+    0.07914444444444207,
+    0.16091111111111187,
+    0.3226777777777745
+   ],
+   "diff600_q": [
+    0.06666666666666668,
+    0.23333333333333334,
+    0.4
+   ],
+   "zero_placebo_remitters": 0.084,
+   "sims": 3000,
+   "power_600_itt_logistic": 0.7496666666666667,
+   "power_300_itt_logistic": 0.179,
+   "power_pooled_itt_logistic": 0.5526666666666666
+  },
+  {
+   "scenario": "600mg=0.45",
+   "n_per_arm": 30,
+   "dropout": 0.2,
+   "alpha": 0.05,
+   "rates": {
+    "Placebo": 0.1,
+    "TJ301 300 mg": 0.2,
+    "TJ301 600 mg": 0.45
+   },
+   "power_600_itt_chisq": 0.8843333333333333,
+   "power_pooled_itt_chisq": 0.716,
+   "power_600_completers_chisq": 0.891,
+   "obs_rate_mean": [
+    0.07914444444444207,
+    0.16091111111111187,
+    0.3624666666666617
+   ],
+   "diff600_q": [
+    0.1333333333333333,
+    0.3,
+    0.43333333333333335
+   ],
+   "zero_placebo_remitters": 0.084,
+   "sims": 3000,
+   "power_600_itt_logistic": 0.8476666666666667,
+   "power_300_itt_logistic": 0.18033333333333335,
+   "power_pooled_itt_logistic": 0.6336666666666667
+  },
+  {
+   "scenario": "600mg=0.5",
+   "n_per_arm": 30,
+   "dropout": 0.2,
+   "alpha": 0.05,
+   "rates": {
+    "Placebo": 0.1,
+    "TJ301 300 mg": 0.2,
+    "TJ301 600 mg": 0.5
+   },
+   "power_600_itt_chisq": 0.9313333333333333,
+   "power_pooled_itt_chisq": 0.7823333333333333,
+   "power_600_completers_chisq": 0.9393333333333334,
+   "obs_rate_mean": [
+    0.07914444444444207,
+    0.16091111111111187,
+    0.40234444444444073
+   ],
+   "diff600_q": [
+    0.13333333333333336,
+    0.3333333333333333,
+    0.5
+   ],
+   "zero_placebo_remitters": 0.084,
+   "sims": 3000,
+   "power_600_itt_logistic": 0.915,
+   "power_300_itt_logistic": 0.177,
+   "power_pooled_itt_logistic": 0.7116666666666667
+  }
+ ],
+ "placebo_curve": [
+  {
+   "scenario": "pbo=0.0",
+   "n_per_arm": 30,
+   "dropout": 0.2,
+   "alpha": 0.05,
+   "rates": {
+    "Placebo": 0.0,
+    "TJ301 300 mg": 0.2,
+    "TJ301 600 mg": 0.4
+   },
+   "power_600_itt_chisq": 0.9993333333333333,
+   "power_pooled_itt_chisq": 0.9993333333333333,
+   "power_600_completers_chisq": 0.999,
+   "obs_rate_mean": [
+    0.0,
+    0.16091111111111187,
+    0.3226777777777745
+   ],
+   "diff600_q": [
+    0.2,
+    0.3333333333333333,
+    0.4666666666666667
+   ],
+   "zero_placebo_remitters": 1.0,
+   "sims": 3000,
+   "power_600_itt_logistic": 0.9883333333333333,
+   "power_300_itt_logistic": 0.5746666666666667,
+   "power_pooled_itt_logistic": 0.9773333333333334
+  },
+  {
+   "scenario": "pbo=0.05",
+   "n_per_arm": 30,
+   "dropout": 0.2,
+   "alpha": 0.05,
+   "rates": {
+    "Placebo": 0.05,
+    "TJ301 300 mg": 0.2,
+    "TJ301 600 mg": 0.4
+   },
+   "power_600_itt_chisq": 0.939,
+   "power_pooled_itt_chisq": 0.884,
+   "power_600_completers_chisq": 0.9416666666666667,
+   "obs_rate_mean": [
+    0.03882222222222153,
+    0.16091111111111187,
+    0.3226777777777745
+   ],
+   "diff600_q": [
+    0.13333333333333333,
+    0.3,
+    0.43333333333333335
+   ],
+   "zero_placebo_remitters": 0.314,
+   "sims": 3000,
+   "power_600_itt_logistic": 0.9033333333333333,
+   "power_300_itt_logistic": 0.344,
+   "power_pooled_itt_logistic": 0.7996666666666666
+  },
+  {
+   "scenario": "pbo=0.1",
+   "n_per_arm": 30,
+   "dropout": 0.2,
+   "alpha": 0.05,
+   "rates": {
+    "Placebo": 0.1,
+    "TJ301 300 mg": 0.2,
+    "TJ301 600 mg": 0.4
+   },
+   "power_600_itt_chisq": 0.8033333333333333,
+   "power_pooled_itt_chisq": 0.6473333333333333,
+   "power_600_completers_chisq": 0.8153333333333334,
+   "obs_rate_mean": [
+    0.07914444444444207,
+    0.16091111111111187,
+    0.3226777777777745
+   ],
+   "diff600_q": [
+    0.06666666666666668,
+    0.23333333333333334,
+    0.4
+   ],
+   "zero_placebo_remitters": 0.084,
+   "sims": 3000,
+   "power_600_itt_logistic": 0.7496666666666667,
+   "power_300_itt_logistic": 0.179,
+   "power_pooled_itt_logistic": 0.5526666666666666
+  },
+  {
+   "scenario": "pbo=0.15",
+   "n_per_arm": 30,
+   "dropout": 0.2,
+   "alpha": 0.05,
+   "rates": {
+    "Placebo": 0.15,
+    "TJ301 300 mg": 0.2,
+    "TJ301 600 mg": 0.4
+   },
+   "power_600_itt_chisq": 0.624,
+   "power_pooled_itt_chisq": 0.406,
+   "power_600_completers_chisq": 0.6413333333333333,
+   "obs_rate_mean": [
+    0.11948888888888858,
+    0.16091111111111187,
+    0.3226777777777745
+   ],
+   "diff600_q": [
+    0.033333333333333326,
+    0.19999999999999998,
+    0.3666666666666667
+   ],
+   "zero_placebo_remitters": 0.025,
+   "sims": 3000,
+   "power_600_itt_logistic": 0.5653333333333334,
+   "power_300_itt_logistic": 0.08566666666666667,
+   "power_pooled_itt_logistic": 0.33
+  },
+  {
+   "scenario": "pbo=0.2",
+   "n_per_arm": 30,
+   "dropout": 0.2,
+   "alpha": 0.05,
+   "rates": {
+    "Placebo": 0.2,
+    "TJ301 300 mg": 0.2,
+    "TJ301 600 mg": 0.4
+   },
+   "power_600_itt_chisq": 0.4603333333333333,
+   "power_pooled_itt_chisq": 0.23133333333333334,
+   "power_600_completers_chisq": 0.4786666666666667,
+   "obs_rate_mean": [
+    0.15972222222222324,
+    0.16091111111111187,
+    0.3226777777777745
+   ],
+   "diff600_q": [
+    -0.033333333333333326,
+    0.16666666666666666,
+    0.33333333333333337
+   ],
+   "zero_placebo_remitters": 0.007333333333333333,
+   "sims": 3000,
+   "power_600_itt_logistic": 0.3983333333333333,
+   "power_300_itt_logistic": 0.035,
+   "power_pooled_itt_logistic": 0.17133333333333334
+  }
+ ],
+ "dropout_curve": [
+  {
+   "scenario": "drop=0",
+   "n_per_arm": 30,
+   "dropout": 0,
+   "alpha": 0.05,
+   "rates": {
+    "Placebo": 0.1,
+    "TJ301 300 mg": 0.2,
+    "TJ301 600 mg": 0.4
+   },
+   "power_600_itt_chisq": 0.8916666666666667,
+   "power_pooled_itt_chisq": 0.7503333333333333,
+   "power_600_completers_chisq": 0.8916666666666667,
+   "obs_rate_mean": [
+    0.09956666666666567,
+    0.20034444444444546,
+    0.402255555555552
+   ],
+   "diff600_q": [
+    0.13333333333333333,
+    0.30000000000000004,
+    0.4666666666666667
+   ],
+   "zero_placebo_remitters": 0.042,
+   "sims": 3000,
+   "power_600_itt_logistic": 0.8633333333333333,
+   "power_300_itt_logistic": 0.235,
+   "power_pooled_itt_logistic": 0.683
+  },
+  {
+   "scenario": "drop=0.1",
+   "n_per_arm": 30,
+   "dropout": 0.1,
+   "alpha": 0.05,
+   "rates": {
+    "Placebo": 0.1,
+    "TJ301 300 mg": 0.2,
+    "TJ301 600 mg": 0.4
+   },
+   "power_600_itt_chisq": 0.852,
+   "power_pooled_itt_chisq": 0.692,
+   "power_600_completers_chisq": 0.8526666666666667,
+   "obs_rate_mean": [
+    0.08987777777777572,
+    0.18092222222222343,
+    0.3629222222222188
+   ],
+   "diff600_q": [
+    0.1,
+    0.26666666666666666,
+    0.43333333333333335
+   ],
+   "zero_placebo_remitters": 0.06,
+   "sims": 3000,
+   "power_600_itt_logistic": 0.8116666666666666,
+   "power_300_itt_logistic": 0.20866666666666667,
+   "power_pooled_itt_logistic": 0.6186666666666667
+  },
+  {
+   "scenario": "drop=0.2",
+   "n_per_arm": 30,
+   "dropout": 0.2,
+   "alpha": 0.05,
+   "rates": {
+    "Placebo": 0.1,
+    "TJ301 300 mg": 0.2,
+    "TJ301 600 mg": 0.4
+   },
+   "power_600_itt_chisq": 0.8033333333333333,
+   "power_pooled_itt_chisq": 0.6473333333333333,
+   "power_600_completers_chisq": 0.8153333333333334,
+   "obs_rate_mean": [
+    0.07914444444444207,
+    0.16091111111111187,
+    0.3226777777777745
+   ],
+   "diff600_q": [
+    0.06666666666666668,
+    0.23333333333333334,
+    0.4
+   ],
+   "zero_placebo_remitters": 0.084,
+   "sims": 3000,
+   "power_600_itt_logistic": 0.7496666666666667,
+   "power_300_itt_logistic": 0.179,
+   "power_pooled_itt_logistic": 0.5526666666666666
+  },
+  {
+   "scenario": "drop=0.3",
+   "n_per_arm": 30,
+   "dropout": 0.3,
+   "alpha": 0.05,
+   "rates": {
+    "Placebo": 0.1,
+    "TJ301 300 mg": 0.2,
+    "TJ301 600 mg": 0.4
+   },
+   "power_600_itt_chisq": 0.7453333333333333,
+   "power_pooled_itt_chisq": 0.5923333333333334,
+   "power_600_completers_chisq": 0.771,
+   "obs_rate_mean": [
+    0.06916666666666468,
+    0.14106666666666726,
+    0.2826777777777772
+   ],
+   "diff600_q": [
+    0.06666666666666667,
+    0.2,
+    0.3666666666666667
+   ],
+   "zero_placebo_remitters": 0.11766666666666667,
+   "sims": 3000,
+   "power_600_itt_logistic": 0.6783333333333333,
+   "power_300_itt_logistic": 0.149,
+   "power_pooled_itt_logistic": 0.4623333333333333
+  },
+  {
+   "scenario": "drop=0.4",
+   "n_per_arm": 30,
+   "dropout": 0.4,
+   "alpha": 0.05,
+   "rates": {
+    "Placebo": 0.1,
+    "TJ301 300 mg": 0.2,
+    "TJ301 600 mg": 0.4
+   },
+   "power_600_itt_chisq": 0.6913333333333334,
+   "power_pooled_itt_chisq": 0.534,
+   "power_600_completers_chisq": 0.7086666666666667,
+   "obs_rate_mean": [
+    0.05887777777777615,
+    0.12125555555555566,
+    0.24293333333333397
+   ],
+   "diff600_q": [
+    0.03333333333333334,
+    0.19999999999999998,
+    0.3333333333333333
+   ],
+   "zero_placebo_remitters": 0.16766666666666666,
+   "sims": 3000,
+   "power_600_itt_logistic": 0.5963333333333334,
+   "power_300_itt_logistic": 0.11233333333333333,
+   "power_pooled_itt_logistic": 0.376
+  }
+ ],
+ "n_curve": [
+  {
+   "scenario": "n=20",
+   "n_per_arm": 20,
+   "dropout": 0.2,
+   "alpha": 0.05,
+   "rates": {
+    "Placebo": 0.1,
+    "TJ301 300 mg": 0.2,
+    "TJ301 600 mg": 0.4
+   },
+   "power_600_itt_chisq": 0.6306666666666667,
+   "power_pooled_itt_chisq": 0.4623333333333333,
+   "power_600_completers_chisq": 0.6553333333333333,
+   "obs_rate_mean": [
+    0.08141666666666751,
+    0.16144999999999948,
+    0.3199333333333326
+   ],
+   "diff600_q": [
+    0.04999999999999999,
+    0.24999999999999997,
+    0.45
+   ],
+   "zero_placebo_remitters": 0.177,
+   "sims": 3000,
+   "power_600_itt_logistic": 0.5306666666666666,
+   "power_300_itt_logistic": 0.09533333333333334,
+   "power_pooled_itt_logistic": 0.319
+  },
+  {
+   "scenario": "n=30",
+   "n_per_arm": 30,
+   "dropout": 0.2,
+   "alpha": 0.05,
+   "rates": {
+    "Placebo": 0.1,
+    "TJ301 300 mg": 0.2,
+    "TJ301 600 mg": 0.4
+   },
+   "power_600_itt_chisq": 0.8033333333333333,
+   "power_pooled_itt_chisq": 0.6473333333333333,
+   "power_600_completers_chisq": 0.8153333333333334,
+   "obs_rate_mean": [
+    0.07914444444444207,
+    0.16091111111111187,
+    0.3226777777777745
+   ],
+   "diff600_q": [
+    0.06666666666666668,
+    0.23333333333333334,
+    0.4
+   ],
+   "zero_placebo_remitters": 0.084,
+   "sims": 3000,
+   "power_600_itt_logistic": 0.7496666666666667,
+   "power_300_itt_logistic": 0.179,
+   "power_pooled_itt_logistic": 0.5526666666666666
+  },
+  {
+   "scenario": "n=40",
+   "n_per_arm": 40,
+   "dropout": 0.2,
+   "alpha": 0.05,
+   "rates": {
+    "Placebo": 0.1,
+    "TJ301 300 mg": 0.2,
+    "TJ301 600 mg": 0.4
+   },
+   "power_600_itt_chisq": 0.877,
+   "power_pooled_itt_chisq": 0.745,
+   "power_600_completers_chisq": 0.8943333333333333,
+   "obs_rate_mean": [
+    0.08061666666666649,
+    0.16058333333333338,
+    0.3214916666666667
+   ],
+   "diff600_q": [
+    0.1,
+    0.24999999999999997,
+    0.375
+   ],
+   "zero_placebo_remitters": 0.038,
+   "sims": 3000,
+   "power_600_itt_logistic": 0.8563333333333333,
+   "power_300_itt_logistic": 0.235,
+   "power_pooled_itt_logistic": 0.6936666666666667
+  },
+  {
+   "scenario": "n=50",
+   "n_per_arm": 50,
+   "dropout": 0.2,
+   "alpha": 0.05,
+   "rates": {
+    "Placebo": 0.1,
+    "TJ301 300 mg": 0.2,
+    "TJ301 600 mg": 0.4
+   },
+   "power_600_itt_chisq": 0.929,
+   "power_pooled_itt_chisq": 0.8216666666666667,
+   "power_600_completers_chisq": 0.947,
+   "obs_rate_mean": [
+    0.07972000000000057,
+    0.16026000000000187,
+    0.31915333333333246
+   ],
+   "diff600_q": [
+    0.12,
+    0.24,
+    0.36000000000000004
+   ],
+   "zero_placebo_remitters": 0.011666666666666667,
+   "sims": 3000,
+   "power_600_itt_logistic": 0.9186666666666666,
+   "power_300_itt_logistic": 0.30266666666666664,
+   "power_pooled_itt_logistic": 0.789
+  },
+  {
+   "scenario": "n=60",
+   "n_per_arm": 60,
+   "dropout": 0.2,
+   "alpha": 0.05,
+   "rates": {
+    "Placebo": 0.1,
+    "TJ301 300 mg": 0.2,
+    "TJ301 600 mg": 0.4
+   },
+   "power_600_itt_chisq": 0.9653333333333334,
+   "power_pooled_itt_chisq": 0.8793333333333333,
+   "power_600_completers_chisq": 0.9753333333333334,
+   "obs_rate_mean": [
+    0.07909444444444497,
+    0.15871111111111033,
+    0.3201777777777792
+   ],
+   "diff600_q": [
+    0.13333333333333333,
+    0.24999999999999997,
+    0.35000000000000003
+   ],
+   "zero_placebo_remitters": 0.006666666666666667,
+   "sims": 3000,
+   "power_600_itt_logistic": 0.965,
+   "power_300_itt_logistic": 0.36,
+   "power_pooled_itt_logistic": 0.8593333333333333
+  },
+  {
+   "scenario": "n=80",
+   "n_per_arm": 80,
+   "dropout": 0.2,
+   "alpha": 0.05,
+   "rates": {
+    "Placebo": 0.1,
+    "TJ301 300 mg": 0.2,
+    "TJ301 600 mg": 0.4
+   },
+   "power_600_itt_chisq": 0.9896666666666667,
+   "power_pooled_itt_chisq": 0.9566666666666667,
+   "power_600_completers_chisq": 0.994,
+   "obs_rate_mean": [
+    0.07952916666666657,
+    0.16145000000000034,
+    0.31888750000000055
+   ],
+   "diff600_q": [
+    0.15,
+    0.2375,
+    0.3375
+   ],
+   "zero_placebo_remitters": 0.0013333333333333333,
+   "sims": 3000,
+   "power_600_itt_logistic": 0.9903333333333333,
+   "power_300_itt_logistic": 0.4533333333333333,
+   "power_pooled_itt_logistic": 0.95
+  }
+ ],
+ "reality_remission": {
+  "scenario": "Published week-12 remission rates as truth",
+  "n_per_arm": 30,
+  "dropout": 0.13,
+  "alpha": 0.05,
+  "rates": {
+   "Placebo": 0.0,
+   "TJ301 300 mg": 0.067,
+   "TJ301 600 mg": 0.207
+  },
+  "power_600_itt_chisq": 0.925,
+  "power_pooled_itt_chisq": 0.7363333333333333,
+  "power_600_completers_chisq": 0.923,
+  "obs_rate_mean": [
+   0.0,
+   0.05793333333333188,
+   0.18104444444444528
+  ],
+  "diff600_q": [
+   0.06666666666666667,
+   0.16666666666666666,
+   0.3
+  ],
+  "zero_placebo_remitters": 1.0,
+  "sims": 3000,
+  "power_600_itt_logistic": 0.7273333333333334,
+  "power_300_itt_logistic": 0.051666666666666666,
+  "power_pooled_itt_logistic": 0.37033333333333335
+ },
+ "reality_response": {
+  "scenario": "Published week-12 clinical response rates as truth",
+  "n_per_arm": 30,
+  "dropout": 0.13,
+  "alpha": 0.05,
+  "rates": {
+   "Placebo": 0.345,
+   "TJ301 300 mg": 0.433,
+   "TJ301 600 mg": 0.586
+  },
+  "power_600_itt_chisq": 0.49633333333333335,
+  "power_pooled_itt_chisq": 0.3863333333333333,
+  "power_600_completers_chisq": 0.5506666666666666,
+  "obs_rate_mean": [
+   0.29914444444444266,
+   0.37897777777777436,
+   0.511300000000001
+  ],
+  "diff600_q": [
+   0.0,
+   0.2,
+   0.4333333333333333
+  ],
+  "zero_placebo_remitters": 0.0,
+  "sims": 3000,
+  "power_600_itt_logistic": 0.4876666666666667,
+  "power_300_itt_logistic": 0.14533333333333334,
+  "power_pooled_itt_logistic": 0.3383333333333333
+ },
+ "n_curve_response": [
+  {
+   "scenario": "resp n=30",
+   "n_per_arm": 30,
+   "dropout": 0.13,
+   "alpha": 0.05,
+   "rates": {
+    "Placebo": 0.345,
+    "TJ301 300 mg": 0.433,
+    "TJ301 600 mg": 0.586
+   },
+   "power_600_itt_chisq": 0.49633333333333335,
+   "power_pooled_itt_chisq": 0.3863333333333333,
+   "power_600_completers_chisq": 0.5506666666666666,
+   "obs_rate_mean": [
+    0.29914444444444266,
+    0.37897777777777436,
+    0.511300000000001
+   ],
+   "diff600_q": [
+    0.0,
+    0.2,
+    0.4333333333333333
+   ],
+   "zero_placebo_remitters": 0.0,
+   "sims": 3000,
+   "power_600_itt_logistic": 0.4876666666666667,
+   "power_300_itt_logistic": 0.14533333333333334,
+   "power_pooled_itt_logistic": 0.3383333333333333
+  },
+  {
+   "scenario": "resp n=45",
+   "n_per_arm": 45,
+   "dropout": 0.13,
+   "alpha": 0.05,
+   "rates": {
+    "Placebo": 0.345,
+    "TJ301 300 mg": 0.433,
+    "TJ301 600 mg": 0.586
+   },
+   "power_600_itt_chisq": 0.6603333333333333,
+   "power_pooled_itt_chisq": 0.47333333333333333,
+   "power_600_completers_chisq": 0.6883333333333334,
+   "obs_rate_mean": [
+    0.3014740740740769,
+    0.3752666666666684,
+    0.5108370370370373
+   ],
+   "diff600_q": [
+    0.04444444444444445,
+    0.2,
+    0.37777777777777777
+   ],
+   "zero_placebo_remitters": 0.0,
+   "sims": 3000,
+   "power_600_itt_logistic": 0.6366666666666667,
+   "power_300_itt_logistic": 0.16733333333333333,
+   "power_pooled_itt_logistic": 0.462
+  },
+  {
+   "scenario": "resp n=60",
+   "n_per_arm": 60,
+   "dropout": 0.13,
+   "alpha": 0.05,
+   "rates": {
+    "Placebo": 0.345,
+    "TJ301 300 mg": 0.433,
+    "TJ301 600 mg": 0.586
+   },
+   "power_600_itt_chisq": 0.7796666666666666,
+   "power_pooled_itt_chisq": 0.5773333333333334,
+   "power_600_completers_chisq": 0.8053333333333333,
+   "obs_rate_mean": [
+    0.300416666666668,
+    0.37504444444444496,
+    0.5098611111111098
+   ],
+   "diff600_q": [
+    0.06666666666666665,
+    0.21666666666666667,
+    0.35000000000000003
+   ],
+   "zero_placebo_remitters": 0.0,
+   "sims": 3000,
+   "power_600_itt_logistic": 0.7623333333333333,
+   "power_300_itt_logistic": 0.21766666666666667,
+   "power_pooled_itt_logistic": 0.5756666666666667
+  },
+  {
+   "scenario": "resp n=80",
+   "n_per_arm": 80,
+   "dropout": 0.13,
+   "alpha": 0.05,
+   "rates": {
+    "Placebo": 0.345,
+    "TJ301 300 mg": 0.433,
+    "TJ301 600 mg": 0.586
+   },
+   "power_600_itt_chisq": 0.8526666666666667,
+   "power_pooled_itt_chisq": 0.713,
+   "power_600_completers_chisq": 0.8913333333333333,
+   "obs_rate_mean": [
+    0.3001874999999998,
+    0.37696666666666717,
+    0.508708333333333
+   ],
+   "diff600_q": [
+    0.08749999999999997,
+    0.21249999999999997,
+    0.325
+   ],
+   "zero_placebo_remitters": 0.0,
+   "sims": 3000,
+   "power_600_itt_logistic": 0.8556666666666667,
+   "power_300_itt_logistic": 0.25633333333333336,
+   "power_pooled_itt_logistic": 0.701
+  },
+  {
+   "scenario": "resp n=100",
+   "n_per_arm": 100,
+   "dropout": 0.13,
+   "alpha": 0.05,
+   "rates": {
+    "Placebo": 0.345,
+    "TJ301 300 mg": 0.433,
+    "TJ301 600 mg": 0.586
+   },
+   "power_600_itt_chisq": 0.9163333333333333,
+   "power_pooled_itt_chisq": 0.7796666666666666,
+   "power_600_completers_chisq": 0.9476666666666667,
+   "obs_rate_mean": [
+    0.29998333333333105,
+    0.37644666666666593,
+    0.5084566666666638
+   ],
+   "diff600_q": [
+    0.09999999999999998,
+    0.21,
+    0.32000000000000006
+   ],
+   "zero_placebo_remitters": 0.0,
+   "sims": 3000,
+   "power_600_itt_logistic": 0.921,
+   "power_300_itt_logistic": 0.30566666666666664,
+   "power_pooled_itt_logistic": 0.783
+  }
+ ],
+ "safety": {
+  "0.005": {
+   "30": 0.13961580808530394,
+   "60": 0.2597390423032955
+  },
+  "0.01": {
+   "30": 0.2602996266117198,
+   "60": 0.4528433576092388
+  },
+  "0.02": {
+   "30": 0.4545156806175631,
+   "60": 0.7024468573078796
+  },
+  "0.05": {
+   "30": 0.7853612360570628,
+   "60": 0.953930201013048
+  }
+ }
+}

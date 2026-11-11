@@ -1,0 +1,16 @@
+n_per_arm,endpoint,power
+30,Clinical response (33% vs 53%),0.341
+45,Clinical response (33% vs 53%),0.473
+60,Clinical response (33% vs 53%),0.561
+80,Clinical response (33% vs 53%),0.685
+100,Clinical response (33% vs 53%),0.786
+30,Remission (11% vs 22%),0.198
+45,Remission (11% vs 22%),0.31
+60,Remission (11% vs 22%),0.399
+80,Remission (11% vs 22%),0.498
+100,Remission (11% vs 22%),0.577
+30,Remission (protocol 10% vs 40%),0.742
+45,Remission (protocol 10% vs 40%),0.894
+60,Remission (protocol 10% vs 40%),0.957
+80,Remission (protocol 10% vs 40%),0.992
+100,Remission (protocol 10% vs 40%),0.999

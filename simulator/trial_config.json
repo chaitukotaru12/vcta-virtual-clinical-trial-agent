@@ -1,0 +1,47 @@
+{
+  "_source": "Protocol CTJ301UC201 v1.1 (16 May 2017), TJ301 IV in active ulcerative colitis. Values below are extracted from the protocol; items marked ASSUMED are not stated there and were chosen for the prototype.",
+  "study": {
+    "phase": "II",
+    "design": "randomised, double-blind, placebo-controlled, parallel, 3 arms",
+    "treatment_weeks": 12,
+    "dosing_days": [0, 14, 28, 42, 56, 70]
+  },
+  "arms": [
+    {"name": "Placebo",      "dose_mg": 0,   "allocation": 1},
+    {"name": "TJ301 300 mg", "dose_mg": 300, "allocation": 1},
+    {"name": "TJ301 600 mg", "dose_mg": 600, "allocation": 1}
+  ],
+  "enrolment": {"total_randomised": 90, "evaluable_target": 72, "dropout_rate": 0.20},
+  "stratification": {
+    "prior_corticosteroids_prob": 0.45,
+    "pk_substudy_n": 24,
+    "_note": "prior_corticosteroids_prob is ASSUMED; protocol states only that randomisation is stratified by it"
+  },
+  "population": {
+    "age_range": [18, 70],
+    "baseline_full_mayo_range": [5, 12],
+    "baseline_full_mayo_weights": [0.06, 0.12, 0.17, 0.20, 0.18, 0.13, 0.09, 0.05],
+    "_note": "Inclusion: full Mayo >=5, rectal bleeding >=1, endoscopy >=2. Distribution across 5..12 is ASSUMED (centred ~8)."
+  },
+  "primary_endpoint": {
+    "name": "Clinical and endoscopic remission at Week 12",
+    "definition": "full Mayo <=2, no subscore >1, rectal bleeding = 0",
+    "type": "binary",
+    "missing_data_rule": "non-responder imputation (missing = not in remission)"
+  },
+  "protocol_assumptions": {
+    "remission_rate": {"Placebo": 0.10, "TJ301 300 mg": 0.20, "TJ301 600 mg": 0.40},
+    "_note": "Placebo 10% and 600 mg 40% are stated. 300 mg is not stated; 20% is ASSUMED so that pooled active = 30%, matching the protocol's 10% vs 30% pooled comparison."
+  },
+  "baseline_mayo_log_odds_per_point": -0.25,
+  "_baseline_note": "ASSUMED: each extra baseline Mayo point lowers odds of remission (OR ~0.78). Arm intercepts are calibrated so marginal rates equal the assumptions.",
+  "analysis": {
+    "sample_size_method": "Pearson chi-square without continuity correction, one-sided alpha 0.05",
+    "primary_model": "logistic regression: treatment + prior corticosteroids + PK substudy + baseline full Mayo",
+    "alpha_one_sided": [0.05, 0.20],
+    "protocol_power_claims": {
+      "600mg_vs_placebo_n24_per_arm": 0.83,
+      "pooled_active_vs_placebo_n24_vs_48": 0.70
+    }
+  }
+}

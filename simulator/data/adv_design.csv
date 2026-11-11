@@ -1,0 +1,8 @@
+option,total_patients,n_active,n_placebo,alpha_one_sided,power_remission,power_response
+"As planned: 3 arms x 30, one-sided α 0.05",90,30,30,0.05,0.26,0.365
+"As planned, one-sided α 0.20 (protocol's exploratory level)",90,30,30,0.2,0.566,0.681
+"Same 90 patients, drop 300 mg: 45 vs 45",90,45,45,0.05,0.339,0.481
+"Same 90 patients, 2 arms 2:1 (60 vs 30)",90,60,30,0.05,0.278,0.432
+3 arms x 60 (180 patients),180,60,60,0.05,0.412,0.58
+3 arms x 80 (240 patients),240,80,80,0.05,0.5,0.689
+"2 arms x 80, one-sided α 0.10 (160 patients)",160,80,80,0.1,0.643,0.805

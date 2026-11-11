@@ -1,0 +1,5 @@
+adverse_event,concern_rate,rationale,trigger_at_20,trigger_at_40,trigger_at_60
+Serious infection,0.05,IL-6 class risk; protocol AE of special interest,3,4,6
+Neutrophil count decreased (clinically significant),0.1,Seen in earlier TJ301 studies,4,7,10
+ALT or AST above 3x ULN,0.1,IL-6 class liver-enzyme effect,4,7,10
+Gastrointestinal perforation or abscess,0.0,Signal reported with an IL-6 antibody in Crohn's disease: any single case triggers an immediate unblinded review,1,1,1

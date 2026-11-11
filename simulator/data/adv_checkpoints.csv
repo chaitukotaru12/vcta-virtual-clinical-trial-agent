@@ -1,0 +1,7 @@
+id,when,checkpoint,go,act
+c1,Before first patient,Assumptions signed off against benchmarks,"Placebo and effect assumptions sit within the published benchmark range, and the power table is approved",Re-size or change the endpoint before enrolment starts
+c2,Monthly during enrolment,Enrolment pace and baseline mix,On plan; baseline Mayo and endoscopy subscores match the population assumed,"Add sites, or review entry criteria if patients are milder than planned (milder patients raise placebo response)"
+c3,First 45 patients complete week 12 (blinded),Pooled remission rate across all arms,At or above 16%: consistent with the protocol assumptions,"Below 16%: only a 1-in-10 chance under the assumptions, so the effect is probably smaller; trigger blinded sample-size re-estimation. Near 11%: consistent with no drug effect"
+c4,Throughout (blinded),Dropout rate,"20% or less, as planned",Above 25%: act on retention; at 30% dropout power under the protocol assumptions falls to about 66%
+c5,"Halfway (unblinded, independent committee)",Interim futility,Conditional power of 20% or more: continue,Below 20%: stop for futility and redirect resources
+c6,Continuous (unblinded committee),Safety triggers,Below the trigger counts in the safety table,"Any gastrointestinal perforation or abscess, or reaching a trigger count: immediate review of benefit and risk"

@@ -1,0 +1,6 @@
+scenario,kind,placebo,dose300,dose600,power_protocol_design,power_alpha20,n_per_arm_for_80
+Protocol assumption,Protocol,0.1,0.2,0.4,0.745,0.939,34
+"Benchmark: typical placebo, strong drug",Benchmark,0.11,0.18,0.3,0.4,0.78,73
+Benchmark: typical new-mechanism phase 2,Benchmark,0.11,0.15,0.22,0.184,0.526,182
+"Benchmark: East Asian placebo, typical drug",Benchmark,0.13,0.16,0.22,0.143,0.445,287
+Pessimistic: weak drug,Stress test,0.13,0.13,0.18,0.079,0.323,839

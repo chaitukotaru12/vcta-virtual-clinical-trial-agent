@@ -1,0 +1,11 @@
+id,severity,area,finding
+f1,High,Effect size,The 600 mg assumption of 40% remission matches the strongest UC phase 2 result on record (tofacitinib). New mechanisms such as etrolizumab and ozanimod reached about 16-21%. At typical benchmark rates (11% vs 22%) the planned design has about 18% power.
+f2,High,Sample size,"About 182 patients per arm would be needed for 80% power on remission at benchmark rates (chi-square approximation), against 30 planned."
+f3,Medium,Sample size text,"The 83% power figure is reproduced only with a dose-trend test (83%); a pairwise test gives 80%. The 70% pooled figure needs all 90 patients (71%), not the 72 evaluable stated (65%)."
+f4,Medium,Analysis method,"Power was computed for a chi-square test but the primary analysis is adjusted logistic regression, which gives about 75% as randomised. In 8% of simulated trials no placebo patient remits, so a plain logistic model fails; Firth or exact logistic regression is not pre-specified."
+f5,Medium,Dose arms,The 300 mg arm uses a third of the patients but has only about 18% power against placebo at the assumed 20% remission.
+f6,Medium,Placebo response,Twelve weeks with fortnightly disease assessments (7 visits) and an entry bar of full Mayo 5 or more are all associated with higher placebo rates in the meta-analyses; East Asian trials average 13% placebo remission.
+f7,Medium,Endpoint,"The primary endpoint uses the full Mayo score with physician global assessment; regulators now favour the modified Mayo score, so phase 2 data may not bridge cleanly to phase 3."
+f8,Medium,Monitoring,Only a blinded Safety Review Committee is planned: there is no interim futility look and no unblinded data monitoring committee to compare arms.
+f9,Medium,Safety,"An IL-6 antibody in Crohn's disease showed gastrointestinal abscess and perforation. With 60 patients on active drug, a 1-in-100 event is seen at all only about 45% of the time."
+f10,Strength,Design,"Central endoscopy reading, an endoscopy subscore of 2 or more at entry, stratified randomisation and non-responder imputation are all in place and are associated with lower placebo rates and less bias."

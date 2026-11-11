@@ -1,0 +1,8 @@
+metric,value
+power_600_itt_chisq,0.803
+power_600_itt_logistic,0.75
+power_300_itt_logistic,0.179
+power_pooled_itt_logistic,0.553
+power_600_completers_chisq,0.815
+zero_placebo_remitters,0.084
+power_600_itt_logistic_alpha20,0.948

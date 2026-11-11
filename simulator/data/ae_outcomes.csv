@@ -1,0 +1,16 @@
+arm,outcome,events,share,key
+Placebo,Recovered,138,0.8263,Placebo|Recovered
+TJ301 300 mg,Recovered,211,0.8242,TJ301 300 mg|Recovered
+TJ301 600 mg,Recovered,238,0.8322,TJ301 600 mg|Recovered
+Placebo,Recovering,14,0.0838,Placebo|Recovering
+TJ301 300 mg,Recovering,21,0.082,TJ301 300 mg|Recovering
+TJ301 600 mg,Recovering,24,0.0839,TJ301 600 mg|Recovering
+Placebo,Not recovered,13,0.0778,Placebo|Not recovered
+TJ301 300 mg,Not recovered,21,0.082,TJ301 300 mg|Not recovered
+TJ301 600 mg,Not recovered,21,0.0734,TJ301 600 mg|Not recovered
+Placebo,Recovered with sequelae,0,0.0,Placebo|Recovered with sequelae
+TJ301 300 mg,Recovered with sequelae,1,0.0039,TJ301 300 mg|Recovered with sequelae
+TJ301 600 mg,Recovered with sequelae,2,0.007,TJ301 600 mg|Recovered with sequelae
+Placebo,Worse,2,0.012,Placebo|Worse
+TJ301 300 mg,Worse,2,0.0078,TJ301 300 mg|Worse
+TJ301 600 mg,Worse,1,0.0035,TJ301 600 mg|Worse

@@ -1,0 +1,5 @@
+check,label,protocol_claim,simulated,method
+600mg_vs_placebo,"600 mg vs placebo (10% vs 40%, 24/arm)",0.83,0.805,"Pairwise chi-square, exact enumeration"
+600mg_trend,Dose trend across 3 arms (300 mg at 15%),0.83,0.83,"Cochran-Armitage trend test, simulated"
+pooled_evaluable,"Pooled active vs placebo (30% vs 10%), 72 evaluable",0.7,0.651,"Chi-square, exact enumeration, 48 vs 24"
+pooled_randomised,"Pooled active vs placebo, all 90 randomised",0.7,0.709,"Chi-square, normal approximation, 60 vs 30"
