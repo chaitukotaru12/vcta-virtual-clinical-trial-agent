@@ -140,7 +140,7 @@ The protocol itself is not redistributed here; it is publicly posted on Clinical
 
 ## About
 
-Built by **Durga Prasad Gotteti (PG)** — analytics lead with a clinical background (Master of Physiotherapy, Neurology; former senior physiotherapist) and an Executive PG in Data Science, ML & AI (IIT Roorkee, in progress). This project combines clinical-trial understanding, statistical simulation and agentic-AI design.
+Built by **Chaitanya Kotaru** | Pharmaceutical professional with 13+ years of experience in clinical outsourcing, strategic sourcing and vendor management. MSc Pharmaceutical Sciences | Strategic Digital Leadership Programme, ISB. Exploring the intersection of Pharma, AI, Data Science and Agentic AI to transform clinical research and healthcare operations.
 
 ## License
 
